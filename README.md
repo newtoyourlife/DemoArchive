@@ -3,8 +3,8 @@
 </h1>
 
 <div align="center">
-  <a href="preview1.png">
-    <img src="Preview1.png" alt="Preview" width="auto" height="auto">
+  <a href="preview2.png">
+    <img src="preview2.png" alt="preview" width="auto" height="auto">
   </a>
 </div>
 
@@ -29,3 +29,9 @@ Use the following search filters to refine your results:
 _Make sure you have a space between search filters and no space after the colon._
 
 Example query: `weapon:dsr map:nuketown player:fax tags:rel kills:4`
+
+<div align="center">
+  <a href="preview1.png">
+    <img src="preview1.png" alt="preview" width="auto" height="auto">
+  </a>
+</div>
