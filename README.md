@@ -28,7 +28,7 @@ Use the following search filters to refine your results:
 
 _Make sure you have a space between search filters and no space after the colon._
 
-Example query: `weapon:dsr map:nuketown player:fax tags:rel kills:4`
+Example query: `weapon:dsr map:nuketown player:fax tags:rel kills:3`
 
 <div align="center">
   <a href="preview1.png">
