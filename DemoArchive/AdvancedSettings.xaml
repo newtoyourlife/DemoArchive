@@ -1,0 +1,68 @@
+﻿<Window x:Class="DemoArchive.AdvancedSettings"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DemoArchive"
+        xmlns:Wpf="clr-namespace:Microsoft.Web.WebView2.Wpf;assembly=Microsoft.Web.WebView2.Wpf"
+        mc:Ignorable="d" WindowStyle="None" WindowStartupLocation="CenterScreen" MouseLeftButtonDown="Window_MouseLeftButtonDown" ResizeMode="CanResizeWithGrip" AllowsTransparency="True"  
+        Title="" Height="550" Width="590" MinHeight="430" MinWidth="415">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="*"/>
+            <!-- Make the second row star-sized to allow it to take up remaining vertical space -->
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Background="#373737">
+            <TextBlock VerticalAlignment="Center" HorizontalAlignment="Left" Text="Statistics" FontSize="10" Margin="5,0,0,0" FontFamily="Lucida Console" Foreground="White"/>
+            <Button Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Right" Width="17" Height="17" Margin="0,0,20,0" Content="☐" FontSize="9" Background="#f5f7ff" Click="Button_Click"/>
+            <Button x:Name="btnClose" Click="btnClose_Click" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Right" Width="17" Height="17" Margin="0,0,2,0" Content="X" FontSize="9" Background="#f5f7ff"/>
+        </Grid>
+
+        <!-- ScrollViewer for the second row content -->
+        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="5*"/>
+                    <ColumnDefinition Width="5*"/>
+                    <ColumnDefinition Width="5*"/>
+                    <ColumnDefinition Width="5*"/>
+                    <ColumnDefinition Width="5*"/>
+                </Grid.ColumnDefinitions>
+
+                <!-- Left Grid (Weapon Tally) -->
+                <Grid Grid.Row="1" Grid.Column="0" Background="DarkGray">
+                    <StackPanel Name="weaponsTallyStackPanel" Margin="0">
+                        <TextBlock Text="Weapons:" FontSize="10" HorizontalAlignment="Center" FontFamily="Lucida Console"/>
+                        <!-- Placeholder for weapon tally TextBlocks -->
+                    </StackPanel>
+                </Grid>
+                <!-- Right Grid (Tag Tally) -->
+                <Grid Grid.Row="1" Grid.Column="1">
+                    <StackPanel Name="tagsTallyStackPanel" Margin="0">
+                        <TextBlock Text="Tags:" FontSize="10" HorizontalAlignment="Center" FontFamily="Lucida Console"/>
+                        <!-- Placeholder for tag tally TextBlocks -->
+                    </StackPanel>
+                </Grid>
+                <Grid Grid.Row="1" Grid.Column="2">
+                    <StackPanel Name="mapsTallyStackPanel" Margin="0" Background="DarkGray">
+                        <TextBlock Text="Maps:" FontSize="10" HorizontalAlignment="Center" FontFamily="Lucida Console"/>
+                        <!-- Placeholder for tag tally TextBlocks -->
+                    </StackPanel>
+                </Grid>
+                <Grid Grid.Row="1" Grid.Column="3">
+                    <StackPanel Name="playerTallyStackPanel" Margin="0">
+                        <TextBlock Text="Player:" FontSize="10" HorizontalAlignment="Center" FontFamily="Lucida Console"/>
+                        <!-- Placeholder for tag tally TextBlocks -->
+                    </StackPanel>
+                </Grid>
+                <Grid Grid.Row="1" Grid.Column="4">
+                    <StackPanel Name="attachmentTallyStackPanel" Margin="0" Background="DarkGray">
+                        <TextBlock Name="txtAttachment" Text="Attachments:" FontSize="10" HorizontalAlignment="Center" FontFamily="Lucida Console"/>
+                        <!-- Placeholder for tag tally TextBlocks -->
+                    </StackPanel>
+                </Grid>
+            </Grid>
+        </ScrollViewer>
+    </Grid>
+</Window>
