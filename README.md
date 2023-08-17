@@ -6,7 +6,7 @@
 
   
 <div align="center">
-  <a href="https://github.com/newtoyourlife/DemoArchive/blob/master/preview1.png">
+  <a href="https://github.com/newtoyourlife/DemoArchive/blob/ff43aa7c3e287f3776e5f98f19d0ce7f363c249e/preview1.png">
     <img src="Preview1.png" alt="Preivew" Width="auto" Height="auto">
   </a>
 </div>
