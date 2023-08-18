@@ -10,7 +10,7 @@
 
 ## Overview
 
-**Currently only Bo2 Demos have been added, and we're working on uploading more games soon.** As I add more demos, the archive will update on your version as well, eliminating the need to re-download.
+**Currently only Bo2 Demos have been added, I'm working on uploading more games soon.** As I add more demos, the archive will update on your version as well, eliminating the need to re-download.
 
 ## Search Filters
 
