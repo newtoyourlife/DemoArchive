@@ -1345,7 +1345,7 @@
 </entry>
 <entry id="111">
     <weapons>An94</weapons>
-    <map>Nuketown</map>
+    <map>Hijacked</map>
     <camo>Carbon</camo>
     <attachment>Fast Mag</attachment>
     <numberofkills>4</numberofkills>
@@ -1402,5 +1402,209 @@
     <timeoffrag>5:15</timeoffrag>
     <url>TZJRusJaSFY</url>
     <downloadurl>11kHJpGwZAiJlluZnSRzj_LNfqvYXJiVB</downloadurl>
+</entry>
+<entry id="116">
+    <weapons>Dsr, Shockcharge</weapons>
+    <map>Nuketown</map>
+    <camo>Ronin</camo>
+    <attachment></attachment>
+    <numberofkills>2</numberofkills>
+    <tags>Double Collat, Js</tags>
+    <player>osii</player>
+    <timeoffrag>0:55</timeoffrag>
+    <url>-imJRmu4FTQ</url>
+    <downloadurl>11mzGOcVn9imC9cNuffoZ8p9siegDPdWi</downloadurl>
+</entry>
+<entry id="117">
+    <weapons>Dsr</weapons>
+    <map>Drone</map>
+    <camo>Ronin</camo>
+    <attachment></attachment>
+    <numberofkills>3</numberofkills>
+    <tags>Explosion</tags>
+    <player>eeeeeeeeee</player>
+    <timeoffrag>4:25</timeoffrag>
+    <url>rFcybh0cNAw</url>
+    <downloadurl>11oyXR2EYBTpYfzJdvnkUOLPgnuRfFCAd</downloadurl>
+</entry>
+<entry id="118">
+    <weapons>Dsr, Exec</weapons>
+    <map>Raid</map>
+    <camo>Ronin, Default</camo>
+    <attachment></attachment>
+    <numberofkills>3</numberofkills>
+    <tags></tags>
+    <player>eeeeeeeeee</player>
+    <timeoffrag>5:00</timeoffrag>
+    <url>RsijXwa-lHo</url>
+    <downloadurl>11uhEdijshxvcciRPhG9XRTFb5hsBAqW4</downloadurl>
+</entry>
+<entry id="119">
+    <weapons>Dsr, C4</weapons>
+    <map>Standoff</map>
+    <camo>Blue Tiger</camo>
+    <attachment></attachment>
+    <numberofkills>3</numberofkills>
+    <tags>C4 Throw</tags>
+    <player>eeeeeeeee</player>
+    <timeoffrag>3:50</timeoffrag>
+    <url>1jscLEFJc0I</url>
+    <downloadurl>11zeEsmfIV0P6wSbSJ5Tz-WgUPMOfPcUs</downloadurl>
+</entry>
+<entry id="120">
+    <weapons>Dsr</weapons>
+    <map>Cargo</map>
+    <camo>Paladin</camo>
+    <attachment></attachment>
+    <numberofkills>2</numberofkills>
+    <tags>Ns Rel</tags>
+    <player>Brentus</player>
+    <timeoffrag>4:50</timeoffrag>
+    <url>iEHwFkUs7Dg</url>
+    <downloadurl>1217_eSVpbb9xKbdYQisy2V3ZgWSOWge_</downloadurl>
+</entry>
+<entry id="121">
+    <weapons>Dsr</weapons>
+    <map>Standoff</map>
+    <camo>Siberia</camo>
+    <attachment></attachment>
+    <numberofkills>1</numberofkills>
+    <tags>Js Ns Rel</tags>
+    <player>Brentus</player>
+    <timeoffrag>5:35</timeoffrag>
+    <url>nnHTyRtH-EI</url>
+    <downloadurl>124XeCQHmZ0RWP8TYwsKdjyz4qF4TsfWv</downloadurl>
+</entry>
+<entry id="122">
+    <weapons>Dsr</weapons>
+    <map>Standoff</map>
+    <camo>Rogue</camo>
+    <attachment></attachment>
+    <numberofkills>6</numberofkills>
+    <tags>Lb</tags>
+    <player>Brentus</player>
+    <timeoffrag>0:40</timeoffrag>
+    <url>OsfV6sy_vf8</url>
+    <downloadurl>12B2t0w7OHSLWaX4H5MpkjObYQFPPRaIj</downloadurl>
+</entry>
+<entry id="123">
+    <weapons>Dsr</weapons>
+    <map>Standoff</map>
+    <camo>Rogue</camo>
+    <attachment></attachment>
+    <numberofkills>6</numberofkills>
+    <tags>Rel</tags>
+    <player>Brentus</player>
+    <timeoffrag>4:10</timeoffrag>
+    <url>smdBiA9Q8kE</url>
+    <downloadurl>12B2t0w7OHSLWaX4H5MpkjObYQFPPRaIj</downloadurl>
+</entry>
+<entry id="124">
+    <weapons>Dsr</weapons>
+    <map>Standoff</map>
+    <camo>Graffiti</camo>
+    <attachment>Cpu</attachment>
+    <numberofkills>6</numberofkills>
+    <tags>Rel, Lb</tags>
+    <player>Zalez</player>
+    <timeoffrag>3:15</timeoffrag>
+    <url>BXd5kdeOzno</url>
+    <downloadurl>12Jz6i2XIDzG5j0rs7vXvMemDorl6J7J7</downloadurl>
+</entry>
+<entry id="125">
+    <weapons>Dsr</weapons>
+    <map>Standoff</map>
+    <camo>Graffiti</camo>
+    <attachment>Cpu</attachment>
+    <numberofkills>3</numberofkills>
+    <tags></tags>
+    <player>Zalez</player>
+    <timeoffrag>4:10</timeoffrag>
+    <url>OzOZAzZyi8s</url>
+    <downloadurl>12Jz6i2XIDzG5j0rs7vXvMemDorl6J7J7</downloadurl>
+</entry>
+<entry id="126">
+    <weapons>Dsr</weapons>
+    <map>Standoff</map>
+    <camo>Graffiti</camo>
+    <attachment>Cpu</attachment>
+    <numberofkills>5</numberofkills>
+    <tags>Rel, Lb</tags>
+    <player>Zalez</player>
+    <timeoffrag>8:45</timeoffrag>
+    <url>0RT_8LzUPQ8</url>
+    <downloadurl>12Jz6i2XIDzG5j0rs7vXvMemDorl6J7J7</downloadurl>
+</entry>
+<entry id="127">
+    <weapons>Ballista</weapons>
+    <map>Hijacked</map>
+    <camo>Elite</camo>
+    <attachment>Iron Sight</attachment>
+    <numberofkills>5</numberofkills>
+    <tags>Rel, Double Collat</tags>
+    <player>kart</player>
+    <timeoffrag>1:45</timeoffrag>
+    <url>mJeXljkdF2Q</url>
+    <downloadurl>12PmTsNLA5zZ0QRk8r8fFm5XBTzhkNbgG</downloadurl>
+</entry>
+<entry id="128">
+    <weapons>Ballista, Knife, An94</weapons>
+    <map>Hijacked</map>
+    <camo>Elite, Gold</camo>
+    <attachment>Iron Sight</attachment>
+    <numberofkills>5</numberofkills>
+    <tags>Rel, First Raise, Rel</tags>
+    <player>kart</player>
+    <timeoffrag>1:15</timeoffrag>
+    <url>whTRNGCtDpw</url>
+    <downloadurl>12PmTsNLA5zZ0QRk8r8fFm5XBTzhkNbgG</downloadurl>
+</entry>
+<entry id="129">
+    <weapons>Dsr</weapons>
+    <map>Takeoff</map>
+    <camo>Ronin</camo>
+    <attachment>CPU</attachment>
+    <numberofkills>3</numberofkills>
+    <tags>Js, Rel</tags>
+    <player>Dybark tK</player>
+    <timeoffrag>0:25</timeoffrag>
+    <url>aEe079yFK8c</url>
+    <downloadurl>12S8u4xSsJzaEYSm6iuZnv6JuS_EcBIrw</downloadurl>
+</entry>
+<entry id="130">
+    <weapons>Dsr</weapons>
+    <map>Takeoff</map>
+    <camo>Ronin</camo>
+    <attachment>CPU</attachment>
+    <numberofkills>6</numberofkills>
+    <tags>Rel, Lb</tags>
+    <player>Dybark tK</player>
+    <timeoffrag>3:20</timeoffrag>
+    <url>aEe079yFK8c</url>
+    <downloadurl>12S8u4xSsJzaEYSm6iuZnv6JuS_EcBIrw</downloadurl>
+</entry>
+<entry id="131">
+    <weapons>Dsr</weapons>
+    <map>Cove</map>
+    <camo>Diamond</camo>
+    <attachment></attachment>
+    <numberofkills>2</numberofkills>
+    <tags>Js Ns Rel</tags>
+    <player>nooie</player>
+    <timeoffrag>4:20</timeoffrag>
+    <url>V8SA5sYV9jw</url>
+    <downloadurl>12alk93D0FIx7XXxLQLnWZ3GMKxh6pM__</downloadurl>
+</entry>
+<entry id="132">
+    <weapons>Dsr</weapons>
+    <map>Cove</map>
+    <camo>Diamond</camo>
+    <attachment></attachment>
+    <numberofkills>4</numberofkills>
+    <tags>Rel</tags>
+    <player>nooie</player>
+    <timeoffrag>5:00</timeoffrag>
+    <url>xL_pikssOxk</url>
+    <downloadurl>12alk93D0FIx7XXxLQLnWZ3GMKxh6pM__</downloadurl>
 </entry>
 </database>
