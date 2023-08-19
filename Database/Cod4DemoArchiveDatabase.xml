@@ -11,4 +11,88 @@
     <url>CUx1ZXZty-g</url>
     <downloadurl>1-pNHk6msAwN21hvd2GzzVCGg2HzwOJw6</downloadurl>
   </entry>
+<entry id="2">
+    <weapons>Ak47, Deagle</weapons>
+    <map>Crossfire</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>2</numberofkills>
+    <tags></tags>
+    <player>new</player>
+    <timeoffrag>1:35</timeoffrag>
+    <url>7PPHrnjJ85Y</url>
+    <downloadurl>12fRRcaLoH4fNQH2psjrqQpOjXCD07YTD</downloadurl>
+</entry>
+<entry id="3">
+    <weapons>Ak47, Ak47u</weapons>
+    <map>Crossfire</map>
+    <camo>Desert</camo>
+    <mod>Promod</mod>
+    <numberofkills>3</numberofkills>
+    <tags>First Raise</tags>
+    <player>new</player>
+    <timeoffrag>4:35</timeoffrag>
+    <url>KB4YbaY2ETU</url>
+    <downloadurl>https://drive.google.com/file/d/12fRRcaLoH4fNQH2psjrqQpOjXCD07YTD/view?usp=drive_link</downloadurl>
+</entry>
+<entry id="4">
+    <weapons>r700</weapons>
+    <map>Crash</map>
+    <camo>Blue Tiger</camo>
+    <mod>Promod</mod>
+    <numberofkills>3</numberofkills>
+    <tags>Ns</tags>
+    <player>New</player>
+    <timeoffrag>6:20</timeoffrag>
+    <url>ov_eIOIgRBc</url>
+    <downloadurl>1MIR4Aqhp0hjC6xHaOcqVM_xYKDBkiMtb</downloadurl>
+</entry>
+<entry id="5">
+    <weapons>r700</weapons>
+    <map>Crash</map>
+    <camo>Blue Tiger</camo>
+    <mod>Promod</mod>
+    <numberofkills>3</numberofkills>
+    <tags>Rel</tags>
+    <player>New</player>
+    <timeoffrag>10:50</timeoffrag>
+    <url>0PKRTeXUj3Q</url>
+    <downloadurl>1MJAz6CDOZ2Xl3kyJKLLJet9B4goWBX8D</downloadurl>
+</entry>
+<entry id="6">
+    <weapons>r700</weapons>
+    <map>Crash</map>
+    <camo>Blue Tiger</camo>
+    <mod>Promod</mod>
+    <numberofkills>3</numberofkills>
+    <tags></tags>
+    <player>New</player>
+    <timeoffrag>1:30</timeoffrag>
+    <url>buraBAZghKA</url>
+    <downloadurl>1MJAz6CDOZ2Xl3kyJKLLJet9B4goWBX8D</downloadurl>
+</entry>
+<entry id="7">
+    <weapons>M40A3</weapons>
+    <map>Crash</map>
+    <camo>Blue Tiger</camo>
+    <mod>Promod</mod>
+    <numberofkills>2</numberofkills>
+    <tags>Js Ns Qs</tags>
+    <player>New</player>
+    <timeoffrag>2:16</timeoffrag>
+    <url>J_aKIPB_bJk</url>
+    <downloadurl>1MLIfVKOxcGlokI1zq-nQ268npoge_1Za</downloadurl>
+</entry>
+<entry id="8">
+    <weapons>M40A3</weapons>
+    <map>Crash</map>
+    <camo>Blue Tiger</camo>
+    <mod>Promod</mod>
+    <numberofkills>5</numberofkills>
+    <tags>Window, Rel, Qs</tags>
+    <player>New</player>
+    <timeoffrag>3:26</timeoffrag>
+    <url>Y5zz3D1zOu4</url>
+    <downloadurl>1MNYLtsvnGqG3gDjxJ0K_YZZS7OLnInxD</downloadurl>
+</entry>
 </database>
