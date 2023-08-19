@@ -1465,7 +1465,7 @@
 </entry>
 <entry id="121">
     <weapons>Dsr</weapons>
-    <map>Carrier</map>
+    <map>Standoff</map>
     <camo>Siberia</camo>
     <attachment></attachment>
     <numberofkills>1</numberofkills>
@@ -1606,5 +1606,101 @@
     <timeoffrag>5:00</timeoffrag>
     <url>xL_pikssOxk</url>
     <downloadurl>12alk93D0FIx7XXxLQLnWZ3GMKxh6pM__</downloadurl>
+</entry>
+<entry id="133">
+    <weapons>Dsr</weapons>
+    <map>Turbine</map>
+    <camo>Siberia</camo>
+    <attachment>Cpu</attachment>
+    <numberofkills>1</numberofkills>
+    <tags>180, Js Ns Rel</tags>
+    <player>New</player>
+    <timeoffrag>4:15</timeoffrag>
+    <url>wANS-o4kU_Q</url>
+    <downloadurl>1N1iqX0oDyBr-VqdlSUeNtXld5H7rQw0D</downloadurl>
+</entry>
+<entry id="134">
+    <weapons>Dsr</weapons>
+    <map>Express</map>
+    <camo>Gold</camo>
+    <attachment></attachment>
+    <numberofkills>2</numberofkills>
+    <tags>Js Ns Rel</tags>
+    <player>YUNGXANHOE (Siggie)</player>
+    <timeoffrag>1:25</timeoffrag>
+    <url>W3K-cAs3gbY</url>
+    <downloadurl>1N1o9L3BKoHbO9bn9gZOKK86nB0Yu-uJn</downloadurl>
+</entry>
+<entry id="135">
+    <weapons>An94</weapons>
+    <map>Standoff</map>
+    <camo>Default</camo>
+    <attachment></attachment>
+    <numberofkills>2</numberofkills>
+    <tags>Rel, Guardian, Explosion</tags>
+    <player>dom</player>
+    <timeoffrag>3:00</timeoffrag>
+    <url>kRGvCMLCvOQ</url>
+    <downloadurl>1N4bKNuBO31Xmz_dV-mErtvMWOfxOwvIF</downloadurl>
+</entry>
+<entry id="136">
+    <weapons>Dsr</weapons>
+    <map>Standoff</map>
+    <camo>Cherry Blossom</camo>
+    <attachment>CPU</attachment>
+    <numberofkills>4</numberofkills>
+    <tags>Ns, Double Collat, Lb</tags>
+    <player>dom</player>
+    <timeoffrag>3:05</timeoffrag>
+    <url>p9HzXizCaAw</url>
+    <downloadurl>1N6OQCejlMhJyx6tAwobYPkUtg_dBBgC6</downloadurl>
+</entry>
+<entry id="137">
+    <weapons>Dsr, C4</weapons>
+    <map>Express</map>
+    <camo>Skulls</camo>
+    <attachment>CPU</attachment>
+    <numberofkills>4</numberofkills>
+    <tags>C4 Throw, Explosion, Ns, Wb</tags>
+    <player>dom</player>
+    <timeoffrag>4:50</timeoffrag>
+    <url>p9HzXizCaAw</url>
+    <downloadurl>1NE-xQTYF2AA7xfa-En7GHTmA7aC7bPVU</downloadurl>
+</entry>
+<entry id="138">
+    <weapons>Dsr</weapons>
+    <map>Standoff</map>
+    <camo>Comics</camo>
+    <attachment></attachment>
+    <numberofkills>5</numberofkills>
+    <tags>Rel, Double Collat</tags>
+    <player>Para</player>
+    <timeoffrag>13:10</timeoffrag>
+    <url>qPn6DG_8DlI</url>
+    <downloadurl>1N4bKNuBO31Xmz_dV-mErtvMWOfxOwvIF</downloadurl>
+</entry>
+<entry id="139">
+    <weapons>Ballista, Tac45</weapons>
+    <map>Standoff</map>
+    <camo>Breach, Breach</camo>
+    <attachment>Thermal</attachment>
+    <numberofkills>6</numberofkills>
+    <tags>Explosion</tags>
+    <player>CROV</player>
+    <timeoffrag>9:40</timeoffrag>
+    <url>0RpFoCjjRhc</url>
+    <downloadurl>1NP3dso3WwBRT-60x34Far_DhmMGwoXaA</downloadurl>
+</entry>
+<entry id="140">
+    <weapons>Scar, C4</weapons>
+    <map>Standoff</map>
+    <camo>Gold</camo>
+    <attachment></attachment>
+    <numberofkills>6</numberofkills>
+    <tags>C4 Throw, Rel</tags>
+    <player>InFamous Gazze</player>
+    <timeoffrag>11:00</timeoffrag>
+    <url>DkOQJqR4nIc</url>
+    <downloadurl>1NP3dso3WwBRT-60x34Far_DhmMGwoXaA</downloadurl>
 </entry>
 </database>
