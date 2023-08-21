@@ -288,7 +288,7 @@
     <downloadurl>1OLgcKGRrNdyCh0NHTTN32QeuEMRGbjY4</downloadurl>
 </entry>
 <entry id="25">
-    <weapons>M40A3, Deagle</weapons>
+    <weapons>M40A3</weapons>
     <map>Crash</map>
     <camo>Default</camo>
     <mod>Promod</mod>
@@ -418,5 +418,377 @@
     <timeoffrag>2:40</timeoffrag>
     <url>5hRp2C9w2mM</url>
     <downloadurl>1PNrS0KAqbAEo9ejnBIKMVRHl6Zj3BQfS</downloadurl>
+</entry>
+<entry id="36">
+    <weapons>W1200</weapons>
+    <map>Strike</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>2</numberofkills>
+    <tags>Js, Looking Up</tags>
+    <player>New</player>
+    <timeoffrag>7:20</timeoffrag>
+    <url>xQREhboiTM8</url>
+    <downloadurl>1PjCThGyXCksnUSurQypPMaE__3OlULY2</downloadurl>
+</entry>
+<entry id="37">
+    <weapons>W1200</weapons>
+    <map>Strike</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>3</numberofkills>
+    <tags>Rel</tags>
+    <player>New</player>
+    <timeoffrag>7:53</timeoffrag>
+    <url>1PrRiZg3hvdxjTZEZcYvUCparf9XayJqN</url>
+    <downloadurl>2W1rRl052VA</downloadurl>
+</entry>
+<entry id="38">
+    <weapons>Grenade, Ak47u, Deagle</weapons>
+    <map>Strike</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>5</numberofkills>
+    <tags>Grenade Throw, Explosion</tags>
+    <player>New</player>
+    <timeoffrag>9:23</timeoffrag>
+    <url>V6Y2xAF8gOE</url>
+    <downloadurl>1PsAMox4MSxpb8jMEMeKnlycmrFD2XuUK</downloadurl>
+</entry>
+<entry id="39">
+    <weapons>R700, Deagle</weapons>
+    <map>Crash</map>
+    <camo>Default, Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>5</numberofkills>
+    <tags>Rel, Js</tags>
+    <player>New</player>
+    <timeoffrag>1:10</timeoffrag>
+    <url>U_hZBerxTHY</url>
+    <downloadurl>1Pu5wXDnDIcFxq-fezCdtRw-CCPbno6-V</downloadurl>
+</entry>
+<entry id="40">
+    <weapons>R700, Deagle</weapons>
+    <map>Crash</map>
+    <camo>Red Tiger</camo>
+    <mod>Promod</mod>
+    <numberofkills>4</numberofkills>
+    <tags>Js, Over Shoulder, Ns, Ladder, Rel</tags>
+    <player>New</player>
+    <timeoffrag>2:23</timeoffrag>
+    <url>tx0PvNsBwjI</url>
+    <downloadurl>1PvuI5uLI3NT701wi2moJUtZ6MoLs377I</downloadurl>
+</entry>
+<entry id="41">
+    <weapons>R700</weapons>
+    <map>Crash</map>
+    <camo>Red Tiger</camo>
+    <mod>Promod</mod>
+    <numberofkills>2</numberofkills>
+    <tags>Js Ns Qs</tags>
+    <player>New</player>
+    <timeoffrag>5:17</timeoffrag>
+    <url>BncsxqhfkuY</url>
+    <downloadurl>1PxSTfleE77v5o59z8eXtmsJJhjc_9k_D</downloadurl>
+</entry>
+<entry id="42">
+    <weapons>R700</weapons>
+    <map>Crash</map>
+    <camo>Red Tiger</camo>
+    <mod>Promod</mod>
+    <numberofkills>3</numberofkills>
+    <tags>Js Ns Qs</tags>
+    <player>New</player>
+    <timeoffrag>10:00</timeoffrag>
+    <url>I-A-3S1D2UM</url>
+    <downloadurl>1Q8D94h7qBJ8SvDHD2kxymSDpqbzMSWF7</downloadurl>
+</entry>
+<entry id="43">
+    <weapons>W1200</weapons>
+    <map>Crash</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>4</numberofkills>
+    <tags>Rel, Qs</tags>
+    <player>New</player>
+    <timeoffrag>3:30</timeoffrag>
+    <url>OUClVSqA2Qw</url>
+    <downloadurl>1QBzAE0OVoRNktXgmQBFT88aYc8Rvxxz2</downloadurl>
+</entry>
+<entry id="44">
+    <weapons>W1200</weapons>
+    <map>Crash</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>3</numberofkills>
+    <tags>Qs, Rel</tags>
+    <player>New</player>
+    <timeoffrag>8:40</timeoffrag>
+    <url>99qQASZSGnU</url>
+    <downloadurl>1QDaQsTRwmoDQESJ0tTLemvTI6vlHPmLX</downloadurl>
+</entry>
+<entry id="45">
+    <weapons>M40A3</weapons>
+    <map>Backlot</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>2</numberofkills>
+    <tags>Js Ns Qs</tags>
+    <player>New</player>
+    <timeoffrag>5:56</timeoffrag>
+    <url>92kSXqYlBnw</url>
+    <downloadurl>1QO2ps4cSM1K1tY11Vkl5_S37GQKUfncs</downloadurl>
+</entry>
+<entry id="46">
+    <weapons>M40A3</weapons>
+    <map>Backlot</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>5</numberofkills>
+    <tags>Rel, Qs, Nest</tags>
+    <player>New</player>
+    <timeoffrag>6:28</timeoffrag>
+    <url>Z_O6FTVS9_8</url>
+    <downloadurl>1QO2ps4cSM1K1tY11Vkl5_S37GQKUfncs</downloadurl>
+</entry>
+<entry id="47">
+    <weapons>M40A3, Deagle</weapons>
+    <map>Backlot</map>
+    <camo>Default, Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>3</numberofkills>
+    <tags>Js Ns Qs</tags>
+    <player>New</player>
+    <timeoffrag>8:23</timeoffrag>
+    <url>E15mtY8pGG0</url>
+    <downloadurl>1QQXUM7O2Yf2PhSppUDTNrNCHmA7ujWuy</downloadurl>
+</entry>
+<entry id="48">
+    <weapons>M4A1</weapons>
+    <map>Backlot</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>1</numberofkills>
+    <tags>Js Ns Rel</tags>
+    <player>New</player>
+    <timeoffrag>9:55</timeoffrag>
+    <url>NmgNcLGt8ZE</url>
+    <downloadurl>1QVFcdDJRaQsQ12S7KABeR-E3_Y-ONWPT</downloadurl>
+</entry>
+<entry id="49">
+    <weapons>M4A1, Ak47u</weapons>
+    <map>Backlot</map>
+    <camo>Default, Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>7</numberofkills>
+    <tags>Rel, First Raise</tags>
+    <player>New</player>
+    <timeoffrag>10:36</timeoffrag>
+    <url>FXRuz-tVx8M</url>
+    <downloadurl>1Qc4GJjrednDRU46rlfr5E1tntTjd_0sr</downloadurl>
+</entry>
+<entry id="50">
+    <weapons>Ak47, Deagle</weapons>
+    <map>Strike</map>
+    <camo>Desert, Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>2</numberofkills>
+    <tags>First Raise, Looking Up</tags>
+    <player>New</player>
+    <timeoffrag>5:07</timeoffrag>
+    <url>fNrIUJXv9H4</url>
+    <downloadurl>1Qhfx-bAuZYQ8jEOT-X8EIVrBQ-6CsXf7</downloadurl>
+</entry>
+<entry id="51">
+    <weapons>Ak47u, Deagle</weapons>
+    <map>Strike</map>
+    <camo>Default, Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>4</numberofkills>
+    <tags>Qs</tags>
+    <player>New</player>
+    <timeoffrag> 9:27</timeoffrag>
+    <url>p5lHXUdM3c8</url>
+    <downloadurl>1QiiXeQ-SKN3eakfIuoT7w3cW7v-wn0Mr</downloadurl>
+</entry>
+<entry id="52">
+    <weapons>Ak47u, Deagle</weapons>
+    <map>Strike</map>
+    <camo>Default, Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>5</numberofkills>
+    <tags>Qs, Rel, Explosion</tags>
+    <player>New</player>
+    <timeoffrag>13:25</timeoffrag>
+    <url>rLCnZNm9eGM</url>
+    <downloadurl>1QvopzGYyeGQjRSJTowgLBS3jM-i0E7mz</downloadurl>
+</entry>
+<entry id="53">
+    <weapons>R700</weapons>
+    <map>Strike</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>1</numberofkills>
+    <tags>Js Ns Qs</tags>
+    <player>New</player>
+    <timeoffrag>0:41</timeoffrag>
+    <url>ciGHaANdQZY</url>
+    <downloadurl>1R0XlsPfhu7-lU3_pknoMLwH7qj623cQ_</downloadurl>
+</entry>
+<entry id="54">
+    <weapons>M40A3, Deagle</weapons>
+    <map>Strike</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>3</numberofkills>
+    <tags>Ns Qs, Rel</tags>
+    <player>New</player>
+    <timeoffrag>2:36</timeoffrag>
+    <url>wnlIllCm6SQ</url>
+    <downloadurl>1R1wR3p0bAV00TpuLjSFshsysAf2483an</downloadurl>
+</entry>
+<entry id="55">
+    <weapons>M40A3, Deagle</weapons>
+    <map>Strike</map>
+    <camo>Default, Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>2</numberofkills>
+    <tags>Js Ns Qs, Roof</tags>
+    <player>New</player>
+    <timeoffrag>8:25</timeoffrag>
+    <url>oiZDcNizES4</url>
+    <downloadurl>1R3B4EyijRf0TmkKgkGlm3-T5Uf6i1KS2</downloadurl>
+</entry>
+<entry id="56">
+    <weapons>M40A3</weapons>
+    <map>Strike</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>3</numberofkills>
+    <tags>Js Ns Qs</tags>
+    <player>New</player>
+    <timeoffrag></timeoffrag>
+    <url>qb88fD8tnMI</url>
+    <downloadurl>1R4RfTTWlXmJ9wUc7MxtmqJWUALmduCmZ</downloadurl>
+</entry>
+<entry id="57">
+    <weapons>Ak47u, Ak47, Deagle</weapons>
+    <map>Crossfire</map>
+    <camo>Woodland, Default, Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>5</numberofkills>
+    <tags>First Raise, Rel</tags>
+    <player>New</player>
+    <timeoffrag>7:49</timeoffrag>
+    <url>mnjAdMWxH6o</url>
+    <downloadurl>1R8aTeLbmdP44FkY382z-UOyWxAvvigaS</downloadurl>
+</entry>
+<entry id="58">
+    <weapons>M40A3</weapons>
+    <map>Crossfire</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>4</numberofkills>
+    <tags>Rel, Mid</tags>
+    <player>New</player>
+    <timeoffrag>3:15</timeoffrag>
+    <url>mznOTXzrlzI</url>
+    <downloadurl>1RCK9x7nNQNQXDEQLZk9guSod91AsXPTW</downloadurl>
+</entry>
+<entry id="59">
+    <weapons>M40A3</weapons>
+    <map>Crossfire</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>2</numberofkills>
+    <tags>Js Ns Qs</tags>
+    <player>New</player>
+    <timeoffrag>4:40</timeoffrag>
+    <url>czQRxmtTSPs</url>
+    <downloadurl>1RIy_B0Zf6WIzlLD72XyQHtDsPOjCeHvv</downloadurl>
+</entry>
+<entry id="60">
+    <weapons>M40A3</weapons>
+    <map>Crossfire</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>3</numberofkills>
+    <tags>Rel</tags>
+    <player>New</player>
+    <timeoffrag>6:43</timeoffrag>
+    <url>l_bGDjmR33s</url>
+    <downloadurl>1RMHJaMIl3xf8o29dSCMuGkKWyF-MoNht</downloadurl>
+</entry>
+<entry id="61">
+    <weapons>M40A3</weapons>
+    <map>Crossfire</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>4</numberofkills>
+    <tags>Rel, Qs</tags>
+    <player>New</player>
+    <timeoffrag>8:26</timeoffrag>
+    <url>Abf2GjrOC3k</url>
+    <downloadurl>1RRBSuhORwHOFBNEsFCfAEpOBZ8b2jgxK</downloadurl>
+</entry>
+<entry id="62">
+    <weapons>M40A3</weapons>
+    <map>Crossfire</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>5</numberofkills>
+    <tags>Ns, Ladder, Rel, Overshoulder</tags>
+    <player>New</player>
+    <timeoffrag>14:06</timeoffrag>
+    <url>RZyPjQGpm00</url>
+    <downloadurl>1RTO0WOs9I2C8vp82AEokCxYMeVH92RUQ</downloadurl>
+</entry>
+<entry id="63">
+    <weapons>M40A3</weapons>
+    <map>Crossfire</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>4</numberofkills>
+    <tags>Nest, Qs, Rel</tags>
+    <player>New</player>
+    <timeoffrag>0:20</timeoffrag>
+    <url>fEEMjI8G5II</url>
+    <downloadurl>1RZckfUSS4wpP0lT6gPknJjFSqVbrWQLG</downloadurl>
+</entry>
+<entry id="64">
+    <weapons>M40A3</weapons>
+    <map>Crossfire</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>4</numberofkills>
+    <tags>Ns, Rel, Js Ns</tags>
+    <player>New</player>
+    <timeoffrag>7:19</timeoffrag>
+    <url>EfGcagwdMDc</url>
+    <downloadurl>1R_6UUQVwM67Jq5qKKYywEKrs2WV4M_dY</downloadurl>
+</entry>
+<entry id="65">
+    <weapons>R700</weapons>
+    <map>Crossfire</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>3</numberofkills>
+    <tags>Overshoulder, Ns, Wb</tags>
+    <player>New</player>
+    <timeoffrag>6:43</timeoffrag>
+    <url>aeO7WYJGvH4</url>
+    <downloadurl>1Reb0luR7LIiVtCFrbgPsdVVpHm_ZTQ_8</downloadurl>
+</entry>
+<entry id="66">
+    <weapons>M40A3</weapons>
+    <map>Crossfire</map>
+    <camo>Blue Tiger</camo>
+    <mod>Promod</mod>
+    <numberofkills>4</numberofkills>
+    <tags>Inside, Rel</tags>
+    <player>New</player>
+    <timeoffrag>11:35</timeoffrag>
+    <url>rVKes9jx4Fc</url>
+    <downloadurl>1RejJBrFLVTMHz_mHtFxAOujc2TYt8Bz4</downloadurl>
 </entry>
 </database>
