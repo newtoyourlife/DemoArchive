@@ -6,7 +6,7 @@
     <map>Crash</map>
     <numberofkills>1</numberofkills>
     <tags>Js Ns Rel</tags>
-    <location></location>
+    <location>Shop</location>
     <player>peterthedancer</player>
     <timeoffrag></timeoffrag>
     <url>CUx1ZXZty-g</url>
@@ -45,7 +45,7 @@
     <mod>Promod</mod>
     <numberofkills>3</numberofkills>
     <tags>Ns</tags>
-    <location></location>
+    <location>Slope</location>
     <player>New</player>
     <timeoffrag>6:20</timeoffrag>
     <url>ov_eIOIgRBc</url>
@@ -58,7 +58,7 @@
     <mod>Promod</mod>
     <numberofkills>3</numberofkills>
     <tags>Rel</tags>
-    <location></location>
+    <location>Back Alley/location>
     <player>New</player>
     <timeoffrag>10:50</timeoffrag>
     <url>0PKRTeXUj3Q</url>
@@ -71,7 +71,7 @@
     <mod>Promod</mod>
     <numberofkills>3</numberofkills>
     <tags></tags>
-    <location></location>
+    <location>Helicopter</location>
     <player>New</player>
     <timeoffrag>1:30</timeoffrag>
     <url>buraBAZghKA</url>
@@ -84,7 +84,7 @@
     <mod>Promod</mod>
     <numberofkills>2</numberofkills>
     <tags>Js Ns Qs</tags>
-    <location></location>
+    <location>Helicopter</location>
     <player>New</player>
     <timeoffrag>2:16</timeoffrag>
     <url>J_aKIPB_bJk</url>
@@ -175,7 +175,7 @@
     <mod>Promod</mod>
     <numberofkills>3</numberofkills>
     <tags>Rel, Ns</tags>
-    <location>Back Alley</location>
+    <location>Helicopter</location>
     <player>New</player>
     <timeoffrag>5:45</timeoffrag>
     <url>Go0XYllmf5Q</url>
@@ -187,8 +187,8 @@
     <camo>Default</camo>
     <mod>Promod</mod>
     <numberofkills>3</numberofkills>
-    <tags>Rel, Roof</tags>
-    <location></location>
+    <tags>Rel</tags>
+    <location>Roof</location>
     <player>New</player>
     <timeoffrag>6:15</timeoffrag>
     <url>e_Y_ktAv7sA</url>
@@ -201,7 +201,7 @@
     <mod>Promod</mod>
     <numberofkills>3</numberofkills>
     <tags>Js Ns Qs</tags>
-    <location></location>
+    <location>Blue</location>
     <player>New</player>
     <timeoffrag>7:10</timeoffrag>
     <url>TIEsovhLklY</url>
@@ -213,8 +213,8 @@
     <camo>Default</camo>
     <mod>Promod</mod>
     <numberofkills>2</numberofkills>
-    <tags>Qs, Indoor</tags>
-    <location></location>
+    <tags>Qs</tags>
+    <location>Blue</location>
     <player>New</player>
     <timeoffrag>8:38</timeoffrag>
     <url>kE4Xn9jGkDw</url>
@@ -227,7 +227,7 @@
     <mod>Promod</mod>
     <numberofkills>2</numberofkills>
     <tags>Js Ns Qs</tags>
-    <location></location>
+    <location>Blue</location>
     <player>New</player>
     <timeoffrag>8:00</timeoffrag>
     <url>Gx4Y-NJ3i3k</url>
@@ -240,7 +240,7 @@
     <mod>Promod</mod>
     <numberofkills>4</numberofkills>
     <tags>Rel, Qs, Indoor</tags>
-    <location></location>
+    <location>Blue</location>
     <player>New</player>
     <timeoffrag>0:39</timeoffrag>
     <url>gHDKBwZ3hGw</url>
@@ -252,8 +252,8 @@
     <camo>Default</camo>
     <mod>Promod</mod>
     <numberofkills>3</numberofkills>
-    <tags>Indoor, Qs, Rel, Double Collat</tags>
-    <location></location>
+    <tags>Qs, Rel, Double Collat</tags>
+    <location>Blue</location>
     <player>New</player>
     <timeoffrag>9:36</timeoffrag>
     <url>I-42hA65Y6Y</url>
@@ -266,7 +266,7 @@
     <mod>Promod</mod>
     <numberofkills>3</numberofkills>
     <tags>Outdoor</tags>
-    <location></location>
+    <location>Slope</location>
     <player>New</player>
     <timeoffrag>10:40</timeoffrag>
     <url>oDDLRCrWb5s</url>
@@ -278,8 +278,8 @@
     <camo>Default</camo>
     <mod>Promod</mod>
     <numberofkills>5</numberofkills>
-    <tags>Indoor</tags>
-    <location></location>
+    <tags>Qs</tags>
+    <location>Blue</location>
     <player>New</player>
     <timeoffrag>13:53</timeoffrag>
     <url>aaTwjR4WDHc</url>
@@ -291,8 +291,8 @@
     <camo>Gold, Default</camo>
     <mod>Promod</mod>
     <numberofkills>3</numberofkills>
-    <tags>Qs, Indoor</tags>
-    <location></location>
+    <tags>Qs, Window</tags>
+    <location>Blue</location>
     <player>New</player>
     <timeoffrag>7:22</timeoffrag>
     <url>p1HtLXexnu0</url>
@@ -305,7 +305,7 @@
     <mod>Promod</mod>
     <numberofkills>2</numberofkills>
     <tags>Ns, Js Ns Rel, Ladder, Outdoor</tags>
-    <location></location>
+    <location>Shop</location>
     <player>New</player>
     <timeoffrag>9:27</timeoffrag>
     <url>gBx_NMjYobA</url>
@@ -317,8 +317,8 @@
     <camo>Default</camo>
     <mod>Promod</mod>
     <numberofkills>2</numberofkills>
-    <tags>Indoor, Window, Helicopter, Qs</tags>
-    <location></location>
+    <tags>Indoor, Window, Qs</tags>
+    <location>Tower</location>
     <player>New</player>
     <timeoffrag>1:12</timeoffrag>
     <url>G878AAghzQg</url>
@@ -331,7 +331,7 @@
     <mod>Promod</mod>
     <numberofkills>2</numberofkills>
     <tags>Js Ns Qs, Indoor, Window</tags>
-    <location></location>
+    <location>Blue</location>
     <player>New</player>
     <timeoffrag>6:30</timeoffrag>
     <url>d3K5v4dRPSU</url>
@@ -343,8 +343,8 @@
     <camo>Default</camo>
     <mod>Promod</mod>
     <numberofkills>2</numberofkills>
-    <tags>Rel, Indoor, Window</tags>
-    <location></location>
+    <tags>Rel, Window</tags>
+    <location>Blue</location>
     <player>New</player>
     <timeoffrag>7:45</timeoffrag>
     <url>gc6_MK2hdZQ</url>
@@ -356,8 +356,8 @@
     <camo>Default</camo>
     <mod>Promod</mod>
     <numberofkills>3</numberofkills>
-    <tags>Ns, Ns Qs, Indoor, Window</tags>
-    <location></location>
+    <tags>Ns, Ns Qs, Window</tags>
+    <location>Blue</location>
     <player>New</player>
     <timeoffrag>1:24</timeoffrag>
     <url>UsWQtbI0_nA</url>
@@ -500,7 +500,7 @@
     <mod>Promod</mod>
     <numberofkills>5</numberofkills>
     <tags>Rel, Js</tags>
-    <location></location>
+    <location>Roof Small</location>
     <player>New</player>
     <timeoffrag>1:10</timeoffrag>
     <url>U_hZBerxTHY</url>
@@ -513,7 +513,7 @@
     <mod>Promod</mod>
     <numberofkills>4</numberofkills>
     <tags>Js, Over Shoulder, Ns, Ladder, Rel</tags>
-    <location></location>
+    <location>Shop</location>
     <player>New</player>
     <timeoffrag>2:23</timeoffrag>
     <url>tx0PvNsBwjI</url>
@@ -526,7 +526,7 @@
     <mod>Promod</mod>
     <numberofkills>2</numberofkills>
     <tags>Js Ns Qs</tags>
-    <location></location>
+    <location>Helicopter</location>
     <player>New</player>
     <timeoffrag>5:17</timeoffrag>
     <url>BncsxqhfkuY</url>
@@ -539,7 +539,7 @@
     <mod>Promod</mod>
     <numberofkills>3</numberofkills>
     <tags>Js Ns Qs</tags>
-    <location></location>
+    <location>Back Alley</location>
     <player>New</player>
     <timeoffrag>10:00</timeoffrag>
     <url>I-A-3S1D2UM</url>
@@ -552,7 +552,7 @@
     <mod>Promod</mod>
     <numberofkills>4</numberofkills>
     <tags>Rel, Qs</tags>
-    <location></location>
+    <location>Blue</location>
     <player>New</player>
     <timeoffrag>3:30</timeoffrag>
     <url>OUClVSqA2Qw</url>
@@ -565,7 +565,7 @@
     <mod>Promod</mod>
     <numberofkills>3</numberofkills>
     <tags>Qs, Rel</tags>
-    <location></location>
+    <location>Arcade, Helicopter</location>
     <player>New</player>
     <timeoffrag>8:40</timeoffrag>
     <url>99qQASZSGnU</url>
