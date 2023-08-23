@@ -922,6 +922,7 @@
     <url>lpGT6U4uUoA</url>
     <downloadurl>1RyFUr16Ttzmg3M88a7l3O1O1YIenwwcv</downloadurl>
 </entry>
+</database>
 <entry id="72">
     <weapons>Ak47u, Deagle</weapons>
     <map>Strike</map>
@@ -1090,5 +1091,213 @@
     <timeoffrag>13:05</timeoffrag>
     <url>VQQ6TOG9s-g</url>
     <downloadurl>1Sdj1GzSpfF7xLqRLEhCHmfc7YIFd3xmP</downloadurl>
+</entry>
+<entry id="85">
+    <weapons>M40A3</weapons>
+    <map>Strike</map>
+    <camo>Desert</camo>
+    <mod>Promod</mod>
+    <numberofkills>2</numberofkills>
+    <tags>Explosion, Rel</tags>
+    <location>BlueHouse</location>
+    <player>New</player>
+    <timeoffrag>10:16</timeoffrag>
+    <url>oa0QddQJSu0</url>
+    <downloadurl>1SeUsXyjzaBD9Cmu5rf-RSTdhGn3kEwaI</downloadurl>
+</entry>
+<entry id="86">
+    <weapons>M40A3</weapons>
+    <map>Strike</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>3</numberofkills>
+    <tags>Rel</tags>
+    <location>Shop</location>
+    <player>New</player>
+    <timeoffrag>11:30</timeoffrag>
+    <url>J6EP7jMqzRA</url>
+    <downloadurl>1SknvX1dFd3Af2stYR7aj-gRMxJxWZ_SG</downloadurl>
+</entry>
+<entry id="87">
+    <weapons>Deagle</weapons>
+    <map>Strike</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>2</numberofkills>
+    <tags>Js, Rel</tags>
+    <location>The Hood</location>
+    <player>New</player>
+    <timeoffrag>1:30</timeoffrag>
+    <url>U038Xa4rJao</url>
+    <downloadurl>1So9MX-Gtz8VE-Sy6pElTJl8RiZcmdaR_</downloadurl>
+</entry>
+<entry id="88">
+    <weapons>M4A03, Ak47, Grenade</weapons>
+    <map>Strike</map>
+    <camo>Default, Default, Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>5</numberofkills>
+    <tags>Js Ns Rel, Explosion</tags>
+    <location>The Hood, Shop</location>
+    <player>New</player>
+    <timeoffrag>1:18</timeoffrag>
+    <url>E5Lwb62dx5c</url>
+    <downloadurl>1So9MX-Gtz8VE-Sy6pElTJl8RiZcmdaR_</downloadurl>
+</entry>
+<entry id="89">
+    <weapons>M40A3, Grenade</weapons>
+    <map>Strike</map>
+    <camo>Default, Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>2</numberofkills>
+    <tags>Grenade Throw, Explosion</tags>
+    <location>Mid, Shop</location>
+    <player>New</player>
+    <timeoffrag>1:52</timeoffrag>
+    <url>2CWPw7QUm-g</url>
+    <downloadurl>1Sr5S2r3bY38sVEC35y1UlZYQvN2DWT9b</downloadurl>
+</entry>
+<entry id="90">
+    <weapons>M40A3</weapons>
+    <map>Strike</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>1</numberofkills>
+    <tags>Js Ns Qs, Explosion</tags>
+    <location>The Hood</location>
+    <player>New</player>
+    <timeoffrag>2:41</timeoffrag>
+    <url>_IPsXJfFECI</url>
+    <downloadurl>1T2YonhdL10TaRjIZBb5uPusk6d5Er-Ow</downloadurl>
+</entry>
+<entry id="91">
+    <weapons>M40A3</weapons>
+    <map>Strike</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>1</numberofkills>
+    <tags>Js Ns Qs, Looking Up</tags>
+    <location>The Hood, Uphill</location>
+    <player>New</player>
+    <timeoffrag>3:31</timeoffrag>
+    <url>zeJgUWUm7cw</url>
+    <downloadurl>1T4ir4RqBRdel-or1yDT6D4FFAoKs0t2D</downloadurl>
+</entry>
+<entry id="92">
+    <weapons>M40A3</weapons>
+    <map>Crossfire</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>4</numberofkills>
+    <tags>Rel, Qs</tags>
+    <location>Coffee</location>
+    <player>New</player>
+    <timeoffrag>3:25</timeoffrag>
+    <url>abGw7gwNuHo</url>
+    <downloadurl>1TAe3Ug1wjcqYXkPL_iUc3uywEsHESGC4</downloadurl>
+</entry>
+<entry id="93">
+    <weapons>Deagle, M40A3</weapons>
+    <map>Crossfire</map>
+    <camo>Default, Desert</camo>
+    <mod>Promod</mod>
+    <numberofkills>3</numberofkills>
+    <tags>Rel, Js Ns Qs</tags>
+    <location>Shop</location>
+    <player>New</player>
+    <timeoffrag>5:25</timeoffrag>
+    <url>0NkGxMW3ta0</url>
+    <downloadurl>1TEIu8FyX1QkaV8f05CT9AvhdC86rmf-v</downloadurl>
+</entry>
+<entry id="94">
+    <weapons>M40A3</weapons>
+    <map>Crossfire</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>4</numberofkills>
+    <tags>Rel, Qs</tags>
+    <location>Shop</location>
+    <player>New</player>
+    <timeoffrag>7:50</timeoffrag>
+    <url>BdKGi9tjd7o</url>
+    <downloadurl>1TIgexE4V53MG3IVxeJgknCpeWmH542nx</downloadurl>
+</entry>
+<entry id="95">
+    <weapons>M40A3</weapons>
+    <map>Crossfire</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>3</numberofkills>
+    <tags>Rel, Qs</tags>
+    <location>Alley</location>
+    <player>New</player>
+    <timeoffrag>8:12</timeoffrag>
+    <url>c5r4JTDT5LA</url>
+    <downloadurl>1TKDoM50sS1C8dpg_bCsNwP_Pl9QHM0_U</downloadurl>
+</entry>
+<entry id="96">
+    <weapons>Ak47u, Ak47</weapons>
+    <map>Crossfire</map>
+    <camo>Default, Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>5</numberofkills>
+    <tags>First Raise</tags>
+    <location>Bakery</location>
+    <player>New</player>
+    <timeoffrag>5:50</timeoffrag>
+    <url>vltLhndCOWI</url>
+    <downloadurl>1TKPJxVX54e2SZDEq1sqPvNcZDt3ibBeM</downloadurl>
+</entry>
+<entry id="97">
+    <weapons>M40A3</weapons>
+    <map>Crossfire</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>4</numberofkills>
+    <tags>Rel, Ns Qs</tags>
+    <location>Diner</location>
+    <player>New</player>
+    <timeoffrag>11:04</timeoffrag>
+    <url>HuCCvcYTUMY</url>
+    <downloadurl>1TNjQ34HxO5Lgcpb3tM7gPATWBAKRIUSr</downloadurl>
+</entry>
+<entry id="98">
+    <weapons>Ak47u, Deagle</weapons>
+    <map>Crash</map>
+    <camo>Blue Tiger, Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>4</numberofkills>
+    <tags>Js</tags>
+    <location>Roof, Mid</location>
+    <player>New</player>
+    <timeoffrag>0:45</timeoffrag>
+    <url>0MH5jRpwo9E</url>
+    <downloadurl>1TS1EQvB-gb9PFO7-xjDuFmluzYVq_1HS</downloadurl>
+</entry>
+<entry id="99">
+    <weapons>Ak47u</weapons>
+    <map>Crash</map>
+    <camo>Blue Tiger</camo>
+    <mod>Promod</mod>
+    <numberofkills>2</numberofkills>
+    <tags></tags>
+    <location>Shop</location>
+    <player>New</player>
+    <timeoffrag>3:37</timeoffrag>
+    <url>Ae6uEjtzXBc</url>
+    <downloadurl>1TWWbiLWeVmoPDDf5JnsVrsy7F6NvczhJ</downloadurl>
+</entry>
+<entry id="100">
+    <weapons>Ak47u</weapons>
+    <map>Crash</map>
+    <camo>Blue Tiger</camo>
+    <mod>Promod</mod>
+    <numberofkills>2</numberofkills>
+    <tags>Qs, Looking Up</tags>
+    <location>Backyard</location>
+    <player>New</player>
+    <timeoffrag>10:33</timeoffrag>
+    <url>nDsPQNOTtqY</url>
+    <downloadurl>1TW_05R4tk-_5Wr04010L2TsB7cVDne5f</downloadurl>
 </entry>
 </database>
