@@ -4211,4 +4211,56 @@
     <url>mlhb_ZFE8cU</url>
     <downloadurl>1icqxylkIef6CFQ6L68Im-jrRtvuuq9x0</downloadurl>
 </entry>
+<entry id="325">
+    <weapons>Deagle</weapons>
+    <map>Crossfire</map>
+    <camo>Default</camo>
+    <mod>No Mod</mod>
+    <numberofkills>1</numberofkills>
+    <tags>Js</tags>
+    <location>Alley</location>
+    <player>Rav</player>
+    <timeoffrag></timeoffrag>
+    <url>9uELPjdR6YA</url>
+    <downloadurl>1ijqdM2CHAVEh9xBU7hqDPOGONjMuqi6M</downloadurl>
+</entry>
+<entry id="326">
+    <weapons>Deagle, M40A3</weapons>
+    <map>Crossfire</map>
+    <camo>Default, Default</camo>
+    <mod>No Mod</mod>
+    <numberofkills>2</numberofkills>
+    <tags>Js Ns Wb</tags>
+    <location>Hotel</location>
+    <player>Rav</player>
+    <timeoffrag></timeoffrag>
+    <url>3jlC9ftz5n8</url>
+    <downloadurl>1ivc4FXsdB-TdHTpXHWOoDGG-dfTVGdl_</downloadurl>
+</entry>
+<entry id="327">
+    <weapons>Ak47u</weapons>
+    <map>District</map>
+    <camo>Default</camo>
+    <mod>No Mod</mod>
+    <numberofkills>3</numberofkills>
+    <tags></tags>
+    <location>Westminister</location>
+    <player>Rav</player>
+    <timeoffrag></timeoffrag>
+    <url>k4d9ffXPvm8</url>
+    <downloadurl>1iyxXh2wS5VdnHepLS4Z6_w22ukL4F8DR</downloadurl>
+</entry>
+<entry id="328">
+    <weapons>M40A3</weapons>
+    <map>Strike</map>
+    <camo>Default</camo>
+    <mod>No Mod</mod>
+    <numberofkills>3</numberofkills>
+    <tags>Wb</tags>
+    <location>Shop, Marketplace</location>
+    <player>Rav</player>
+    <timeoffrag></timeoffrag>
+    <url>Y2DkbEzpP_Y</url>
+    <downloadurl>1izyPhM_Nez-dDMr2lw-mlyISfYEkf9SH</downloadurl>
+</entry>
 </database>
