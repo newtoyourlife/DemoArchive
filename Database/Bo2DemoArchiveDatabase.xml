@@ -1741,5 +1741,485 @@
   <url>ufnGhEsJ7QM</url>
   <downloadurl>1jOO8GCrgvZWulGQH9qungvn9RyaJvrXw</downloadurl>
 </entry>
-
+<entry id="144">
+  <weapons>An94</weapons>
+  <camos>CE Digital</camos>
+  <attachment></attachment>
+  <map>Meltdown</map>
+  <numberofkills>7</numberofkills>
+  <tags>Rel</tags>
+  <location></location>
+  <player>Carter</player>
+  <timeoffrag>2:50</timeoffrag>
+  <url>QchTcVkE_AI</url>
+  <downloadurl>1jPK8HXCBdVnxmTAdzkhaaGjXu5Q3hfDm</downloadurl>
+</entry>
+<entry id="145">
+  <weapons>An94, Lsat</weapons>
+  <camos>CE Digital</camos>
+  <attachment></attachment>
+  <map>Express</map>
+  <numberofkills>4</numberofkills>
+  <tags></tags>
+  <location></location>
+  <player>Carter</player>
+  <timeoffrag>4:14</timeoffrag>
+  <url>NlygVZBJPak</url>
+  <downloadurl>1jPK8HXCBdVnxmTAdzkhaaGjXu5Q3hfDm</downloadurl>
+</entry>
+<entry id="146">
+  <weapons>MSMC</weapons>
+  <camos>Siberia</camos>
+  <attachment></attachment>
+  <map>Express</map>
+  <numberofkills>4</numberofkills>
+  <tags></tags>
+  <location></location>
+  <player>Carter</player>
+  <timeoffrag>1:15</timeoffrag>
+  <url>J7E7_yv-Ae0</url>
+  <downloadurl>1jQD7UVDfmTsa7VZCHs7pLWlNZBLbo4-y</downloadurl>
+</entry>
+<entry id="147">
+  <weapons>An94, MSMC</weapons>
+  <camos>Ghosts, Default</camos>
+  <attachment>Fast Mags</attachment>
+  <map>Express</map>
+  <numberofkills>4</numberofkills>
+  <tags>Rel</tags>
+  <location></location>
+  <player>Carter</player>
+  <timeoffrag>3:55</timeoffrag>
+  <url>bTKCCUOOLuI</url>
+  <downloadurl>1jQD7UVDfmTsa7VZCHs7pLWlNZBLbo4-y</downloadurl>
+</entry>
+<entry id="148">
+  <weapons>Ballista</weapons>
+  <camos>Viper</camos>
+  <attachment>Laser</attachment>
+  <map>Raid</map>
+  <numberofkills>1</numberofkills>
+  <tags>Rel, Js, Ns</tags>
+  <location></location>
+  <player>Pepsi</player>
+  <timeoffrag>2:50</timeoffrag>
+  <url>2kFpGNsz-yM</url>
+  <downloadurl>1j_GNrymQ5zPhJewjbqRxdFTtVHPDnSjt</downloadurl>
+</entry>
+<entry id="149">
+  <weapons>Ballista</weapons>
+  <camos>Rogue</camos>
+  <attachment></attachment>
+  <map>Downhill</map>
+  <numberofkills>2</numberofkills>
+  <tags>Rel, Js, Scoped</tags>
+  <location></location>
+  <player>Pepsi</player>
+  <timeoffrag>4:40</timeoffrag>
+  <url>1XCkAGCx5co</url>
+  <downloadurl>1jcGHwMJ8MJkSjcyFcGpo3sYrYi_-qZYQ</downloadurl>
+</entry>
+<entry id="150">
+  <weapons>Ballista</weapons>
+  <camos>Art Of War</camos>
+  <attachment></attachment>
+  <map>Slums</map>
+  <numberofkills>2</numberofkills>
+  <tags>Qs, Ballistic Knives, First Raise</tags>
+  <location></location>
+  <player>Simon</player>
+  <timeoffrag></timeoffrag>
+  <url>qnEIhtYmvbo</url>
+  <downloadurl>1jcVNflP33wjeR_6oq_cebWCEzPtW0f2q</downloadurl>
+</entry>
+<entry id="151">
+  <weapons>Ballista, Tomahawk</weapons>
+  <camos>Cherry Blossom</camos>
+  <attachment>Fast Mag</attachment>
+  <map>Overflow</map>
+  <numberofkills>2</numberofkills>
+  <tags>Tomahawk</tags>
+  <location></location>
+  <player>Furtix</player>
+  <timeoffrag>10:50</timeoffrag>
+  <url>jTD1yTQxqHQ</url>
+  <downloadurl>1jeQG-fAKJg4gV59A1p8rGOm1GMaV3aNc</downloadurl>
+</entry>
+<entry id="152">
+  <weapons>Ballista, Xpr</weapons>
+  <camos>Bloodshot, CherryBlossom</camos>
+  <attachment></attachment>
+  <map>Meltdown</map>
+  <numberofkills>4</numberofkills>
+  <tags>Scoped, Qs</tags>
+  <location></location>
+  <player>swap clips</player>
+  <timeoffrag>3:20</timeoffrag>
+  <url>JxQ3DfPnFvo</url>
+  <downloadurl>1jeQG-fAKJg4gV59A1p8rGOm1GMaV3aNc</downloadurl>
+</entry>
+<entry id="153">
+  <weapons>Ballista</weapons>
+  <camos>Aqua</camos>
+  <attachment></attachment>
+  <map>Carrier</map>
+  <numberofkills>3</numberofkills>
+  <tags>Tactical Insert, Rel</tags>
+  <location></location>
+  <player>Deadline</player>
+  <timeoffrag>1:12</timeoffrag>
+  <url>F-zzJbeOtMs</url>
+  <downloadurl>1jlSIbpw8NItyvdrEx6tZDee3fZuAP9VN</downloadurl>
+</entry>
+<entry id="154">
+  <weapons>Exec, Ballista</weapons>
+  <camos>Default, Default</camos>
+  <attachment>Laser</attachment>
+  <map>Slums</map>
+  <numberofkills>4</numberofkills>
+  <tags>Double Collat, Js Rel</tags>
+  <location></location>
+  <player>Pepsi</player>
+  <timeoffrag>2:50</timeoffrag>
+  <url>bmdI_E1kRDc</url>
+  <downloadurl>1jmIbC7uFyage5kcis10hIqH5OaEfiV6I</downloadurl>
+</entry>
+<entry id="155">
+  <weapons>Ballista</weapons>
+  <camos>Diamond</camos>
+  <attachment>CPU</attachment>
+  <map>Nuketown</map>
+  <numberofkills>3</numberofkills>
+  <tags>Triple Collat</tags>
+  <location></location>
+  <player>Traizz</player>
+  <timeoffrag>6:27</timeoffrag>
+  <url>4rjuYvtvu7w</url>
+  <downloadurl>1jtuanzYQ-7qWPj6pWsLytv22UIfx2_7F</downloadurl>
+</entry>
+<entry id="156">
+  <weapons>Ballista</weapons>
+  <camos>Diamond</camos>
+  <attachment>Cpu</attachment>
+  <map>Slums</map>
+  <numberofkills>3</numberofkills>
+  <tags>First Raise, Rel</tags>
+  <location></location>
+  <player>Viper</player>
+  <timeoffrag>1:50</timeoffrag>
+  <url>JI-9r1mBfwk</url>
+  <downloadurl>1juvsj2qHWy6OwYieT7HQYrX1Zn7kMt47</downloadurl>
+</entry>
+<entry id="157">
+  <weapons>Ballista</weapons>
+  <camos>Ronin</camos>
+  <attachment></attachment>
+  <map>Standoff</map>
+  <numberofkills>3</numberofkills>
+  <tags>Triple Collat</tags>
+  <location></location>
+  <player>Para</player>
+  <timeoffrag></timeoffrag>
+  <url>Wj_kqsgM1zU</url>
+  <downloadurl>1kAonejGFmUdyLh2ivOmd3RfGyYSpp-jp</downloadurl>
+</entry>
+<entry id="158">
+  <weapons>Ballista, Dsr</weapons>
+  <camos>Coyote</camos>
+  <attachment>Laser</attachment>
+  <map>Standoff</map>
+  <numberofkills>3</numberofkills>
+  <tags></tags>
+  <location></location>
+  <player>Skieeq</player>
+  <timeoffrag>4:50</timeoffrag>
+  <url>btZdOzKfoPA</url>
+  <downloadurl>1kGp3X8UmHmVkfidZLdN-3emY6yudCK7R</downloadurl>
+</entry>
+<entry id="159">
+  <weapons>Ballista</weapons>
+  <camos>Octane</camos>
+  <attachment></attachment>
+  <map>Aftermath</map>
+  <numberofkills>4</numberofkills>
+  <tags></tags>
+  <location></location>
+  <player>Furtix</player>
+  <timeoffrag>4:05</timeoffrag>
+  <url>T5B8do6aVek</url>
+  <downloadurl>1kIFG_w5Oj-Rr7IE_xzgfGQn1wwsiaGNm</downloadurl>
+</entry>
+<entry id="160">
+  <weapons>Ballista</weapons>
+  <camos>Comics</camos>
+  <attachment></attachment>
+  <map>Aftermath</map>
+  <numberofkills>4</numberofkills>
+  <tags>Double Collat</tags>
+  <location></location>
+  <player>VYCK</player>
+  <timeoffrag>3:50</timeoffrag>
+  <url>vLiifTmFF-o</url>
+  <downloadurl>1kKUFfuScy0MJrCJU-worlpk6yHOdOJDX</downloadurl>
+</entry>
+<entry id="161">
+  <weapons>Ballista, Xpr</weapons>
+  <camos>Art Of War</camos>
+  <attachment></attachment>
+  <map>Express</map>
+  <numberofkills>4</numberofkills>
+  <tags>Double Collat, Rel</tags>
+  <location></location>
+  <player>Seven IV</player>
+  <timeoffrag>2:05</timeoffrag>
+  <url>NCGd3J1-bxk</url>
+  <downloadurl>1kL8ibMg0rXd-PY6CGHfDZPbkv2gYLxvW</downloadurl>
+</entry>
+<entry id="162">
+  <weapons>Ballista, Xpr</weapons>
+  <camos>Art Of War</camos>
+  <attachment></attachment>
+  <map>Express</map>
+  <numberofkills>4</numberofkills>
+  <tags>Double Collat, Rel</tags>
+  <location></location>
+  <player>Seven IV</player>
+  <timeoffrag>4:50</timeoffrag>
+  <url>TuRcWiArXbk</url>
+  <downloadurl>1kL8ibMg0rXd-PY6CGHfDZPbkv2gYLxvW</downloadurl>
+</entry>
+<entry id="163">
+  <weapons>Ballista, Xpr</weapons>
+  <camos>Art Of War</camos>
+  <attachment>Last</attachment>
+  <map>Express</map>
+  <numberofkills>4</numberofkills>
+  <tags>Rel, Ns, Js</tags>
+  <location></location>
+  <player>SwiLzZ</player>
+  <timeoffrag>4:10</timeoffrag>
+  <url>8_y7as79xPg</url>
+  <downloadurl>1kUhe3d1YVy9_HQBme30GW7lyZ0inN6ym</downloadurl>
+</entry>
+<entry id="164">
+  <weapons>Ballista, Xpr</weapons>
+  <camos>Octane</camos>
+  <attachment></attachment>
+  <map>Express</map>
+  <numberofkills>4</numberofkills>
+  <tags>Triple Collat</tags>
+  <location></location>
+  <player>Klim</player>
+  <timeoffrag>6:10</timeoffrag>
+  <url>dnu55d7ROAw</url>
+  <downloadurl>1kVjAMEqyxIjpOok5br5oPSbwUP_o_vdG</downloadurl>
+</entry>
+<entry id="165">
+  <weapons>Ballista</weapons>
+  <camos>Kryptek</camos>
+  <attachment></attachment>
+  <map>Hijacked</map>
+  <numberofkills>4</numberofkills>
+  <tags>Rel, Wb</tags>
+  <location></location>
+  <player>Lumik</player>
+  <timeoffrag>4:20</timeoffrag>
+  <url>EKUtLQI-QHo</url>
+  <downloadurl>1kiMQHuBeeWMaBpAzhUYklWUrlwdXrrnw</downloadurl>
+</entry>
+<entry id="166">
+  <weapons>Ballista</weapons>
+  <camos>Kryptek</camos>
+  <attachment></attachment>
+  <map>Hijacked</map>
+  <numberofkills>4</numberofkills>
+  <tags>Lb</tags>
+  <location></location>
+  <player>Lumik</player>
+  <timeoffrag>1:20</timeoffrag>
+  <url>e8u41rMgvm4</url>
+  <downloadurl>1kiMQHuBeeWMaBpAzhUYklWUrlwdXrrnw</downloadurl>
+</entry>
+<entry id="167">
+  <weapons>Ballista</weapons>
+  <camos>Cyborg</camos>
+  <attachment></attachment>
+  <map>Meltdown</map>
+  <numberofkills>4</numberofkills>
+  <tags>Rel</tags>
+  <location></location>
+  <player>VYCK</player>
+  <timeoffrag>4:50</timeoffrag>
+  <url>yAw7SxXumgs</url>
+  <downloadurl>1kkBCbsY1sUJ3WOTF7cdixEy9b8FaQ-T3</downloadurl>
+</entry>
+<entry id="168">
+  <weapons>Ballista</weapons>
+  <camos>Default</camos>
+  <attachment></attachment>
+  <map>Plaza</map>
+  <numberofkills>4</numberofkills>
+  <tags>Rel</tags>
+  <location></location>
+  <player>cod is gay</player>
+  <timeoffrag></timeoffrag>
+  <url>Es8TjK7xEVo</url>
+  <downloadurl>1kmKtMExK18uEWCnnttmQ1R0JixwYo3xO</downloadurl>
+</entry>
+<entry id="169">
+  <weapons>Ballista</weapons>
+  <camos>Digital</camos>
+  <attachment></attachment>
+  <map>Raid</map>
+  <numberofkills>4</numberofkills>
+  <tags>Ns, Rel</tags>
+  <location></location>
+  <player>Roastyy</player>
+  <timeoffrag>4:25</timeoffrag>
+  <url>Jirb84lK1WA</url>
+  <downloadurl>1l-DHyrUblBvjNY0FU_lw5veOO_FkY9yx</downloadurl>
+</entry>
+<entry id="170">
+  <weapons>Ballista</weapons>
+  <camos>Ghosts</camos>
+  <attachment></attachment>
+  <map>Raid</map>
+  <numberofkills>4</numberofkills>
+  <tags>Rel, Rel, Rel</tags>
+  <location></location>
+  <player>Vlone Roaster</player>
+  <timeoffrag>5:00</timeoffrag>
+  <url>CSahywNwkks</url>
+  <downloadurl>1l2DlJGQxM91rRyhtKujm9CjMkfYV0GbR</downloadurl>
+</entry>
+<entry id="171">
+  <weapons>Ballista</weapons>
+  <camos>Cyborg</camos>
+  <attachment></attachment>
+  <map>Slums</map>
+  <numberofkills>4</numberofkills>
+  <tags>Double Collat</tags>
+  <location></location>
+  <player>VYCK</player>
+  <timeoffrag>1:50</timeoffrag>
+  <url>QMZgyY5jA1w</url>
+  <downloadurl>1lKWYi1CBujZzq5Wy1AlK8N8wVHyHShUC</downloadurl>
+</entry>
+<entry id="172">
+  <weapons>Mp7, Ballista</weapons>
+  <camos>Ghosts, Digital</camos>
+  <attachment></attachment>
+  <map>Slums</map>
+  <numberofkills>5</numberofkills>
+  <tags>Rel, Collat</tags>
+  <location></location>
+  <player>Roastyy</player>
+  <timeoffrag>3:40</timeoffrag>
+  <url>xcrK8fBx7dk</url>
+  <downloadurl>1lL_FViz_x7G_XPLAPJEe72DcLzfcCy6O</downloadurl>
+</entry>
+<entry id="173">
+  <weapons>Ballista</weapons>
+  <camos>Beast</camos>
+  <attachment>Thermal</attachment>
+  <map>Slums</map>
+  <numberofkills>4</numberofkills>
+  <tags>Triple Collat</tags>
+  <location></location>
+  <player>Carter</player>
+  <timeoffrag>1:00</timeoffrag>
+  <url>1ezQaZpiCuU</url>
+  <downloadurl>1lPJ2ItQuXb0xpzy49Ytk5CXeud9D4puu</downloadurl>
+</entry>
+<entry id="174">
+  <weapons>Ballista</weapons>
+  <camos>Viper</camos>
+  <attachment></attachment>
+  <map>Standoff</map>
+  <numberofkills>4</numberofkills>
+  <tags>Triple Collat, Ragdoll</tags>
+  <location></location>
+  <player>Ranger</player>
+  <timeoffrag>1:50</timeoffrag>
+  <url>Dn1nG4daSs8</url>
+  <downloadurl>1lRwQI_D-8_2Nl5GqSZOWekABIWEsTPrV</downloadurl>
+</entry>
+<entry id="175">
+  <weapons>Ballista</weapons>
+  <camos>Graffiti</camos>
+  <attachment>Thermal</attachment>
+  <map>Drone</map>
+  <numberofkills>4</numberofkills>
+  <tags></tags>
+  <location></location>
+  <player>Zalez</player>
+  <timeoffrag>2:35</timeoffrag>
+  <url>YrCfW10MqAo</url>
+  <downloadurl>1lT4jrbi3QiWieP-LIMkffID12XE1La1h</downloadurl>
+</entry>
+<entry id="176">
+  <weapons>Ballista</weapons>
+  <camos>Graffiti</camos>
+  <attachment>Thermal</attachment>
+  <map>Drone</map>
+  <numberofkills>3</numberofkills>
+  <tags>Explosion</tags>
+  <location></location>
+  <player>Zalez</player>
+  <timeoffrag>3:20</timeoffrag>
+  <url>ff5VOUqi1Eg</url>
+  <downloadurl>1lT4jrbi3QiWieP-LIMkffID12XE1La1h</downloadurl>
+</entry>
+<entry id="177">
+  <weapons>Ballista</weapons>
+  <camos>Graffiti</camos>
+  <attachment>Thermal</attachment>
+  <map>Drone</map>
+  <numberofkills>5</numberofkills>
+  <tags>Lb</tags>
+  <location></location>
+  <player>Zalez</player>
+  <timeoffrag>10:10</timeoffrag>
+  <url>DoiikhW9054</url>
+  <downloadurl>1lT4jrbi3QiWieP-LIMkffID12XE1La1h</downloadurl>
+</entry>
+<entry id="178">
+  <weapons>Ballista</weapons>
+  <camos>Default</camos>
+  <attachment>Iron Sight</attachment>
+  <map>Slums</map>
+  <numberofkills>4</numberofkills>
+  <tags>Double Collat, Explosion</tags>
+  <location></location>
+  <player>r o a s t e r</player>
+  <timeoffrag>2:05</timeoffrag>
+  <url>xyr9fcqUEq8</url>
+  <downloadurl>1lUvrC2xjMow-LkynQl2SBG6hfiYOqTLj</downloadurl>
+</entry>
+<entry id="179">
+  <weapons>Ballista</weapons>
+  <camos>Default</camos>
+  <attachment>Iron Sight</attachment>
+  <map>Slums</map>
+  <numberofkills>4</numberofkills>
+  <tags>Rel</tags>
+  <location></location>
+  <player>r o a s t e r</player>
+  <timeoffrag>2:50</timeoffrag>
+  <url>https://youtu.be/N9UIWb4b9bw</url>
+  <downloadurl>1lUvrC2xjMow-LkynQl2SBG6hfiYOqTLj</downloadurl>
+</entry>
+<entry id="180">
+  <weapons>Ballista</weapons>
+  <camos>Default</camos>
+  <attachment>Iron Sight</attachment>
+  <map>Slums</map>
+  <numberofkills>4</numberofkills>
+  <tags>Rel</tags>
+  <location></location>
+  <player>r o a s t e r</player>
+  <timeoffrag>4:05</timeoffrag>
+  <url>pxtVoebixOw</url>
+  <downloadurl>1lUvrC2xjMow-LkynQl2SBG6hfiYOqTLj</downloadurl>
+</entry>
 </database>
