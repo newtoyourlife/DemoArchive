@@ -4241,7 +4241,7 @@
     <weapons>Ak47u</weapons>
     <map>District</map>
     <camo>Default</camo>
-    <mod>No Mod</mod>
+    <mod>Promod</mod>
     <numberofkills>3</numberofkills>
     <tags></tags>
     <location>Westminister</location>
@@ -4265,9 +4265,9 @@
 </entry>
   <entry id="329">
   <weapons>R700</weapons>
-  <camos>Default</camos>
-  <attachment>Promod</attachment>
   <map>Crash</map>
+  <camos>Default</camos>
+  <mod>Promod</mod>
   <numberofkills>3</numberofkills>
   <tags>Rel</tags>
   <location>Roof</location>
@@ -4280,7 +4280,7 @@
     <weapons>M40A3</weapons>
     <map>Strike</map>
     <camo>Default</camo>
-    <mod>No Mod</mod>
+    <mod>Promod</mod>
     <numberofkills>4</numberofkills>
     <tags>Rel</tags>
     <location>Marketplace</location>
@@ -4293,7 +4293,7 @@
     <weapons>M40A3</weapons>
     <map>Crash</map>
     <camo>Default</camo>
-    <mod>No Mod</mod>
+    <mod>Promod</mod>
     <numberofkills>3</numberofkills>
     <tags>Grenade Throw</tags>
     <location>BackAlley</location>
@@ -4306,7 +4306,7 @@
     <weapons>M40A3</weapons>
     <map>District</map>
     <camo>Default</camo>
-    <mod>No Mod</mod>
+    <mod>Promod</mod>
     <numberofkills>4</numberofkills>
     <tags>Qs, Rel</tags>
     <location>Chelsea</location>
@@ -4319,7 +4319,7 @@
     <weapons>Deagle, R700</weapons>
     <map>Crash</map>
     <camo>Default, Default</camo>
-    <mod>No Mod</mod>
+    <mod>Promod</mod>
     <numberofkills>4</numberofkills>
     <tags>Js, Ns</tags>
     <location>BackAlley</location>
@@ -4332,7 +4332,7 @@
     <weapons>M40A3</weapons>
     <map>Crash</map>
     <camo>Default</camo>
-    <mod>No Mod</mod>
+    <mod>Promod</mod>
     <numberofkills>5</numberofkills>
     <tags>Rel</tags>
     <location>Shop</location>
@@ -4345,7 +4345,7 @@
     <weapons>Ak47u, Deagle</weapons>
     <map>Crash</map>
     <camo>Default, Default</camo>
-    <mod>No Mod</mod>
+    <mod>Promod</mod>
     <numberofkills>4</numberofkills>
     <tags>Qs, Rel</tags>
     <location>Shop</location>
@@ -4358,7 +4358,7 @@
     <weapons>R700</weapons>
     <map>Crash</map>
     <camo>Default</camo>
-    <mod>No Mod</mod>
+    <mod>Promod</mod>
     <numberofkills>1</numberofkills>
     <tags>Ladder, Js Ns Rel</tags>
     <location>BackAlley</location>
@@ -4371,7 +4371,7 @@
     <weapons>R700</weapons>
     <map>Crash</map>
     <camo>Default</camo>
-    <mod>No Mod</mod>
+    <mod>Promod</mod>
     <numberofkills>3</numberofkills>
     <tags>Ns Rel, Rel</tags>
     <location>Helicopter</location>
@@ -4384,7 +4384,7 @@
     <weapons>R700</weapons>
     <map>Crash</map>
     <camo>Default</camo>
-    <mod>No Mod</mod>
+    <mod>Promod</mod>
     <numberofkills>3</numberofkills>
     <tags>Ns Rel, Qs</tags>
     <location>Factory</location>
@@ -4397,7 +4397,7 @@
     <weapons>M40A3</weapons>
     <map>Dahman</map>
     <camo>Default</camo>
-    <mod>No Mod</mod>
+    <mod>Promod</mod>
     <numberofkills>1</numberofkills>
     <tags>Js Ns</tags>
     <location></location>
