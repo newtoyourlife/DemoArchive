@@ -4406,4 +4406,69 @@
     <url>Or9bWgiArBE</url>
     <downloadurl>1ouMNu0E9Vgb7pwfXLFvv4FPz5_R8GpvE</downloadurl>
 </entry>
+  <entry id="340">
+    <weapons>M40A3</weapons>
+    <map>Crash</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>2</numberofkills>
+    <tags>Js Ns</tags>
+    <location>Roofsmall</location>
+    <player>New</player>
+    <timeoffrag>10:13</timeoffrag>
+    <url>V0mLtJ4wZSs</url>
+    <downloadurl>1p7ssDVt5XnWQK5Hk6qGzfVLhs1qiDJsc</downloadurl>
+</entry>
+<entry id="341">
+    <weapons>M40A3</weapons>
+    <map>Crash</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>2</numberofkills>
+    <tags>Js Ns Rel</tags>
+    <location>Tower, Slope</location>
+    <player>New</player>
+    <timeoffrag>11:37</timeoffrag>
+    <url>ssc3SUu25TM</url>
+    <downloadurl>1p9JXU5yff6qzRPKnkMNytYH3MORbx0_G</downloadurl>
+</entry>
+<entry id="342">
+    <weapons>M40A3</weapons>
+    <map>Crash</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>2</numberofkills>
+    <tags>Js Ns Rel, Nest</tags>
+    <location>BackAlley</location>
+    <player>New</player>
+    <timeoffrag>14:20</timeoffrag>
+    <url>SpA_Q9Sr3rk</url>
+    <downloadurl>1pHbB0dbiG5-ZVrz940nbOJHRQ9KqE7CZ</downloadurl>
+</entry>
+<entry id="343">
+    <weapons>Deagle, M40A3</weapons>
+    <map>District</map>
+    <camo>Gold, Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>4</numberofkills>
+    <tags>Explosion, Grenade Throw, Rel</tags>
+    <location>Baker, Haymarket</location>
+    <player>New</player>
+    <timeoffrag>1:10</timeoffrag>
+    <url>yJeOuQYnfH8</url>
+    <downloadurl>1pXF3g1EQ2fETylGssyk59zA6wObwPRLR</downloadurl>
+</entry>
+<entry id="344">
+    <weapons>M40A3</weapons>
+    <map>District</map>
+    <camo>Default</camo>
+    <mod>Promod</mod>
+    <numberofkills>2</numberofkills>
+    <tags>Js Ns, Looking Down</tags>
+    <location>Waterloo</location>
+    <player>New</player>
+    <timeoffrag>8:00</timeoffrag>
+    <url>9dyWR5cwUFo</url>
+    <downloadurl>1pYGJ5jZP1JqasEpRE_Ghef1M3e7eUQXb</downloadurl>
+</entry>
 </database>
