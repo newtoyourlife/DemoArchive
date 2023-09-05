@@ -3392,4 +3392,56 @@
   <url>AN7gvm5Rpyc</url>
   <downloadurl>1rFw2HxA7zoqMHy7OODZnlXGG6WuHqhyg</downloadurl>
 </entry>
+  <entry id="271">
+  <weapons>Tac45, Dsr</weapons>
+  <camos>Default, Kryptek</camos>
+  <attachment></attachment>
+  <map>Drone</map>
+  <numberofkills>4</numberofkills>
+  <tags>Qs, Rel</tags>
+  <location></location>
+  <player>Nooie</player>
+  <timeoffrag>7:22</timeoffrag>
+  <url>nl5YBAY1JFI</url>
+  <downloadurl>1rGJTPlpGaecj3aTbd9CYL_wFQXiyLzCI</downloadurl>
+</entry>
+<entry id="272">
+  <weapons>Dsr</weapons>
+  <camos>Kryptek</camos>
+  <attachment></attachment>
+  <map>Drone</map>
+  <numberofkills>2</numberofkills>
+  <tags>Double Collat, Ns</tags>
+  <location></location>
+  <player>Nooie</player>
+  <timeoffrag></timeoffrag>
+  <url>A2DjbH_q0RA</url>
+  <downloadurl>1rGJTPlpGaecj3aTbd9CYL_wFQXiyLzCI</downloadurl>
+</entry>
+<entry id="273">
+  <weapons>Dsr</weapons>
+  <camos>Kryptek</camos>
+  <attachment></attachment>
+  <map>Drone</map>
+  <numberofkills>4</numberofkills>
+  <tags>Rel, Lb</tags>
+  <location></location>
+  <player>Nooie</player>
+  <timeoffrag>6:25</timeoffrag>
+  <url>gRMsU34yNZY</url>
+  <downloadurl>1rGJTPlpGaecj3aTbd9CYL_wFQXiyLzCI</downloadurl>
+</entry>
+<entry id="274">
+  <weapons>Dsr</weapons>
+  <camos>Krptek</camos>
+  <attachment></attachment>
+  <map>Drone</map>
+  <numberofkills>4</numberofkills>
+  <tags>Rel</tags>
+  <location></location>
+  <player>Nooie</player>
+  <timeoffrag>6:55</timeoffrag>
+  <url>a6lbAjg3znY</url>
+  <downloadurl>1rGJTPlpGaecj3aTbd9CYL_wFQXiyLzCI</downloadurl>
+</entry>
 </database>
