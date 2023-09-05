@@ -1717,7 +1717,7 @@
 </entry>
   <entry id="142">
   <weapons>An94, Dsr</weapons>
-  <camos>Default, Blue Tiger</camos>
+  <camo>Default, Blue Tiger</camo>
   <attachment></attachment>
   <map>Nuketown</map>
   <numberofkills>3</numberofkills>
@@ -1730,7 +1730,7 @@
 </entry>
   <entry id="143">
   <weapons>An94</weapons>
-  <camos>Breach</camos>
+  <camo>Breach</camo>
   <attachment></attachment>
   <map>Nuketown</map>
   <numberofkills>7</numberofkills>
@@ -1743,7 +1743,7 @@
 </entry>
 <entry id="144">
   <weapons>An94</weapons>
-  <camos>CE Digital</camos>
+  <camo>CE Digital</camo>
   <attachment></attachment>
   <map>Nuketown</map>
   <numberofkills>7</numberofkills>
@@ -1756,7 +1756,7 @@
 </entry>
 <entry id="145">
   <weapons>An94, Lsat</weapons>
-  <camos>CE Digital</camos>
+  <camo>CE Digital</camo>
   <attachment></attachment>
   <map>Express</map>
   <numberofkills>4</numberofkills>
@@ -1769,7 +1769,7 @@
 </entry>
 <entry id="146">
   <weapons>MSMC</weapons>
-  <camos>Siberia</camos>
+  <camo>Siberia</camo>
   <attachment></attachment>
   <map>Express</map>
   <numberofkills>4</numberofkills>
@@ -1782,7 +1782,7 @@
 </entry>
 <entry id="147">
   <weapons>An94, MSMC</weapons>
-  <camos>Ghosts, Default</camos>
+  <camo>Ghosts, Default</camo>
   <attachment>Fast Mags</attachment>
   <map>Express</map>
   <numberofkills>4</numberofkills>
@@ -1795,7 +1795,7 @@
 </entry>
 <entry id="148">
   <weapons>Ballista</weapons>
-  <camos>Viper</camos>
+  <camo>Viper</camo>
   <attachment>Laser</attachment>
   <map>Raid</map>
   <numberofkills>1</numberofkills>
@@ -1808,7 +1808,7 @@
 </entry>
 <entry id="149">
   <weapons>Ballista</weapons>
-  <camos>Rogue</camos>
+  <camo>Rogue</camo>
   <attachment></attachment>
   <map>Downhill</map>
   <numberofkills>2</numberofkills>
@@ -1821,7 +1821,7 @@
 </entry>
 <entry id="150">
   <weapons>Ballista</weapons>
-  <camos>Art Of War</camos>
+  <camo>Art Of War</camo>
   <attachment></attachment>
   <map>Slums</map>
   <numberofkills>2</numberofkills>
@@ -1834,7 +1834,7 @@
 </entry>
 <entry id="151">
   <weapons>Ballista, Tomahawk</weapons>
-  <camos>Cherry Blossom</camos>
+  <camo>Cherry Blossom</camo>
   <attachment>Fast Mag</attachment>
   <map>Overflow</map>
   <numberofkills>2</numberofkills>
@@ -1847,7 +1847,7 @@
 </entry>
 <entry id="152">
   <weapons>Ballista, Xpr</weapons>
-  <camos>Bloodshot, CherryBlossom</camos>
+  <camo>Bloodshot, CherryBlossom</camo>
   <attachment></attachment>
   <map>Meltdown</map>
   <numberofkills>4</numberofkills>
@@ -1860,7 +1860,7 @@
 </entry>
 <entry id="153">
   <weapons>Ballista</weapons>
-  <camos>Aqua</camos>
+  <camo>Aqua</camo>
   <attachment></attachment>
   <map>Carrier</map>
   <numberofkills>3</numberofkills>
@@ -1873,7 +1873,7 @@
 </entry>
 <entry id="154">
   <weapons>Exec, Ballista</weapons>
-  <camos>Default, Default</camos>
+  <camo>Default, Default</camo>
   <attachment>Laser</attachment>
   <map>Slums</map>
   <numberofkills>4</numberofkills>
@@ -1886,7 +1886,7 @@
 </entry>
 <entry id="155">
   <weapons>Ballista</weapons>
-  <camos>Diamond</camos>
+  <camo>Diamond</camo>
   <attachment>CPU</attachment>
   <map>Nuketown</map>
   <numberofkills>3</numberofkills>
@@ -1899,7 +1899,7 @@
 </entry>
 <entry id="156">
   <weapons>Ballista</weapons>
-  <camos>Diamond</camos>
+  <camo>Diamond</camo>
   <attachment>Cpu</attachment>
   <map>Slums</map>
   <numberofkills>3</numberofkills>
@@ -1912,7 +1912,7 @@
 </entry>
 <entry id="157">
   <weapons>Ballista</weapons>
-  <camos>Ronin</camos>
+  <camo>Ronin</camo>
   <attachment></attachment>
   <map>Standoff</map>
   <numberofkills>3</numberofkills>
@@ -1925,7 +1925,7 @@
 </entry>
 <entry id="158">
   <weapons>Ballista, Dsr</weapons>
-  <camos>Coyote</camos>
+  <camo>Coyote</camo>
   <attachment>Laser</attachment>
   <map>Standoff</map>
   <numberofkills>3</numberofkills>
@@ -1938,7 +1938,7 @@
 </entry>
 <entry id="159">
   <weapons>Ballista</weapons>
-  <camos>Octane</camos>
+  <camo>Octane</camo>
   <attachment></attachment>
   <map>Aftermath</map>
   <numberofkills>4</numberofkills>
@@ -1951,7 +1951,7 @@
 </entry>
 <entry id="160">
   <weapons>Ballista</weapons>
-  <camos>Comics</camos>
+  <camo>Comics</camo>
   <attachment></attachment>
   <map>Aftermath</map>
   <numberofkills>4</numberofkills>
@@ -1964,7 +1964,7 @@
 </entry>
 <entry id="161">
   <weapons>Ballista, Xpr</weapons>
-  <camos>Art Of War</camos>
+  <camo>Art Of War</camo>
   <attachment></attachment>
   <map>Express</map>
   <numberofkills>4</numberofkills>
@@ -1977,7 +1977,7 @@
 </entry>
 <entry id="162">
   <weapons>Ballista, Xpr</weapons>
-  <camos>Art Of War</camos>
+  <camo>Art Of War</camo>
   <attachment></attachment>
   <map>Express</map>
   <numberofkills>4</numberofkills>
@@ -1990,7 +1990,7 @@
 </entry>
 <entry id="163">
   <weapons>Ballista, Xpr</weapons>
-  <camos>Art Of War</camos>
+  <camo>Art Of War</camo>
   <attachment>Last</attachment>
   <map>Express</map>
   <numberofkills>4</numberofkills>
@@ -2003,7 +2003,7 @@
 </entry>
 <entry id="164">
   <weapons>Ballista, Xpr</weapons>
-  <camos>Octane</camos>
+  <camo>Octane</camo>
   <attachment></attachment>
   <map>Express</map>
   <numberofkills>4</numberofkills>
@@ -2016,7 +2016,7 @@
 </entry>
 <entry id="165">
   <weapons>Ballista</weapons>
-  <camos>Kryptek</camos>
+  <camo>Kryptek</camo>
   <attachment></attachment>
   <map>Hijacked</map>
   <numberofkills>4</numberofkills>
@@ -2029,7 +2029,7 @@
 </entry>
 <entry id="166">
   <weapons>Ballista</weapons>
-  <camos>Kryptek</camos>
+  <camo>Kryptek</camo>
   <attachment></attachment>
   <map>Hijacked</map>
   <numberofkills>4</numberofkills>
@@ -2042,7 +2042,7 @@
 </entry>
 <entry id="167">
   <weapons>Ballista</weapons>
-  <camos>Cyborg</camos>
+  <camo>Cyborg</camo>
   <attachment></attachment>
   <map>Meltdown</map>
   <numberofkills>4</numberofkills>
@@ -2055,7 +2055,7 @@
 </entry>
 <entry id="168">
   <weapons>Ballista</weapons>
-  <camos>Default</camos>
+  <camo>Default</camo>
   <attachment></attachment>
   <map>Plaza</map>
   <numberofkills>4</numberofkills>
@@ -2068,7 +2068,7 @@
 </entry>
 <entry id="169">
   <weapons>Ballista</weapons>
-  <camos>Digital</camos>
+  <camo>Digital</camo>
   <attachment></attachment>
   <map>Raid</map>
   <numberofkills>4</numberofkills>
@@ -2081,7 +2081,7 @@
 </entry>
 <entry id="170">
   <weapons>Ballista</weapons>
-  <camos>Ghosts</camos>
+  <camo>Ghosts</camo>
   <attachment></attachment>
   <map>Raid</map>
   <numberofkills>4</numberofkills>
@@ -2094,7 +2094,7 @@
 </entry>
 <entry id="171">
   <weapons>Ballista</weapons>
-  <camos>Cyborg</camos>
+  <camo>Cyborg</camo>
   <attachment></attachment>
   <map>Slums</map>
   <numberofkills>4</numberofkills>
@@ -2107,7 +2107,7 @@
 </entry>
 <entry id="172">
   <weapons>Mp7, Ballista</weapons>
-  <camos>Ghosts, Digital</camos>
+  <camo>Ghosts, Digital</camo>
   <attachment></attachment>
   <map>Slums</map>
   <numberofkills>5</numberofkills>
@@ -2120,7 +2120,7 @@
 </entry>
 <entry id="173">
   <weapons>Ballista</weapons>
-  <camos>Beast</camos>
+  <camo>Beast</camo>
   <attachment>Thermal</attachment>
   <map>Slums</map>
   <numberofkills>4</numberofkills>
@@ -2133,7 +2133,7 @@
 </entry>
 <entry id="174">
   <weapons>Ballista</weapons>
-  <camos>Viper</camos>
+  <camo>Viper</camo>
   <attachment></attachment>
   <map>Standoff</map>
   <numberofkills>4</numberofkills>
@@ -2146,7 +2146,7 @@
 </entry>
 <entry id="175">
   <weapons>Ballista</weapons>
-  <camos>Graffiti</camos>
+  <camo>Graffiti</camo>
   <attachment>Thermal</attachment>
   <map>Drone</map>
   <numberofkills>4</numberofkills>
@@ -2159,7 +2159,7 @@
 </entry>
 <entry id="176">
   <weapons>Ballista</weapons>
-  <camos>Graffiti</camos>
+  <camo>Graffiti</camo>
   <attachment>Thermal</attachment>
   <map>Drone</map>
   <numberofkills>3</numberofkills>
@@ -2172,7 +2172,7 @@
 </entry>
 <entry id="177">
   <weapons>Ballista</weapons>
-  <camos>Graffiti</camos>
+  <camo>Graffiti</camo>
   <attachment>Thermal</attachment>
   <map>Drone</map>
   <numberofkills>5</numberofkills>
@@ -2185,7 +2185,7 @@
 </entry>
 <entry id="178">
   <weapons>Ballista</weapons>
-  <camos>Default</camos>
+  <camo>Default</camo>
   <attachment>Iron Sight</attachment>
   <map>Slums</map>
   <numberofkills>4</numberofkills>
@@ -2198,7 +2198,7 @@
 </entry>
 <entry id="179">
   <weapons>Ballista</weapons>
-  <camos>Default</camos>
+  <camo>Default</camo>
   <attachment>Iron Sight</attachment>
   <map>Slums</map>
   <numberofkills>4</numberofkills>
@@ -2211,7 +2211,7 @@
 </entry>
 <entry id="180">
   <weapons>Ballista</weapons>
-  <camos>Default</camos>
+  <camo>Default</camo>
   <attachment>Iron Sight</attachment>
   <map>Slums</map>
   <numberofkills>4</numberofkills>
@@ -2224,7 +2224,7 @@
 </entry>
   <entry id="181">
   <weapons>Ballista, C4</weapons>
-  <camos>Default</camos>
+  <camo>Default</camo>
   <attachment></attachment>
   <map>Aftermath</map>
   <numberofkills>6</numberofkills>
@@ -2237,7 +2237,7 @@
 </entry>
 <entry id="182">
   <weapons>Ballista</weapons>
-  <camos>Dia De Muertos</camos>
+  <camo>Dia De Muertos</camo>
   <attachment></attachment>
   <map>Carrier</map>
   <numberofkills>5</numberofkills>
@@ -2250,7 +2250,7 @@
 </entry>
 <entry id="183">
   <weapons>Ballista</weapons>
-  <camos>Art Of War</camos>
+  <camo>Art Of War</camo>
   <attachment></attachment>
   <map>Downhill</map>
   <numberofkills>5</numberofkills>
@@ -2263,7 +2263,7 @@
 </entry>
 <entry id="184">
   <weapons>Ballista</weapons>
-  <camos>Default</camos>
+  <camo>Default</camo>
   <attachment></attachment>
   <map>Grind</map>
   <numberofkills>5</numberofkills>
@@ -2276,7 +2276,7 @@
 </entry>
 <entry id="185">
   <weapons>Ballista</weapons>
-  <camos>Comics</camos>
+  <camo>Comics</camo>
   <attachment></attachment>
   <map>Hijacked</map>
   <numberofkills>5</numberofkills>
@@ -2289,7 +2289,7 @@
 </entry>
 <entry id="186">
   <weapons>Ballista</weapons>
-  <camos>Ronin</camos>
+  <camo>Ronin</camo>
   <attachment>Cpu</attachment>
   <map>Meltdown</map>
   <numberofkills>5</numberofkills>
@@ -2302,7 +2302,7 @@
 </entry>
 <entry id="187">
   <weapons>Ballista</weapons>
-  <camos>Choco</camos>
+  <camo>Choco</camo>
   <attachment></attachment>
   <map>Nuketown</map>
   <numberofkills>5</numberofkills>
@@ -2315,7 +2315,7 @@
 </entry>
 <entry id="188">
   <weapons>Ballista</weapons>
-  <camos>Cherry Blossom</camos>
+  <camo>Cherry Blossom</camo>
   <attachment></attachment>
   <map>Overflow</map>
   <numberofkills>5</numberofkills>
@@ -2328,7 +2328,7 @@
 </entry>
 <entry id="189">
   <weapons>Ballista</weapons>
-  <camos>Bloodshot</camos>
+  <camo>Bloodshot</camo>
   <attachment></attachment>
   <map>Slums</map>
   <numberofkills>5</numberofkills>
@@ -2341,7 +2341,7 @@
 </entry>
 <entry id="190">
   <weapons>Ballista</weapons>
-  <camos>Ronin</camos>
+  <camo>Ronin</camo>
   <attachment>Cpu</attachment>
   <map>Standoff</map>
   <numberofkills>5</numberofkills>
@@ -2354,7 +2354,7 @@
 </entry>
 <entry id="191">
   <weapons>Ballista</weapons>
-  <camos>Default</camos>
+  <camo>Default</camo>
   <attachment></attachment>
   <map>Standoff</map>
   <numberofkills>4</numberofkills>
@@ -2367,7 +2367,7 @@
 </entry>
 <entry id="192">
   <weapons>Ballista</weapons>
-  <camos>Default</camos>
+  <camo>Default</camo>
   <attachment>Cpu</attachment>
   <map>Standoff</map>
   <numberofkills>5</numberofkills>
@@ -2380,7 +2380,7 @@
 </entry>
 <entry id="193">
   <weapons>Ballista</weapons>
-  <camos>Default</camos>
+  <camo>Default</camo>
   <attachment>Cpu</attachment>
   <map>Standoff</map>
   <numberofkills>5</numberofkills>
@@ -2393,7 +2393,7 @@
 </entry>
 <entry id="194">
   <weapons>Ballista</weapons>
-  <camos>Cherry Blossom</camos>
+  <camo>Cherry Blossom</camo>
   <attachment></attachment>
   <map>Standoff</map>
   <numberofkills>5</numberofkills>
@@ -2406,7 +2406,7 @@
 </entry>
 <entry id="195">
   <weapons>Ballista</weapons>
-  <camos>Beast</camos>
+  <camo>Beast</camo>
   <attachment>Thermal</attachment>
   <map>Carrier</map>
   <numberofkills>5</numberofkills>
@@ -2419,7 +2419,7 @@
 </entry>
 <entry id="196">
   <weapons>Ballista</weapons>
-  <camos>Pack</camos>
+  <camo>Pack</camo>
   <attachment></attachment>
   <map>Grind</map>
   <numberofkills>5</numberofkills>
@@ -2432,7 +2432,7 @@
 </entry>
 <entry id="197">
   <weapons>Xpr</weapons>
-  <camos>Pack</camos>
+  <camo>Pack</camo>
   <attachment></attachment>
   <map>Grind</map>
   <numberofkills>8</numberofkills>
@@ -2445,7 +2445,7 @@
 </entry>
 <entry id="198">
   <weapons>Ballista</weapons>
-  <camos>Digital</camos>
+  <camo>Digital</camo>
   <attachment></attachment>
   <map>Meltdown</map>
   <numberofkills>6</numberofkills>
@@ -2458,7 +2458,7 @@
 </entry>
 <entry id="199">
   <weapons>Ballista</weapons>
-  <camos>Digital</camos>
+  <camo>Digital</camo>
   <attachment></attachment>
   <map>Meltdown</map>
   <numberofkills>4</numberofkills>
@@ -2471,7 +2471,7 @@
 </entry>
 <entry id="200">
   <weapons>Ballista</weapons>
-  <camos>Diamond</camos>
+  <camo>Diamond</camo>
   <attachment></attachment>
   <map>Hijacked</map>
   <numberofkills>6</numberofkills>
@@ -2484,7 +2484,7 @@
 </entry>
 <entry id="201">
   <weapons>Ballista</weapons>
-  <camos>Cherry Blossom</camos>
+  <camo>Cherry Blossom</camo>
   <attachment></attachment>
   <map>Nuketown</map>
   <numberofkills>6</numberofkills>
@@ -2497,7 +2497,7 @@
 </entry>
 <entry id="202">
   <weapons>Ballista</weapons>
-  <camos>Cherry Blossom</camos>
+  <camo>Cherry Blossom</camo>
   <attachment></attachment>
   <map>Raid</map>
   <numberofkills>6</numberofkills>
@@ -2510,7 +2510,7 @@
 </entry>
 <entry id="203">
   <weapons>Dsr</weapons>
-  <camos>Default</camos>
+  <camo>Default</camo>
   <attachment></attachment>
   <map>Raid</map>
   <numberofkills>3</numberofkills>
@@ -2523,7 +2523,7 @@
 </entry>
 <entry id="204">
   <weapons>Ballista</weapons>
-  <camos>Aqua</camos>
+  <camo>Aqua</camo>
   <attachment></attachment>
   <map>Standoff</map>
   <numberofkills>6</numberofkills>
@@ -2536,7 +2536,7 @@
 </entry>
 <entry id="205">
   <weapons>Ballista</weapons>
-  <camos>Breach</camos>
+  <camo>Breach</camo>
   <attachment></attachment>
   <map>Overflow</map>
   <numberofkills>7</numberofkills>
@@ -2549,7 +2549,7 @@
 </entry>
 <entry id="206">
   <weapons>Dsr</weapons>
-  <camos>Digital</camos>
+  <camo>Digital</camo>
   <attachment></attachment>
   <map>Raid</map>
   <numberofkills>5</numberofkills>
@@ -2562,7 +2562,7 @@
 </entry>
 <entry id="207">
   <weapons>Ballista, Knife, Dsr</weapons>
-  <camos>Bloodshot, Digital</camos>
+  <camo>Bloodshot, Digital</camo>
   <attachment>Acog</attachment>
   <map>Raid</map>
   <numberofkills>4</numberofkills>
@@ -2575,7 +2575,7 @@
 </entry>
 <entry id="208">
   <weapons>Ballista, C4</weapons>
-  <camos>Carbon</camos>
+  <camo>Carbon</camo>
   <attachment></attachment>
   <map>Standoff</map>
   <numberofkills>3</numberofkills>
@@ -2588,7 +2588,7 @@
 </entry>
 <entry id="209">
   <weapons>Ballista</weapons>
-  <camos>Ghosts</camos>
+  <camo>Ghosts</camo>
   <attachment></attachment>
   <map>Standoff</map>
   <numberofkills>5</numberofkills>
@@ -2601,7 +2601,7 @@
 </entry>
 <entry id="210">
   <weapons>Ballista, Dsr</weapons>
-  <camos>Weaponized, Default</camos>
+  <camo>Weaponized, Default</camo>
   <attachment></attachment>
   <map>Standoff</map>
   <numberofkills>3</numberofkills>
@@ -2614,7 +2614,7 @@
 </entry>
 <entry id="211">
   <weapons>Ballista, Dsr</weapons>
-  <camos>Diamond, Diamond</camos>
+  <camo>Diamond, Diamond</camo>
   <attachment></attachment>
   <map>Meltdown</map>
   <numberofkills>6</numberofkills>
@@ -2627,7 +2627,7 @@
 </entry>
 <entry id="212">
   <weapons>Ballista, Dsr</weapons>
-  <camos>Comics, Pack</camos>
+  <camo>Comics, Pack</camo>
   <attachment></attachment>
   <map>Nuketown</map>
   <numberofkills>6</numberofkills>
@@ -2640,7 +2640,7 @@
 </entry>
 <entry id="213">
   <weapons>Dsr</weapons>
-  <camos>Pack</camos>
+  <camo>Pack</camo>
   <attachment>Thermal</attachment>
   <map>Nuketown</map>
   <numberofkills>7</numberofkills>
@@ -2653,7 +2653,7 @@
 </entry>
 <entry id="214">
   <weapons>Ballista, Dsr</weapons>
-  <camos>Diamond</camos>
+  <camo>Diamond</camo>
   <attachment>Cpu</attachment>
   <map>Studio</map>
   <numberofkills>7</numberofkills>
@@ -2666,7 +2666,7 @@
 </entry>
 <entry id="215">
   <weapons>Ballista</weapons>
-  <camos>Carbon</camos>
+  <camo>Carbon</camo>
   <attachment></attachment>
   <map>Meltdown</map>
   <numberofkills>5</numberofkills>
@@ -2679,7 +2679,7 @@
 </entry>
 <entry id="216">
   <weapons>Ballista</weapons>
-  <camos>Carbon</camos>
+  <camo>Carbon</camo>
   <attachment></attachment>
   <map>Meltdown</map>
   <numberofkills>3</numberofkills>
@@ -2692,7 +2692,7 @@
 </entry>
 <entry id="217">
   <weapons>Ballista</weapons>
-  <camos>Carbon</camos>
+  <camo>Carbon</camo>
   <attachment></attachment>
   <map>Meltdown</map>
   <numberofkills>4</numberofkills>
@@ -2705,7 +2705,7 @@
 </entry>
 <entry id="218">
   <weapons>Ballista</weapons>
-  <camos>Carbon</camos>
+  <camo>Carbon</camo>
   <attachment></attachment>
   <map>Meltdown</map>
   <numberofkills>5</numberofkills>
@@ -2718,7 +2718,7 @@
 </entry>
   <entry id="219">
   <weapons>R700</weapons>
-  <camos>Default</camos>
+  <camo>Default</camo>
   <attachment>Promod</attachment>
   <map>Crash</map>
   <numberofkills>3</numberofkills>
@@ -2731,7 +2731,7 @@
 </entry>
 <entry id="220">
   <weapons>Ballista</weapons>
-  <camos>Party Rock</camos>
+  <camo>Party Rock</camo>
   <attachment></attachment>
   <map>Standoff</map>
   <numberofkills>6</numberofkills>
@@ -2744,7 +2744,7 @@
 </entry>
 <entry id="221">
   <weapons>Ballista</weapons>
-  <camos>Party Rock</camos>
+  <camo>Party Rock</camo>
   <attachment></attachment>
   <map>Standoff</map>
   <numberofkills>4</numberofkills>
@@ -2757,7 +2757,7 @@
 </entry>
 <entry id="222">
   <weapons>Ballista</weapons>
-  <camos>Party Rock</camos>
+  <camo>Party Rock</camo>
   <attachment></attachment>
   <map>Standoff</map>
   <numberofkills>5</numberofkills>
@@ -2770,7 +2770,7 @@
 </entry>
 <entry id="223">
   <weapons>Ballista, Kap</weapons>
-  <camos>Party Rock</camos>
+  <camo>Party Rock</camo>
   <attachment></attachment>
   <map>Standoff</map>
   <numberofkills>5</numberofkills>
@@ -2783,7 +2783,7 @@
 </entry>
 <entry id="224">
   <weapons>Ballista</weapons>
-  <camos>Party Rock</camos>
+  <camo>Party Rock</camo>
   <attachment></attachment>
   <map>Standoff</map>
   <numberofkills>3</numberofkills>
@@ -2796,7 +2796,7 @@
 </entry>
 <entry id="225">
   <weapons>Ballista</weapons>
-  <camos>Party Rock</camos>
+  <camo>Party Rock</camo>
   <attachment></attachment>
   <map>Standoff</map>
   <numberofkills>3</numberofkills>
@@ -2809,7 +2809,7 @@
 </entry>
 <entry id="226">
   <weapons>Ballista</weapons>
-  <camos>Digital</camos>
+  <camo>Digital</camo>
   <attachment>Iron Sight</attachment>
   <map>Nuketown</map>
   <numberofkills>5</numberofkills>
@@ -2822,7 +2822,7 @@
 </entry>
 <entry id="227">
   <weapons>Ballista</weapons>
-  <camos>Digital</camos>
+  <camo>Digital</camo>
   <attachment>Iron Sight</attachment>
   <map>Nuketown</map>
   <numberofkills>5</numberofkills>
@@ -2835,7 +2835,7 @@
 </entry>
 <entry id="228">
   <weapons>Ballista</weapons>
-  <camos>Octane</camos>
+  <camo>Octane</camo>
   <attachment>Iron Sight</attachment>
   <map>Express</map>
   <numberofkills>4</numberofkills>
@@ -2848,7 +2848,7 @@
 </entry>
 <entry id="229">
   <weapons>Ballista</weapons>
-  <camos>Kawaii</camos>
+  <camo>Kawaii</camo>
   <attachment>Iron Sight</attachment>
   <map>Raid</map>
   <numberofkills>5</numberofkills>
@@ -2861,7 +2861,7 @@
 </entry>
 <entry id="230">
   <weapons>Ballista</weapons>
-  <camos>Comics</camos>
+  <camo>Comics</camo>
   <attachment>Iron Sight</attachment>
   <map>Uplink</map>
   <numberofkills>3</numberofkills>
@@ -2874,7 +2874,7 @@
 </entry>
 <entry id="231">
   <weapons>Ballista</weapons>
-  <camos>Comics</camos>
+  <camo>Comics</camo>
   <attachment>Iron Sight</attachment>
   <map>Uplink</map>
   <numberofkills>4</numberofkills>
@@ -2887,7 +2887,7 @@
 </entry>
 <entry id="232">
   <weapons>Ballista</weapons>
-  <camos>Diamond</camos>
+  <camo>Diamond</camo>
   <attachment>Iron Sight</attachment>
   <map>Downhill</map>
   <numberofkills>7</numberofkills>
@@ -2900,7 +2900,7 @@
 </entry>
 <entry id="233">
   <weapons>Ballista</weapons>
-  <camos>Diamond</camos>
+  <camo>Diamond</camo>
   <attachment>Iron Sight</attachment>
   <map>Grind</map>
   <numberofkills>4</numberofkills>
@@ -2913,7 +2913,7 @@
 </entry>
 <entry id="234">
   <weapons>Ballista</weapons>
-  <camos>Diamond</camos>
+  <camo>Diamond</camo>
   <attachment>Iron Sight</attachment>
   <map>Grind</map>
   <numberofkills>4</numberofkills>
@@ -2926,7 +2926,7 @@
 </entry>
 <entry id="235">
   <weapons>Ballista</weapons>
-  <camos>Diamond</camos>
+  <camo>Diamond</camo>
   <attachment>Iron Sight</attachment>
   <map>Grind</map>
   <numberofkills>3</numberofkills>
@@ -2939,7 +2939,7 @@
 </entry>
 <entry id="236">
   <weapons>Ballista</weapons>
-  <camos>Diamond</camos>
+  <camo>Diamond</camo>
   <attachment>Iron Sight</attachment>
   <map>Grind</map>
   <numberofkills>5</numberofkills>
@@ -2952,7 +2952,7 @@
 </entry>
 <entry id="237">
   <weapons>Ballista</weapons>
-  <camos>Diamond</camos>
+  <camo>Diamond</camo>
   <attachment>Iron Sight</attachment>
   <map>Grind</map>
   <numberofkills>3</numberofkills>
@@ -2965,7 +2965,7 @@
 </entry>
 <entry id="238">
   <weapons>Ballista</weapons>
-  <camos>Diamond</camos>
+  <camo>Diamond</camo>
   <attachment>Iron Sight</attachment>
   <map>Grind</map>
   <numberofkills>3</numberofkills>
@@ -2978,7 +2978,7 @@
 </entry>
 <entry id="239">
   <weapons>Ballista</weapons>
-  <camos>Cherry Blossom</camos>
+  <camo>Cherry Blossom</camo>
   <attachment>Silencer</attachment>
   <map>Express</map>
   <numberofkills>5</numberofkills>
@@ -2991,7 +2991,7 @@
 </entry>
 <entry id="240">
   <weapons>Pdw, Ballista</weapons>
-  <camos>Default, Cherry Blossom</camos>
+  <camo>Default, Cherry Blossom</camo>
   <attachment>Silencer</attachment>
   <map>Express</map>
   <numberofkills>3</numberofkills>
@@ -3004,7 +3004,7 @@
 </entry>
 <entry id="241">
   <weapons>Ballista</weapons>
-  <camos>Diamond</camos>
+  <camo>Diamond</camo>
   <attachment>Thermal</attachment>
   <map>Downhill</map>
   <numberofkills>5</numberofkills>
@@ -3017,7 +3017,7 @@
 </entry>
 <entry id="242">
   <weapons>Ballista</weapons>
-  <camos>Diamond</camos>
+  <camo>Diamond</camo>
   <attachment>Thermal</attachment>
   <map>Downhill</map>
   <numberofkills>5</numberofkills>
@@ -3030,7 +3030,7 @@
 </entry>
 <entry id="243">
   <weapons>Ballista, Xpr</weapons>
-  <camos>Ronin, Carbon</camos>
+  <camo>Ronin, Carbon</camo>
   <attachment></attachment>
   <map>Raid</map>
   <numberofkills>5</numberofkills>
@@ -3043,7 +3043,7 @@
 </entry>
 <entry id="244">
   <weapons>Ballista, Xpr</weapons>
-  <camos>Ronin, Carbon</camos>
+  <camo>Ronin, Carbon</camo>
   <attachment></attachment>
   <map>Slums</map>
   <numberofkills>7</numberofkills>
@@ -3056,7 +3056,7 @@
 </entry>
 <entry id="245">
   <weapons>Ballista, Xpr</weapons>
-  <camos>Ronin, Carbon</camos>
+  <camo>Ronin, Carbon</camo>
   <attachment></attachment>
   <map>Slums</map>
   <numberofkills>8</numberofkills>
@@ -3069,7 +3069,7 @@
 </entry>
 <entry id="246">
   <weapons>Ballista</weapons>
-  <camos>Dragon</camos>
+  <camo>Dragon</camo>
   <attachment>Iron Sight</attachment>
   <map>Meltdown</map>
   <numberofkills>2</numberofkills>
@@ -3082,7 +3082,7 @@
 </entry>
 <entry id="247">
   <weapons>C4</weapons>
-  <camos>Default</camos>
+  <camo>Default</camo>
   <attachment></attachment>
   <map>Carrier</map>
   <numberofkills>4</numberofkills>
@@ -3095,7 +3095,7 @@
 </entry>
 <entry id="248">
   <weapons>Crossbow</weapons>
-  <camos>Default</camos>
+  <camo>Default</camo>
   <attachment></attachment>
   <map>Hijacked</map>
   <numberofkills>3</numberofkills>
@@ -3108,7 +3108,7 @@
 </entry>
 <entry id="249">
   <weapons>Dsr, Xpr</weapons>
-  <camos>Default</camos>
+  <camo>Default</camo>
   <attachment></attachment>
   <map>Express</map>
   <numberofkills>1</numberofkills>
@@ -3121,7 +3121,7 @@
 </entry>
 <entry id="250">
   <weapons>Dsr</weapons>
-  <camos>Rogue</camos>
+  <camo>Rogue</camo>
   <attachment>Fast Mags</attachment>
   <map>Grind</map>
   <numberofkills>1</numberofkills>
@@ -3134,7 +3134,7 @@
 </entry>
 <entry id="251">
   <weapons>Dsr</weapons>
-  <camos>Cherry Blossom</camos>
+  <camo>Cherry Blossom</camo>
   <attachment>Cpu</attachment>
   <map>Magma</map>
   <numberofkills>1</numberofkills>
@@ -3147,7 +3147,7 @@
 </entry>
 <entry id="252">
   <weapons>Dsr</weapons>
-  <camos>Ronin</camos>
+  <camo>Ronin</camo>
   <attachment></attachment>
   <map>Nuketown</map>
   <numberofkills>1</numberofkills>
@@ -3160,7 +3160,7 @@
 </entry>
 <entry id="253">
   <weapons>Dsr</weapons>
-  <camos>Pack</camos>
+  <camo>Pack</camo>
   <attachment></attachment>
   <map>Pod</map>
   <numberofkills>1</numberofkills>
@@ -3173,7 +3173,7 @@
 </entry>
 <entry id="254">
   <weapons>Dsr</weapons>
-  <camos>Coyote</camos>
+  <camo>Coyote</camo>
   <attachment></attachment>
   <map>Cargo</map>
   <numberofkills>2</numberofkills>
@@ -3186,7 +3186,7 @@
 </entry>
 <entry id="255">
   <weapons>Dsr</weapons>
-  <camos>Default</camos>
+  <camo>Default</camo>
   <attachment></attachment>
   <map>Cargo</map>
   <numberofkills>1</numberofkills>
@@ -3199,7 +3199,7 @@
 </entry>
 <entry id="256">
   <weapons>Dsr</weapons>
-  <camos>Default</camos>
+  <camo>Default</camo>
   <attachment></attachment>
   <map>Cargo</map>
   <numberofkills>2</numberofkills>
@@ -3212,7 +3212,7 @@
 </entry>
 <entry id="257">
   <weapons>Dsr</weapons>
-  <camos>Breach</camos>
+  <camo>Breach</camo>
   <attachment></attachment>
   <map>Carrier</map>
   <numberofkills>2</numberofkills>
@@ -3225,7 +3225,7 @@
 </entry>
 <entry id="258">
   <weapons>Dsr</weapons>
-  <camos>Breach</camos>
+  <camo>Breach</camo>
   <attachment></attachment>
   <map>Carrier</map>
   <numberofkills>1</numberofkills>
@@ -3238,7 +3238,7 @@
 </entry>
 <entry id="259">
   <weapons>Dsr</weapons>
-  <camos>Afterlife</camos>
+  <camo>Afterlife</camo>
   <attachment>Fast Mags</attachment>
   <map>Carrier</map>
   <numberofkills>2</numberofkills>
@@ -3251,7 +3251,7 @@
 </entry>
 <entry id="260">
   <weapons>Dsr</weapons>
-  <camos>Octane</camos>
+  <camo>Octane</camo>
   <attachment>Fast Mags</attachment>
   <map>Carrier</map>
   <numberofkills>2</numberofkills>
@@ -3264,7 +3264,7 @@
 </entry>
 <entry id="261">
   <weapons>Dsr</weapons>
-  <camos>Default</camos>
+  <camo>Default</camo>
   <attachment>Cpu</attachment>
   <map>Nuketown</map>
   <numberofkills>2</numberofkills>
@@ -3277,7 +3277,7 @@
 </entry>
 <entry id="262">
   <weapons>Dsr</weapons>
-  <camos>Paladin</camos>
+  <camo>Paladin</camo>
   <attachment></attachment>
   <map>Slums</map>
   <numberofkills>2</numberofkills>
@@ -3290,7 +3290,7 @@
 </entry>
 <entry id="263">
   <weapons>Dsr</weapons>
-  <camos>Devgru</camos>
+  <camo>Devgru</camo>
   <attachment></attachment>
   <map>Slums</map>
   <numberofkills>2</numberofkills>
@@ -3303,7 +3303,7 @@
 </entry>
 <entry id="264">
   <weapons>Dsr</weapons>
-  <camos>Devgru</camos>
+  <camo>Devgru</camo>
   <attachment></attachment>
   <map>Slums</map>
   <numberofkills>3</numberofkills>
@@ -3316,7 +3316,7 @@
 </entry>
 <entry id="265">
   <weapons>Dsr</weapons>
-  <camos>Art Of War</camos>
+  <camo>Art Of War</camo>
   <attachment></attachment>
   <map>Standoff</map>
   <numberofkills>2</numberofkills>
@@ -3329,7 +3329,7 @@
 </entry>
 <entry id="266">
   <weapons>Dsr</weapons>
-  <camos>Art Of War</camos>
+  <camo>Art Of War</camo>
   <attachment></attachment>
   <map>Standoff</map>
   <numberofkills>2</numberofkills>
@@ -3342,7 +3342,7 @@
 </entry>
 <entry id="267">
   <weapons>Dsr</weapons>
-  <camos>Cherry Blossom</camos>
+  <camo>Cherry Blossom</camo>
   <attachment></attachment>
   <map>Express</map>
   <numberofkills>3</numberofkills>
@@ -3355,7 +3355,7 @@
 </entry>
 <entry id="268">
   <weapons>Dsr</weapons>
-  <camos>Cherry Blossom</camos>
+  <camo>Cherry Blossom</camo>
   <attachment></attachment>
   <map>Express</map>
   <numberofkills>2</numberofkills>
@@ -3368,7 +3368,7 @@
 </entry>
 <entry id="269">
   <weapons>Ballista</weapons>
-  <camos>Default</camos>
+  <camo>Default</camo>
   <attachment>Cpu</attachment>
   <map>Yemen</map>
   <numberofkills>4</numberofkills>
@@ -3381,7 +3381,7 @@
 </entry>
 <entry id="270">
   <weapons>Dsr</weapons>
-  <camos>Art Of War</camos>
+  <camo>Art Of War</camo>
   <attachment></attachment>
   <map>Yemen</map>
   <numberofkills>2</numberofkills>
@@ -3394,7 +3394,7 @@
 </entry>
   <entry id="271">
   <weapons>Tac45, Dsr</weapons>
-  <camos>Default, Kryptek</camos>
+  <camo>Default, Kryptek</camo>
   <attachment></attachment>
   <map>Drone</map>
   <numberofkills>4</numberofkills>
@@ -3407,7 +3407,7 @@
 </entry>
 <entry id="272">
   <weapons>Dsr</weapons>
-  <camos>Kryptek</camos>
+  <camo>Kryptek</camo>
   <attachment></attachment>
   <map>Drone</map>
   <numberofkills>2</numberofkills>
@@ -3420,7 +3420,7 @@
 </entry>
 <entry id="273">
   <weapons>Dsr</weapons>
-  <camos>Kryptek</camos>
+  <camo>Kryptek</camo>
   <attachment></attachment>
   <map>Drone</map>
   <numberofkills>4</numberofkills>
@@ -3433,7 +3433,7 @@
 </entry>
 <entry id="274">
   <weapons>Dsr</weapons>
-  <camos>Kryptek</camos>
+  <camo>Kryptek</camo>
   <attachment></attachment>
   <map>Drone</map>
   <numberofkills>4</numberofkills>
@@ -3446,7 +3446,7 @@
 </entry>
   <entry id="275">
   <weapons>Dsr</weapons>
-  <camos>Cherry Blossom</camos>
+  <camo>Cherry Blossom</camo>
   <attachment></attachment>
   <map>Drone</map>
   <numberofkills>2</numberofkills>
@@ -3459,7 +3459,7 @@
 </entry>
 <entry id="276">
   <weapons>Dsr, C4</weapons>
-  <camos>Cherry Blossom</camos>
+  <camo>Cherry Blossom</camo>
   <attachment></attachment>
   <map>Drone</map>
   <numberofkills>3</numberofkills>
@@ -3472,7 +3472,7 @@
 </entry>
 <entry id="277">
   <weapons>Dsr</weapons>
-  <camos>Art Of War</camos>
+  <camo>Art Of War</camo>
   <attachment></attachment>
   <map>Turbine</map>
   <numberofkills>2</numberofkills>
@@ -3485,7 +3485,7 @@
 </entry>
 <entry id="278">
   <weapons>Dsr</weapons>
-  <camos>Bloodshot</camos>
+  <camo>Bloodshot</camo>
   <attachment>Cpu</attachment>
   <map>Aftermath</map>
   <numberofkills>3</numberofkills>
@@ -3498,7 +3498,7 @@
 </entry>
 <entry id="279">
   <weapons>Dsr</weapons>
-  <camos>Bloodshot</camos>
+  <camo>Bloodshot</camo>
   <attachment>Cpu</attachment>
   <map>Aftermath</map>
   <numberofkills>1</numberofkills>
@@ -3511,7 +3511,7 @@
 </entry>
 <entry id="280">
   <weapons>Dsr, Tac</weapons>
-  <camos>Elite</camos>
+  <camo>Elite</camo>
   <attachment></attachment>
   <map>Cargo</map>
   <numberofkills>3</numberofkills>
@@ -3524,7 +3524,7 @@
 </entry>
 <entry id="281">
   <weapons>Dsr</weapons>
-  <camos>Default</camos>
+  <camo>Default</camo>
   <attachment></attachment>
   <map>Carrier</map>
   <numberofkills>3</numberofkills>
@@ -3537,7 +3537,7 @@
 </entry>
 <entry id="282">
   <weapons>Dsr</weapons>
-  <camos>Elite</camos>
+  <camo>Elite</camo>
   <attachment></attachment>
   <map>Carrier</map>
   <numberofkills>3</numberofkills>
@@ -3550,7 +3550,7 @@
 </entry>
 <entry id="283">
   <weapons>Dsr</weapons>
-  <camos>Party Rock</camos>
+  <camo>Party Rock</camo>
   <attachment>Cpu</attachment>
   <map>Hijacked</map>
   <numberofkills>3</numberofkills>
@@ -3563,7 +3563,7 @@
 </entry>
 <entry id="284">
   <weapons>Dsr</weapons>
-  <camos>Cherry Blossom</camos>
+  <camo>Cherry Blossom</camo>
   <attachment>Cpu</attachment>
   <map>Raid</map>
   <numberofkills>3</numberofkills>
@@ -3576,7 +3576,7 @@
 </entry>
 <entry id="285">
   <weapons>Dsr</weapons>
-  <camos>Graffiti</camos>
+  <camo>Graffiti</camo>
   <attachment>Cpu</attachment>
   <map>Slums</map>
   <numberofkills>3</numberofkills>
@@ -3589,7 +3589,7 @@
 </entry>
 <entry id="286">
   <weapons>Dsr</weapons>
-  <camos>ATacs</camos>
+  <camo>ATacs</camo>
   <attachment></attachment>
   <map>Yemen</map>
   <numberofkills>3</numberofkills>
@@ -3602,7 +3602,7 @@
 </entry>
 <entry id="287">
   <weapons>Dsr</weapons>
-  <camos>ATacs</camos>
+  <camo>ATacs</camo>
   <attachment></attachment>
   <map>Yemen</map>
   <numberofkills>4</numberofkills>
@@ -3615,7 +3615,7 @@
 </entry>
 <entry id="288">
   <weapons>Dsr</weapons>
-  <camos>Gold</camos>
+  <camo>Gold</camo>
   <attachment>Cpu</attachment>
   <map>Encore</map>
   <numberofkills>3</numberofkills>
@@ -3628,7 +3628,7 @@
 </entry>
 <entry id="289">
   <weapons>Dsr</weapons>
-  <camos>Gold</camos>
+  <camo>Gold</camo>
   <attachment>Cpu</attachment>
   <map>Studio</map>
   <numberofkills>3</numberofkills>
@@ -3641,7 +3641,7 @@
 </entry>
 <entry id="290">
   <weapons>Dsr</weapons>
-  <camos>Ronin</camos>
+  <camo>Ronin</camo>
   <attachment></attachment>
   <map>Express</map>
   <numberofkills>3</numberofkills>
@@ -3654,7 +3654,7 @@
 </entry>
 <entry id="291">
   <weapons>Dsr</weapons>
-  <camos>Ronin</camos>
+  <camo>Ronin</camo>
   <attachment></attachment>
   <map>Express</map>
   <numberofkills>2</numberofkills>
@@ -3667,7 +3667,7 @@
 </entry>
 <entry id="292">
   <weapons>Dsr, C4</weapons>
-  <camos>Ronin</camos>
+  <camo>Ronin</camo>
   <attachment>Cpu</attachment>
   <map>Rush</map>
   <numberofkills>4</numberofkills>
@@ -3680,7 +3680,7 @@
 </entry>
 <entry id="293">
   <weapons>Dsr</weapons>
-  <camos>Gold</camos>
+  <camo>Gold</camo>
   <attachment>Cpu, Laser</attachment>
   <map>Hijacked</map>
   <numberofkills>4</numberofkills>
@@ -3693,7 +3693,7 @@
 </entry>
 <entry id="294">
   <weapons>Dsr</weapons>
-  <camos>Octane</camos>
+  <camo>Octane</camo>
   <attachment></attachment>
   <map>Hijacked</map>
   <numberofkills>4</numberofkills>
@@ -3706,7 +3706,7 @@
 </entry>
 <entry id="295">
   <weapons>Dsr</weapons>
-  <camos>Octane</camos>
+  <camo>Octane</camo>
   <attachment></attachment>
   <map>Nuketown</map>
   <numberofkills>4</numberofkills>
@@ -3719,7 +3719,7 @@
 </entry>
 <entry id="296">
   <weapons>Dsr</weapons>
-  <camos>Afterlife</camos>
+  <camo>Afterlife</camo>
   <attachment>Silencer</attachment>
   <map>Standoff</map>
   <numberofkills>4</numberofkills>
@@ -3732,7 +3732,7 @@
 </entry>
 <entry id="297">
   <weapons>Dsr</weapons>
-  <camos>Cyborg</camos>
+  <camo>Cyborg</camo>
   <attachment></attachment>
   <map>Slums</map>
   <numberofkills>4</numberofkills>
@@ -3745,7 +3745,7 @@
 </entry>
 <entry id="298">
   <weapons>Dsr</weapons>
-  <camos>Gold</camos>
+  <camo>Gold</camo>
   <attachment>Cpu</attachment>
   <map>Standoff</map>
   <numberofkills>4</numberofkills>
@@ -3758,7 +3758,7 @@
 </entry>
 <entry id="299">
   <weapons>Dsr</weapons>
-  <camos>Elite</camos>
+  <camo>Elite</camo>
   <attachment>Thermal</attachment>
   <map>Vertigo</map>
   <numberofkills>4</numberofkills>
@@ -3771,7 +3771,7 @@
 </entry>
 <entry id="300">
   <weapons>Dsr</weapons>
-  <camos>Skulls</camos>
+  <camo>Skulls</camo>
   <attachment></attachment>
   <map>Yemen</map>
   <numberofkills>4</numberofkills>
@@ -3784,7 +3784,7 @@
 </entry>
 <entry id="301">
   <weapons>Dsr</weapons>
-  <camos>Erdl</camos>
+  <camo>Erdl</camo>
   <attachment></attachment>
   <map>Raid</map>
   <numberofkills>4</numberofkills>
@@ -3797,7 +3797,7 @@
 </entry>
 <entry id="302">
   <weapons>Dsr</weapons>
-  <camos>Erdl</camos>
+  <camo>Erdl</camo>
   <attachment></attachment>
   <map>Raid</map>
   <numberofkills>4</numberofkills>
@@ -3810,7 +3810,7 @@
 </entry>
 <entry id="303">
   <weapons>Dsr</weapons>
-  <camos>Gold</camos>
+  <camo>Gold</camo>
   <attachment></attachment>
   <map>Standoff</map>
   <numberofkills>4</numberofkills>
@@ -3823,7 +3823,7 @@
 </entry>
 <entry id="304">
   <weapons>Dsr, Kap40</weapons>
-  <camos>Gold, Weaponized</camos>
+  <camo>Gold, Weaponized</camo>
   <attachment></attachment>
   <map>Standoff</map>
   <numberofkills>4</numberofkills>
@@ -3836,7 +3836,7 @@
 </entry>
 <entry id="305">
   <weapons>Dsr</weapons>
-  <camos>Viper</camos>
+  <camo>Viper</camo>
   <attachment></attachment>
   <map>Aftermath</map>
   <numberofkills>6</numberofkills>
@@ -3849,7 +3849,7 @@
 </entry>
 <entry id="306">
   <weapons>Dsr</weapons>
-  <camos>Default</camos>
+  <camo>Default</camo>
   <attachment></attachment>
   <map>Standoff</map>
   <numberofkills>5</numberofkills>
@@ -3862,7 +3862,7 @@
 </entry>
 <entry id="307">
   <weapons>Dsr, C4</weapons>
-  <camos>Default</camos>
+  <camo>Default</camo>
   <attachment></attachment>
   <map>Standoff</map>
   <numberofkills>3</numberofkills>
@@ -3875,7 +3875,7 @@
 </entry>
 <entry id="308">
   <weapons>Dsr</weapons>
-  <camos>Party Rock</camos>
+  <camo>Party Rock</camo>
   <attachment>Laser</attachment>
   <map>Cargo</map>
   <numberofkills>5</numberofkills>
@@ -3888,7 +3888,7 @@
 </entry>
 <entry id="309">
   <weapons>Dsr</weapons>
-  <camos>Pack</camos>
+  <camo>Pack</camo>
   <attachment></attachment>
   <map>Carrier</map>
   <numberofkills>5</numberofkills>
@@ -3901,7 +3901,7 @@
 </entry>
 <entry id="310">
   <weapons>Dsr, Xpr</weapons>
-  <camos>Comics</camos>
+  <camo>Comics</camo>
   <attachment></attachment>
   <map>Express</map>
   <numberofkills>5</numberofkills>
@@ -3914,7 +3914,7 @@
 </entry>
 <entry id="311">
   <weapons>Dsr</weapons>
-  <camos>Elite</camos>
+  <camo>Elite</camo>
   <attachment>Cpu</attachment>
   <map>Meltdown</map>
   <numberofkills>5</numberofkills>
@@ -3927,7 +3927,7 @@
 </entry>
 <entry id="312">
   <weapons>Dsr</weapons>
-  <camos>Paladin</camos>
+  <camo>Paladin</camo>
   <attachment>Laser</attachment>
   <map>Overflow</map>
   <numberofkills>5</numberofkills>
@@ -3940,7 +3940,7 @@
 </entry>
 <entry id="313">
   <weapons>Dsr</weapons>
-  <camos>Octane</camos>
+  <camo>Octane</camo>
   <attachment>Fast Mags</attachment>
   <map>Raid</map>
   <numberofkills>5</numberofkills>
@@ -3953,7 +3953,7 @@
 </entry>
 <entry id="314">
   <weapons>Dsr</weapons>
-  <camos>Default</camos>
+  <camo>Default</camo>
   <attachment></attachment>
   <map>Raid</map>
   <numberofkills>5</numberofkills>
@@ -3966,7 +3966,7 @@
 </entry>
 <entry id="315">
   <weapons>Dsr</weapons>
-  <camos>Comics</camos>
+  <camo>Comics</camo>
   <attachment></attachment>
   <map>Raid</map>
   <numberofkills>5</numberofkills>
@@ -3979,7 +3979,7 @@
 </entry>
 <entry id="316">
   <weapons>Dsr</weapons>
-  <camos>Carbon</camos>
+  <camo>Carbon</camo>
   <attachment></attachment>
   <map>Slums</map>
   <numberofkills>5</numberofkills>
@@ -3992,7 +3992,7 @@
 </entry>
 <entry id="317">
   <weapons>Dsr</weapons>
-  <camos>Default</camos>
+  <camo>Default</camo>
   <attachment></attachment>
   <map>Slums</map>
   <numberofkills>5</numberofkills>
@@ -4005,7 +4005,7 @@
 </entry>
 <entry id="318">
   <weapons>Dsr</weapons>
-  <camos>Kryptec</camos>
+  <camo>Kryptec</camo>
   <attachment></attachment>
   <map>Standoff</map>
   <numberofkills>5</numberofkills>
@@ -4018,7 +4018,7 @@
 </entry>
 <entry id="319">
   <weapons>Dsr</weapons>
-  <camos>Kryptek</camos>
+  <camo>Kryptek</camo>
   <attachment></attachment>
   <map>Standoff</map>
   <numberofkills>3</numberofkills>
@@ -4031,7 +4031,7 @@
 </entry>
 <entry id="320">
   <weapons>Dsr</weapons>
-  <camos>Rogue</camos>
+  <camo>Rogue</camo>
   <attachment></attachment>
   <map>Vertigo</map>
   <numberofkills>5</numberofkills>
