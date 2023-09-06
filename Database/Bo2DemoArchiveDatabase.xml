@@ -6,6 +6,7 @@
     <map>Nuketown</map>
     <numberofkills>3</numberofkills>
     <tags></tags>
+  <location></location>
     <player>adam</player>
     <timeoffrag>1:25</timeoffrag>
     <url>jkd6YDP1F4o</url>
@@ -18,6 +19,7 @@
     <map>Drone</map>
     <numberofkills>2</numberofkills>
     <tags>First Raise, Rel</tags>
+  <location></location>
     <player>Midnights</player>
     <timeoffrag>4:43</timeoffrag>
     <url>CMNOqdn2gfI</url>
@@ -30,6 +32,7 @@
     <map>Express</map>
     <numberofkills>4</numberofkills>
     <tags>Grenade Throw</tags>
+  <location></location>
     <player>Midnights</player>
     <timeoffrag>4:43</timeoffrag>
     <url>is__laFwCUM</url>
@@ -42,6 +45,7 @@
     <map>Cargo</map>
     <numberofkills>1</numberofkills>
     <tags>Swap, Js, Ns</tags>
+  <location></location>
     <player>adam</player>
     <timeoffrag>1:50</timeoffrag>
     <url>74f7oOC7BFo</url>
@@ -54,6 +58,7 @@
     <map>Cargo</map>
     <numberofkills>3</numberofkills>
     <tags></tags>
+  <location></location>
     <player>Nooie1</player>
     <timeoffrag>0:58</timeoffrag>
     <url>uLuaVZXjB9Y</url>
@@ -66,6 +71,7 @@
     <map>Drone</map>
     <numberofkills>1</numberofkills>
     <tags>360, Js</tags>
+  <location></location>
     <player>adam</player>
     <timeoffrag>1:30</timeoffrag>
     <url>8LDPsD6_-YE</url>
@@ -78,6 +84,7 @@
     <map>Hijacked</map>
     <numberofkills>1</numberofkills>
     <tags>Js</tags>
+  <location></location>
     <player>adam</player>
     <timeoffrag>1:30</timeoffrag>
     <url>FSP5iWF2C9c</url>
@@ -90,6 +97,7 @@
     <map>Studio</map>
     <numberofkills>8</numberofkills>
     <tags>Js, Rel</tags>
+  <location></location>
     <player>Vicious kaptep</player>
     <timeoffrag>3:00</timeoffrag>
     <url>9RqEaQ3IB68</url>
@@ -102,6 +110,7 @@
     <map>Studio</map>
     <numberofkills>5</numberofkills>
     <tags></tags>
+  <location></location>
     <player>Vicious Kaptep</player>
     <timeoffrag>4:35</timeoffrag>
     <url>QjiR6fkaOsE</url>
@@ -114,6 +123,7 @@
     <map>Studio</map>
     <numberofkills>4</numberofkills>
     <tags></tags>
+  <location></location>
     <player>Vicious Kaptep</player>
     <timeoffrag>5:40</timeoffrag>
     <url>q2Hwda8HoDA</url>
@@ -126,6 +136,7 @@
     <map>Express</map>
     <numberofkills>5</numberofkills>
     <tags></tags>
+  <location></location>
     <player>ctrl all delete</player>
     <timeoffrag>3:20</timeoffrag>
     <url>VdQszwxAuww</url>
@@ -138,6 +149,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags></tags>
+  <location></location>
     <player>Fvlion</player>
     <timeoffrag>1:40</timeoffrag>
     <url>9ENkSPVH8pE</url>
@@ -150,6 +162,7 @@
     <attachment></attachment>
     <numberofkills>5</numberofkills>
     <tags>Over Shoulder, Rel, Lb</tags>
+  <location></location>
     <player>Fax</player>
     <timeoffrag>2:20</timeoffrag>
     <url>om6YhO5Z3bM</url>
@@ -162,6 +175,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Js, Lb</tags>
+  <location></location>
     <player>Fax</player>
     <timeoffrag>2:40</timeoffrag>
     <url>hVhIp6LAlLU</url>
@@ -174,6 +188,7 @@
     <attachment></attachment>
     <numberofkills>7</numberofkills>
     <tags>Rel</tags>
+  <location></location>
     <player>Fax</player>
     <timeoffrag>3:10</timeoffrag>
     <url>SSi7RrZQxfE</url>
@@ -186,6 +201,7 @@
     <attachment>Acog</attachment>
     <numberofkills>3</numberofkills>
     <tags>Js, Ns, Rel</tags>
+  <location></location>
     <player>Fax</player>
     <timeoffrag>3:00</timeoffrag>
     <url>jWsIf_Ju7r0</url>
@@ -198,6 +214,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Rel</tags>
+  <location></location>
     <player>Fax</player>
     <timeoffrag>1:30</timeoffrag>
     <url>G_JGpdFIPNE</url>
@@ -210,6 +227,7 @@
     <attachment></attachment>
     <numberofkills>9</numberofkills>
     <tags>Ns</tags>
+  <location></location>
     <player>Fax</player>
     <timeoffrag>3:30</timeoffrag>
     <url>epRTC2LhWGY</url>
@@ -222,6 +240,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags></tags>
+  <location></location>
     <player>Fax</player>
     <timeoffrag>0:30</timeoffrag>
     <url>E7e2CW6zcbg</url>
@@ -234,6 +253,7 @@
     <attachment></attachment>
     <numberofkills>2</numberofkills>
     <tags>Js, Rel</tags>
+  <location></location>
     <player>Fax</player>
     <timeoffrag>3:15</timeoffrag>
     <url>Upn_Qc0Dxaw</url>
@@ -246,6 +266,7 @@
     <attachment></attachment>
     <numberofkills>5</numberofkills>
     <tags>Double Collat</tags>
+  <location></location>
     <player>super</player>
     <timeoffrag>0:25</timeoffrag>
     <url>P2e8Qr58DBQ</url>
@@ -258,6 +279,7 @@
     <attachment></attachment>
     <numberofkills>4</numberofkills>
     <tags>Js, Rel</tags>
+  <location></location>
     <player>super</player>
     <timeoffrag>0:45</timeoffrag>
     <url>FvwgoiA557A</url>
@@ -270,6 +292,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Ns, Ns Lb, Rel</tags>
+  <location></location>
     <player>super</player>
     <timeoffrag>3:20</timeoffrag>
     <url>BPIYDiwIMRA</url>
@@ -282,6 +305,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Explosion</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>1:15</timeoffrag>
     <url>ddeL6sS61UA</url>
@@ -294,6 +318,7 @@
     <attachment></attachment>
     <numberofkills>4</numberofkills>
     <tags></tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>2:15</timeoffrag>
     <url>1IaMfLvLia4</url>
@@ -306,6 +331,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Grenade Throw, Explosion</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>3:00</timeoffrag>
     <url>3Ea_JJvWF6c</url>
@@ -318,6 +344,7 @@
     <attachment></attachment>
     <numberofkills>4</numberofkills>
     <tags>Guardian</tags>
+  <location></location>
     <player>yellowskye</player>
     <timeoffrag>7:20</timeoffrag>
     <url>ZKow2ANeiq8</url>
@@ -330,6 +357,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Explosion</tags>
+  <location></location>
     <player>yellowskye</player>
     <timeoffrag>6:45</timeoffrag>
     <url>kF3I63eh8zM</url>
@@ -342,6 +370,7 @@
     <attachment></attachment>
     <numberofkills>6</numberofkills>
     <tags>Ns, Pickup</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>1:45</timeoffrag>
     <url>LTeM5_6Mwa8</url>
@@ -354,6 +383,7 @@
     <attachment>Fast Mag</attachment>
     <numberofkills>5</numberofkills>
     <tags>Wb</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>1:40</timeoffrag>
     <url>bamnHDD6I9o</url>
@@ -366,6 +396,7 @@
     <attachment></attachment>
     <numberofkills>2</numberofkills>
     <tags>Lb, Rel</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>1:50</timeoffrag>
     <url>WWHd95UT_xI</url>
@@ -378,6 +409,7 @@
     <attachment></attachment>
     <numberofkills>2</numberofkills>
     <tags>Rel, Qs</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>4:10</timeoffrag>
     <url>jfvsv_0Y4tI</url>
@@ -390,6 +422,7 @@
     <attachment>Fast Mag</attachment>
     <numberofkills>3</numberofkills>
     <tags>C4 Throw</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>0:25</timeoffrag>
     <url>LrBIlLnp_fg</url>
@@ -402,6 +435,7 @@
     <attachment>Fast Mag</attachment>
     <numberofkills>5</numberofkills>
     <tags>Explosion</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>1:50</timeoffrag>
     <url>MZhKnEf5q-s</url>
@@ -414,6 +448,7 @@
     <attachment></attachment>
     <numberofkills>7</numberofkills>
     <tags>Rel, Qs, Lb</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>0:30</timeoffrag>
     <url>rpV9h1Kmx6I</url>
@@ -426,6 +461,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Explosion, Rel, Js Rel</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>0:45</timeoffrag>
     <url>_nafj36FMps</url>
@@ -438,6 +474,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Rel</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>2:15</timeoffrag>
     <url>KT47ur0-Uy8</url>
@@ -450,6 +487,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Explosion</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>3:30</timeoffrag>
     <url>0F4zrxyJ-fA</url>
@@ -462,6 +500,7 @@
     <attachment></attachment>
     <numberofkills>7</numberofkills>
     <tags>Qs</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>4:40</timeoffrag>
     <url>b05enpm3tFc</url>
@@ -474,6 +513,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Rel</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>1:45</timeoffrag>
     <url>kx97o3uzPS8</url>
@@ -486,6 +526,7 @@
     <attachment></attachment>
     <numberofkills>5</numberofkills>
     <tags>Explosion, Rel, Lb</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>3:15</timeoffrag>
     <url>UTOSFwPBtPQ</url>
@@ -498,6 +539,7 @@
     <attachment></attachment>
     <numberofkills>2</numberofkills>
     <tags>Rel</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>5:45</timeoffrag>
     <url>T7FZuFNdz5E</url>
@@ -510,6 +552,7 @@
     <attachment></attachment>
     <numberofkills>4</numberofkills>
     <tags>Rel, Double Collat</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>5:00</timeoffrag>
     <url>DBfMutAvtL0</url>
@@ -522,6 +565,7 @@
     <attachment></attachment>
     <numberofkills>4</numberofkills>
     <tags>Rel, Double Collat</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>2:50</timeoffrag>
     <url>NPg0zLlbvWM</url>
@@ -534,6 +578,7 @@
     <attachment></attachment>
     <numberofkills>2</numberofkills>
     <tags>180, Js, Rel</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>3:30</timeoffrag>
     <url>UHSUJm7zCS8</url>
@@ -546,6 +591,7 @@
     <attachment></attachment>
     <numberofkills>4</numberofkills>
     <tags>Rel, Ns, Lb</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>1:30</timeoffrag>
     <url>NA4_EcZeaG4</url>
@@ -558,6 +604,7 @@
     <attachment></attachment>
     <numberofkills>8</numberofkills>
     <tags>Ns Rel, Rel, Double Collat</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>4:10</timeoffrag>
     <url>Qy-2qO8rn6o</url>
@@ -570,6 +617,7 @@
     <attachment></attachment>
     <numberofkills>5</numberofkills>
     <tags>C4 Throw, Explosion, Rel, Ns, Lb</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>5:00</timeoffrag>
     <url>r5cqxv8JMqE</url>
@@ -582,6 +630,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Double Collat, Rel</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>0:30</timeoffrag>
     <url>B4z1watsEMM</url>
@@ -594,6 +643,7 @@
     <attachment>Reflex</attachment>
     <numberofkills>9</numberofkills>
     <tags>Ns, First Raise</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>0:20</timeoffrag>
     <url>yRcCcLZLIzk</url>
@@ -606,6 +656,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Ns, Lb</tags>
+  <location></location>
     <player>Fax</player>
     <timeoffrag>2:20</timeoffrag>
     <url>5Spaf4biz-A</url>
@@ -618,6 +669,7 @@
     <attachment></attachment>
     <numberofkills>2</numberofkills>
     <tags>C4 Throw, Rel</tags>
+  <location></location>
     <player>Fax</player>
     <timeoffrag>3:20</timeoffrag>
     <url>f2ZPPo7McMY</url>
@@ -630,6 +682,7 @@
     <attachment>MMS, Fast Mag</attachment>
     <numberofkills>4</numberofkills>
     <tags>Wb</tags>
+  <location></location>
     <player>kept silent</player>
     <timeoffrag>0:40</timeoffrag>
     <url>hNKhwc0YEDk</url>
@@ -642,6 +695,7 @@
     <attachment></attachment>
     <numberofkills>6</numberofkills>
     <tags>Explosion, First Raise</tags>
+  <location></location>
     <player>kept silent</player>
     <timeoffrag>2:40</timeoffrag>
     <url>SKY6ZkrNK7Y</url>
@@ -654,6 +708,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Ns, Rel</tags>
+  <location></location>
     <player>kept silent</player>
     <timeoffrag>3:45</timeoffrag>
     <url>KCWpxb8Wx-4</url>
@@ -666,6 +721,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Shot In Air, Rel</tags>
+  <location></location>
     <player>kept silent</player>
     <timeoffrag>0:35</timeoffrag>
     <url>uDsKojnYjvE</url>
@@ -678,6 +734,7 @@
     <attachment></attachment>
     <numberofkills>4</numberofkills>
     <tags>Ns, Js, Rel</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>2:00</timeoffrag>
     <url>uDsKojnYjvE</url>
@@ -690,6 +747,7 @@
     <attachment>Reflex</attachment>
     <numberofkills>3</numberofkills>
     <tags>Js</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>4:15</timeoffrag>
     <url>ZpopSSoTFhQ</url>
@@ -702,6 +760,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Triple Collat</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>1:00</timeoffrag>
     <url>yLl_urzmH-Y</url>
@@ -714,6 +773,7 @@
     <attachment></attachment>
     <numberofkills>2</numberofkills>
     <tags>Rel, Wb</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>1:10</timeoffrag>
     <url>lF9A7mwYEJU</url>
@@ -726,6 +786,7 @@
     <attachment></attachment>
     <numberofkills>6</numberofkills>
     <tags>Rel</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>1:00</timeoffrag>
     <url>0CkOSbR2mZ8</url>
@@ -738,6 +799,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Rel, Ns</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>4:15</timeoffrag>
     <url>RaXh3u-nRBU</url>
@@ -750,6 +812,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Js</tags>
+  <location></location>
     <player>Imakz dN</player>
     <timeoffrag>3:50</timeoffrag>
     <url>ah0ekged8K0</url>
@@ -762,6 +825,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Rel, Pickup</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>3:32</timeoffrag>
     <url>dfbtw2nKBAc</url>
@@ -774,6 +838,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Rel</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>4:30</timeoffrag>
     <url>Bq_d2ZQa4LQ</url>
@@ -786,6 +851,7 @@
     <attachment></attachment>
     <numberofkills>4</numberofkills>
     <tags>Rel</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>3:20, 4:30</timeoffrag>
     <url>I9nOLRlJ4xA</url>
@@ -798,6 +864,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Rel</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>2:30</timeoffrag>
     <url>D9OoTcyC-dU</url>
@@ -810,6 +877,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Rel</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>0:30</timeoffrag>
     <url>EWWH703l-gw</url>
@@ -822,6 +890,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Ns Rel, Double Collat</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>4:40</timeoffrag>
     <url>uGIJz0zxrpM</url>
@@ -834,6 +903,7 @@
     <attachment></attachment>
     <numberofkills>6</numberofkills>
     <tags>Rel, Triple Collat, Lb</tags>
+  <location></location>
     <player>sadako</player>
     <timeoffrag>1:15</timeoffrag>
     <url>wrADVnPTtng</url>
@@ -846,6 +916,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Triple Collat</tags>
+  <location></location>
     <player>sadako</player>
     <timeoffrag>1:05</timeoffrag>
     <url>asSJSJnzJKg</url>
@@ -858,6 +929,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Grenade Throw</tags>
+  <location></location>
     <player>sadako</player>
     <timeoffrag>2:15</timeoffrag>
     <url>q-R6D0A8HJw</url>
@@ -870,6 +942,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Double Collat</tags>
+  <location></location>
     <player>consul</player>
     <timeoffrag>3:00</timeoffrag>
     <url>-x8AKi8q1d0</url>
@@ -882,6 +955,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Triple Collat</tags>
+  <location></location>
     <player>isory</player>
     <timeoffrag>0:20</timeoffrag>
     <url>WOs01lZXDYI</url>
@@ -894,6 +968,7 @@
     <attachment></attachment>
     <numberofkills>4</numberofkills>
     <tags>Rel, Ns</tags>
+  <location></location>
     <player>consul</player>
     <timeoffrag>0:40</timeoffrag>
     <url>VRV058KLoWg</url>
@@ -906,6 +981,7 @@
     <attachment>Fast Mag</attachment>
     <numberofkills>4</numberofkills>
     <tags>C4 Throw, Explosion</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>0:20</timeoffrag>
     <url>vsAVeTn5HVo</url>
@@ -918,6 +994,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Rel</tags>
+  <location></location>
     <player>karol19904</player>
     <timeoffrag>3:25</timeoffrag>
     <url>5UyQ2lPWxfg</url>
@@ -930,6 +1007,7 @@
     <attachment>Fast Mag</attachment>
     <numberofkills>4</numberofkills>
     <tags>Rel, C4 Throw</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>4:00</timeoffrag>
     <url>lF21ixoQVCw</url>
@@ -942,6 +1020,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Rel</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>0:30</timeoffrag>
     <url>Q6CUOZMPw2o</url>
@@ -954,6 +1033,7 @@
     <attachment>Fast Mag</attachment>
     <numberofkills>5</numberofkills>
     <tags>Rel, Js</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>1:00</timeoffrag>
     <url>vfJnOTONXgg</url>
@@ -966,6 +1046,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Ns</tags>
+  <location></location>
     <player>gambae</player>
     <timeoffrag>4:30</timeoffrag>
     <url>t52IWNP6oFM</url>
@@ -978,6 +1059,7 @@
     <attachment>Reflex</attachment>
     <numberofkills>4</numberofkills>
     <tags>Js, Explosion</tags>
+  <location></location>
     <player>gambae</player>
     <timeoffrag>2:00</timeoffrag>
     <url>SygmE_stuBA</url>
@@ -990,6 +1072,7 @@
     <attachment></attachment>
     <numberofkills>5</numberofkills>
     <tags>Lb</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>3:45</timeoffrag>
     <url>kX1OsEmbu3U</url>
@@ -1002,6 +1085,7 @@
     <attachment>Target Finder</attachment>
     <numberofkills>4</numberofkills>
     <tags>Explosion</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>1:45</timeoffrag>
     <url>6hXbhwCYTYM</url>
@@ -1014,6 +1098,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Ns</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>1:25</timeoffrag>
     <url>sKfZ_5Edl1I</url>
@@ -1026,6 +1111,7 @@
     <attachment></attachment>
     <numberofkills>7</numberofkills>
     <tags>Ns, Rel, Lb, Double Collat</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>1:50</timeoffrag>
     <url>CrlYBiE0hqw</url>
@@ -1038,6 +1124,7 @@
     <attachment></attachment>
     <numberofkills>2</numberofkills>
     <tags>Rel</tags>
+  <location></location>
     <player>isory</player>
     <timeoffrag>1:15</timeoffrag>
     <url>sX-BQ22h60I</url>
@@ -1050,6 +1137,7 @@
     <attachment></attachment>
     <numberofkills>4</numberofkills>
     <tags>Wb</tags>
+  <location></location>
     <player>isory</player>
     <timeoffrag>2:20</timeoffrag>
     <url>NTr5mITRRDY</url>
@@ -1062,6 +1150,7 @@
     <attachment>Thermal</attachment>
     <numberofkills>3</numberofkills>
     <tags>Rel, Js</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>0:20</timeoffrag>
     <url>oxeT6micZEM</url>
@@ -1074,6 +1163,7 @@
     <attachment>Thermal</attachment>
     <numberofkills>6</numberofkills>
     <tags>Rel, Lb</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>1:25</timeoffrag>
     <url>BVz0xBGedAY</url>
@@ -1086,6 +1176,7 @@
     <attachment>Thermal</attachment>
     <numberofkills>2</numberofkills>
     <tags>Js Ns</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>3:15</timeoffrag>
     <url>bgktsulrcYo</url>
@@ -1098,6 +1189,7 @@
     <attachment>Thermal</attachment>
     <numberofkills>4</numberofkills>
     <tags>Double Collat, Rel, Lb</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>4:15</timeoffrag>
     <url>5ZrtAWcM8f4</url>
@@ -1110,6 +1202,7 @@
     <attachment></attachment>
     <numberofkills>4</numberofkills>
     <tags>Js, Rel</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>2:00</timeoffrag>
     <url>aXxgEKlMYlE</url>
@@ -1122,6 +1215,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags></tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>3:40</timeoffrag>
     <url>fOHPRdACMgE</url>
@@ -1134,6 +1228,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Ns Rel</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>1:30</timeoffrag>
     <url>mAlXdBlAEdc</url>
@@ -1146,6 +1241,7 @@
     <attachment>Fast Mag</attachment>
     <numberofkills>9</numberofkills>
     <tags>C4 Throw, Rel, Explosion, Shockcharge</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>3:00</timeoffrag>
     <url>qNk4JFkr3q8</url>
@@ -1158,6 +1254,7 @@
     <attachment></attachment>
     <numberofkills>2</numberofkills>
     <tags>Ns</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>4:00</timeoffrag>
     <url>dLT_AulhJbM</url>
@@ -1170,6 +1267,7 @@
     <attachment>Fast Mag</attachment>
     <numberofkills>5</numberofkills>
     <tags>Rel</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>5:00</timeoffrag>
     <url>h97NY-CWCRU</url>
@@ -1182,6 +1280,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Rel</tags>
+  <location></location>
     <player>Unknown Soldier 5</player>
     <timeoffrag>0:50</timeoffrag>
     <url>rTGsrlwzfjY</url>
@@ -1194,6 +1293,7 @@
     <attachment></attachment>
     <numberofkills>5</numberofkills>
     <tags>Rel</tags>
+  <location></location>
     <player>Unknown Soldier 5</player>
     <timeoffrag>4:30</timeoffrag>
     <url>8rXXOYzE7pU</url>
@@ -1206,6 +1306,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Ns, Ragdoll</tags>
+  <location></location>
     <player>Zyra</player>
     <timeoffrag>1:35</timeoffrag>
     <url>YQ7VEVN54PQ</url>
@@ -1218,6 +1319,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Ns, Rel</tags>
+  <location></location>
     <player>twitch.tv/count</player>
     <timeoffrag>1:50</timeoffrag>
     <url>LV8x8Hsv010</url>
@@ -1230,6 +1332,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Js Scoped</tags>
+  <location></location>
     <player>twitch.tv/count</player>
     <timeoffrag>2:15</timeoffrag>
     <url>upQL27f3deE</url>
@@ -1242,6 +1345,7 @@
     <attachment>Thermal</attachment>
     <numberofkills>1</numberofkills>
     <tags>Vault</tags>
+  <location></location>
     <player>ExtremisT</player>
     <timeoffrag>2:00</timeoffrag>
     <url>n8Lv7QgFNIA</url>
@@ -1254,6 +1358,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Ns, Rel</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>1:32</timeoffrag>
     <url>gTSV0vl2PhY</url>
@@ -1266,6 +1371,7 @@
     <attachment></attachment>
     <numberofkills>5</numberofkills>
     <tags>Rel, Ns</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>2:00</timeoffrag>
     <url>TKqd7AH7eKg</url>
@@ -1278,6 +1384,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags></tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>2:30</timeoffrag>
     <url>sOkGBmcBcpo</url>
@@ -1290,6 +1397,7 @@
     <attachment></attachment>
     <numberofkills>4</numberofkills>
     <tags>C4 Throw, Ragdoll, First Raise</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>0:35</timeoffrag>
     <url>Luf8EleNjBE</url>
@@ -1302,6 +1410,7 @@
     <attachment>CPU</attachment>
     <numberofkills>5</numberofkills>
     <tags>Rel, Double Collat, Lb</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>5:05</timeoffrag>
     <url>cYuM04Gpkuo</url>
@@ -1314,6 +1423,7 @@
     <attachment>CPU</attachment>
     <numberofkills>5</numberofkills>
     <tags>Rel, Lb</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>3:50</timeoffrag>
     <url>c_DPIQGEH0M</url>
@@ -1326,6 +1436,7 @@
     <attachment></attachment>
     <numberofkills>5</numberofkills>
     <tags>C4 Throw, Explosion</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>0:25</timeoffrag>
     <url>sW9DMI4ZVco</url>
@@ -1338,6 +1449,7 @@
     <attachment>Fast Mag</attachment>
     <numberofkills>3</numberofkills>
     <tags>Rel</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>:25</timeoffrag>
     <url>u7BEtlX910I</url>
@@ -1350,6 +1462,7 @@
     <attachment>Fast Mag</attachment>
     <numberofkills>4</numberofkills>
     <tags></tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>2:10</timeoffrag>
     <url>4zAcYhVo4DM</url>
@@ -1362,6 +1475,7 @@
     <attachment>Fast Mag</attachment>
     <numberofkills>4</numberofkills>
     <tags>Rel</tags>
+  <location></location>
     <player>catchheartz</player>
     <timeoffrag>3:45</timeoffrag>
     <url>qZy73Z43cd4</url>
@@ -1374,6 +1488,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Double Collat</tags>
+  <location></location>
     <player>osi</player>
     <timeoffrag>4:40</timeoffrag>
     <url>2hgpflCIPFM</url>
@@ -1386,6 +1501,7 @@
     <attachment></attachment>
     <numberofkills>4</numberofkills>
     <tags>Rel, Throwing Knife</tags>
+  <location></location>
     <player>osi</player>
     <timeoffrag>5:00</timeoffrag>
     <url>z2i8PziQrao</url>
@@ -1398,6 +1514,7 @@
     <attachment></attachment>
     <numberofkills>1</numberofkills>
     <tags>Js Ns Rel</tags>
+  <location></location>
     <player>osii</player>
     <timeoffrag>5:15</timeoffrag>
     <url>TZJRusJaSFY</url>
@@ -1410,6 +1527,7 @@
     <attachment></attachment>
     <numberofkills>2</numberofkills>
     <tags>Double Collat, Js</tags>
+  <location></location>
     <player>osii</player>
     <timeoffrag>0:55</timeoffrag>
     <url>-imJRmu4FTQ</url>
@@ -1422,6 +1540,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Explosion</tags>
+  <location></location>
     <player>eeeeeeeeee</player>
     <timeoffrag>4:25</timeoffrag>
     <url>rFcybh0cNAw</url>
@@ -1434,6 +1553,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags></tags>
+  <location></location>
     <player>eeeeeeeeee</player>
     <timeoffrag>5:00</timeoffrag>
     <url>RsijXwa-lHo</url>
@@ -1446,6 +1566,7 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>C4 Throw</tags>
+  <location></location>
     <player>eeeeeeeee</player>
     <timeoffrag>3:50</timeoffrag>
     <url>1jscLEFJc0I</url>
@@ -1458,6 +1579,7 @@
     <attachment></attachment>
     <numberofkills>2</numberofkills>
     <tags>Ns Rel</tags>
+  <location></location>
     <player>Brentus</player>
     <timeoffrag>4:50</timeoffrag>
     <url>iEHwFkUs7Dg</url>
@@ -1470,6 +1592,7 @@
     <attachment></attachment>
     <numberofkills>1</numberofkills>
     <tags>Js Ns Rel</tags>
+  <location></location>
     <player>Brentus</player>
     <timeoffrag>5:35</timeoffrag>
     <url>nnHTyRtH-EI</url>
@@ -1482,6 +1605,7 @@
     <attachment></attachment>
     <numberofkills>6</numberofkills>
     <tags>Lb</tags>
+  <location></location>
     <player>Brentus</player>
     <timeoffrag>0:40</timeoffrag>
     <url>OsfV6sy_vf8</url>
@@ -1494,6 +1618,7 @@
     <attachment></attachment>
     <numberofkills>6</numberofkills>
     <tags>Rel</tags>
+  <location></location>
     <player>Brentus</player>
     <timeoffrag>4:10</timeoffrag>
     <url>smdBiA9Q8kE</url>
@@ -1506,6 +1631,7 @@
     <attachment>Cpu</attachment>
     <numberofkills>6</numberofkills>
     <tags>Rel, Lb</tags>
+  <location></location>
     <player>Zalez</player>
     <timeoffrag>3:15</timeoffrag>
     <url>BXd5kdeOzno</url>
@@ -1518,6 +1644,7 @@
     <attachment>Cpu</attachment>
     <numberofkills>3</numberofkills>
     <tags></tags>
+  <location></location>
     <player>Zalez</player>
     <timeoffrag>4:10</timeoffrag>
     <url>OzOZAzZyi8s</url>
@@ -1530,6 +1657,7 @@
     <attachment>Cpu</attachment>
     <numberofkills>5</numberofkills>
     <tags>Rel, Lb</tags>
+  <location></location>
     <player>Zalez</player>
     <timeoffrag>8:45</timeoffrag>
     <url>0RT_8LzUPQ8</url>
@@ -1542,6 +1670,7 @@
     <attachment>Iron Sight</attachment>
     <numberofkills>5</numberofkills>
     <tags>Rel, Double Collat</tags>
+  <location></location>
     <player>kart</player>
     <timeoffrag>1:45</timeoffrag>
     <url>mJeXljkdF2Q</url>
@@ -1554,6 +1683,7 @@
     <attachment>Iron Sight</attachment>
     <numberofkills>5</numberofkills>
     <tags>Rel, First Raise, Rel</tags>
+  <location></location>
     <player>kart</player>
     <timeoffrag>1:15</timeoffrag>
     <url>whTRNGCtDpw</url>
@@ -1566,6 +1696,7 @@
     <attachment>CPU</attachment>
     <numberofkills>3</numberofkills>
     <tags>Js, Rel</tags>
+  <location></location>
     <player>Dybark tK</player>
     <timeoffrag>0:25</timeoffrag>
     <url>aEe079yFK8c</url>
@@ -1578,6 +1709,7 @@
     <attachment>CPU</attachment>
     <numberofkills>6</numberofkills>
     <tags>Rel, Lb</tags>
+  <location></location>
     <player>Dybark tK</player>
     <timeoffrag>3:20</timeoffrag>
     <url>aEe079yFK8c</url>
@@ -1590,6 +1722,7 @@
     <attachment></attachment>
     <numberofkills>2</numberofkills>
     <tags>Js Ns Rel</tags>
+  <location></location>
     <player>Nooie</player>
     <timeoffrag>4:20</timeoffrag>
     <url>V8SA5sYV9jw</url>
@@ -1602,6 +1735,7 @@
     <attachment></attachment>
     <numberofkills>4</numberofkills>
     <tags>Rel</tags>
+  <location></location>
     <player>Nooie</player>
     <timeoffrag>5:00</timeoffrag>
     <url>xL_pikssOxk</url>
@@ -1614,6 +1748,7 @@
     <attachment>Cpu</attachment>
     <numberofkills>1</numberofkills>
     <tags>180, Js Ns Rel</tags>
+  <location></location>
     <player>New</player>
     <timeoffrag>4:15</timeoffrag>
     <url>wANS-o4kU_Q</url>
@@ -1626,6 +1761,7 @@
     <attachment></attachment>
     <numberofkills>2</numberofkills>
     <tags>Js Ns Rel</tags>
+  <location></location>
     <player>YUNGXANHOE (Siggie)</player>
     <timeoffrag>1:25</timeoffrag>
     <url>W3K-cAs3gbY</url>
@@ -1638,6 +1774,7 @@
     <attachment></attachment>
     <numberofkills>2</numberofkills>
     <tags>Rel, Guardian, Explosion</tags>
+  <location></location>
     <player>dom</player>
     <timeoffrag>3:00</timeoffrag>
     <url>kRGvCMLCvOQ</url>
@@ -1650,6 +1787,7 @@
     <attachment>CPU</attachment>
     <numberofkills>4</numberofkills>
     <tags>Ns, Double Collat, Lb</tags>
+  <location></location>
     <player>dom</player>
     <timeoffrag>3:05</timeoffrag>
     <url>p9HzXizCaAw</url>
@@ -1662,6 +1800,7 @@
     <attachment>CPU</attachment>
     <numberofkills>4</numberofkills>
     <tags>C4 Throw, Explosion, Ns, Wb</tags>
+  <location></location>
     <player>dom</player>
     <timeoffrag>4:50</timeoffrag>
     <url>t9F5P-K2hSc</url>
@@ -1674,6 +1813,7 @@
     <attachment></attachment>
     <numberofkills>5</numberofkills>
     <tags>Rel, Double Collat</tags>
+  <location></location>
     <player>Para</player>
     <timeoffrag>13:10</timeoffrag>
     <url>qPn6DG_8DlI</url>
@@ -1686,6 +1826,7 @@
     <attachment>Thermal</attachment>
     <numberofkills>6</numberofkills>
     <tags>Explosion</tags>
+  <location></location>
     <player>CROV</player>
     <timeoffrag>9:40</timeoffrag>
     <url>0RpFoCjjRhc</url>
@@ -1698,6 +1839,7 @@
     <attachment></attachment>
     <numberofkills>6</numberofkills>
     <tags>C4 Throw, Rel</tags>
+  <location></location>
     <player>InFamous Gazze</player>
     <timeoffrag>11:00</timeoffrag>
     <url>DkOQJqR4nIc</url>
@@ -1710,7 +1852,8 @@
     <attachment></attachment>
     <numberofkills>3</numberofkills>
     <tags>Rel, Qs, Js</tags>
-    <player>Nooie</player>
+  <location></location>
+    <player>Nooie</player><tag
     <timeoffrag>1:02,5:46,4:50</timeoffrag>
     <url>8ZBWAbh9YR8</url>
     <downloadurl>1VNSCiT0nqX-n1ukKCFiTrD-eDQVVdeD1</downloadurl>
