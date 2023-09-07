@@ -4665,4 +4665,134 @@
   <url>TqL6-COGXDQ</url>
   <downloadurl>1unajsGdRDYFOJA0HPSqd6-JmSGL1Mvx0</downloadurl>
 </entry>
+  <entry id="360">
+  <weapons></weapons>
+  <camo>Default</camo>
+  <mod></mod>
+  <map>Crossfire</map>
+  <numberofkills></numberofkills>
+  <tags></tags>
+  <player>Night</player>
+  <timeoffrag></timeoffrag>
+  <url></url>
+  <downloadurl></downloadurl>
+  <location>Parking Lot, Mid</location>
+</entry>
+<entry id="361">
+  <weapons>Ak74u</weapons>
+  <camo>Default</camo>
+  <mod>No Mod</mod>
+  <map>Crash</map>
+  <numberofkills>3</numberofkills>
+  <tags>Qs</tags>
+  <player>dAMMMO</player>
+  <timeoffrag></timeoffrag>
+  <url>NQueqMtMd-0</url>
+  <downloadurl>1uzF9yxkgnYyGSgQH8aShEB0LYfYiCbed</downloadurl>
+  <location>Blue, Helicopter</location>
+</entry>
+<entry id="362">
+  <weapons>M40A3</weapons>
+  <camo>Default</camo>
+  <mod>No Mod</mod>
+  <map>Strike</map>
+  <numberofkills>2</numberofkills>
+  <tags>Js, Ns</tags>
+  <player>dAMMMO</player>
+  <timeoffrag></timeoffrag>
+  <url>SXwQSWKxF3k</url>
+  <downloadurl>1v-XPOL6WCEaTqDl4ttjHkzHC1R64dshS</downloadurl>
+  <location>The Hood</location>
+</entry>
+<entry id="363">
+  <weapons>M40A3</weapons>
+  <camo>Default</camo>
+  <mod>No Mod</mod>
+  <map>Crash</map>
+  <numberofkills>2</numberofkills>
+  <tags>Double Collat</tags>
+  <player>dAMMMO</player>
+  <timeoffrag></timeoffrag>
+  <url>mPP00E92KXM</url>
+  <downloadurl>1v014LuQsmfI8HyXqnzxDmDUNZyomdMks</downloadurl>
+  <location>BackStreet</location>
+</entry>
+<entry id="364">
+  <weapons>Deagle, R700</weapons>
+  <camo>Default</camo>
+  <mod>No Mod</mod>
+  <map>Crash</map>
+  <numberofkills>2</numberofkills>
+  <tags>Qs</tags>
+  <player>dAMMMO</player>
+  <timeoffrag></timeoffrag>
+  <url>iier-e3Wuks</url>
+  <downloadurl>1vDgkYM0jEhM-MM9G4OhgEWL4nruvF6ZP</downloadurl>
+  <location>Tower</location>
+</entry>
+<entry id="365">
+  <weapons>Ak74u</weapons>
+  <camo>Default</camo>
+  <mod>No Mod</mod>
+  <map>Crash</map>
+  <numberofkills>3</numberofkills>
+  <tags>Ss</tags>
+  <player>dAMMMO</player>
+  <timeoffrag></timeoffrag>
+  <url>y4HGL3ah4hw</url>
+  <downloadurl>1vFsK9zpbcus3zcd-t_j_inRRPs1cuJ2-</downloadurl>
+  <location>Helicopter</location>
+</entry>
+<entry id="366">
+  <weapons>Ak74u</weapons>
+  <camo>Default</camo>
+  <mod>No Mod</mod>
+  <map>District</map>
+  <numberofkills>3</numberofkills>
+  <tags>Rel</tags>
+  <player>dAMMMO</player>
+  <timeoffrag></timeoffrag>
+  <url>djTtFv1ch7c</url>
+  <downloadurl>1vIyHB-fPE0VDe4i4VuHLqrdHuBT5s09o</downloadurl>
+  <location>Waterloo</location>
+</entry>
+<entry id="367">
+  <weapons>R700</weapons>
+  <camo>Default</camo>
+  <mod>No Mod</mod>
+  <map>Strike</map>
+  <numberofkills>3</numberofkills>
+  <tags></tags>
+  <player>dAMMMO</player>
+  <timeoffrag></timeoffrag>
+  <url>MAZUs9xz1QA</url>
+  <downloadurl>1vNGXYUmZ5_EsTdSpFYlYj0S7lW20tj7P</downloadurl>
+  <location>Marketplace</location>
+</entry>
+<entry id="368">
+  <weapons>Deagle</weapons>
+  <camo>Default</camo>
+  <mod>No Mod</mod>
+  <map>Crossfire</map>
+  <numberofkills>1</numberofkills>
+  <tags>Wb</tags>
+  <player>dAMMMO</player>
+  <timeoffrag></timeoffrag>
+  <url>3Ls_qmPhqfg</url>
+  <downloadurl>1vSREg_l2YSidfrmGOviZ5ubMOv5cYjF8</downloadurl>
+  <location>Mid</location>
+</entry>
+<entry id="369">
+  <weapons>Ak74u, Ak</weapons>
+  <camo>Default</camo>
+  <mod>No Mod</mod>
+  <map>District</map>
+  <numberofkills>5</numberofkills>
+  <tags>Rel</tags>
+  <player>dAMMMO</player>
+  <timeoffrag></timeoffrag>
+  <url>H6B-7YrJqp0</url>
+  <downloadurl>1vT9Ds2TdAnXsTiMwFKH7LlIF3ejnGRkN</downloadurl>
+  <location>Westminister, Circus</location>
+</entry>
 </database>
