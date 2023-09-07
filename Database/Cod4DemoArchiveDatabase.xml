@@ -4530,6 +4530,7 @@
   <map>Strike</map>
   <numberofkills>3</numberofkills>
   <tags>Ns, Qs</tags>
+  <location></location>
   <player>Night</player>
   <timeoffrag></timeoffrag>
   <url>yIiMyOFE_2M</url>
@@ -4542,6 +4543,7 @@
   <map>Crash</map>
   <numberofkills>3</numberofkills>
   <tags>Ns Qs</tags>
+  <location></location>
   <player>Night</player>
   <timeoffrag></timeoffrag>
   <url>zpfPQsCeWDk</url>
@@ -4553,6 +4555,7 @@
   <map>Strike</map>
   <numberofkills>3</numberofkills>
   <tags>Bounce, Js, Qs</tags>
+  <location></location>
   <player>Night</player>
   <timeoffrag></timeoffrag>
   <url>3Q_ap3wQJ0U</url>
@@ -4565,6 +4568,7 @@
   <map>Crash</map>
   <numberofkills>4</numberofkills>
   <tags>Ss</tags>
+  <location></location>
   <player>Night</player>
   <timeoffrag></timeoffrag>
   <url>VW6L78BWTEQ</url>
@@ -4577,6 +4581,7 @@
   <map>Strike</map>
   <numberofkills>4</numberofkills>
   <tags>Ns, Qs, Rel</tags>
+  <location></location>
   <player>Night</player>
   <timeoffrag></timeoffrag>
   <url>pbR4HBMMLWg</url>
@@ -4589,6 +4594,7 @@
   <map>Crash</map>
   <numberofkills>3</numberofkills>
   <tags>Clean, Qs</tags>
+  <location></location>
   <player>Night</player>
   <timeoffrag></timeoffrag>
   <url>14ZUeisEuww</url>
@@ -4601,6 +4607,7 @@
   <map>Crossfire</map>
   <numberofkills>3</numberofkills>
   <tags>Ns</tags>
+  <location></location>
   <player>Night</player>
   <timeoffrag></timeoffrag>
   <url>c7e9GyejfoQ</url>
@@ -4613,6 +4620,7 @@
   <map>District</map>
   <numberofkills>3</numberofkills>
   <tags>Ns</tags>
+  <location></location>
   <player>Night</player>
   <timeoffrag></timeoffrag>
   <url>6wkbF5zyNkg</url>
@@ -4625,6 +4633,7 @@
   <map>Showdown</map>
   <numberofkills>3</numberofkills>
   <tags>Js Ns, Triple Collat</tags>
+  <location></location>
   <player>Night</player>
   <timeoffrag></timeoffrag>
   <url>Qxr0yDJrqYs</url>
@@ -4637,6 +4646,7 @@
   <map>Strike</map>
   <numberofkills>1</numberofkills>
   <tags>Bounce, Ns</tags>
+  <location></location>
   <player>Night</player>
   <timeoffrag></timeoffrag>
   <url>SpxR2Gy_pcg</url>
@@ -4649,6 +4659,7 @@
   <map>Crash</map>
   <numberofkills>4</numberofkills>
   <tags>Ns, Ns Rel, Rel</tags>
+  <location></location>
   <player>New</player>
   <timeoffrag></timeoffrag>
   <url>TqL6-COGXDQ</url>
