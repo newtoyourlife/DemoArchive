@@ -4485,7 +4485,7 @@
   <downloadurl>1tn8eItanYZEXoj2o8vYo7GAXTEyvjuBr</downloadurl>
 </entry>
   <entry id="346">
-  <weapons>Ak74u</weapons>
+  <weapons>ak47u</weapons>
   <camo>Default</camo>
   <mod>Promod</mod>
   <map>Crash</map>
@@ -4666,7 +4666,7 @@
   <downloadurl>1unajsGdRDYFOJA0HPSqd6-JmSGL1Mvx0</downloadurl>
 </entry>
 <entry id="360">
-  <weapons>Ak74u</weapons>
+  <weapons>ak47u</weapons>
   <camo>Default</camo>
   <mod>No Mod</mod>
   <map>Crash</map>
@@ -4718,7 +4718,7 @@
   <location>Tower</location>
 </entry>
 <entry id="364">
-  <weapons>Ak74u</weapons>
+  <weapons>ak47u</weapons>
   <camo>Default</camo>
   <mod>No Mod</mod>
   <map>Crash</map>
@@ -4731,7 +4731,7 @@
   <location>Helicopter</location>
 </entry>
 <entry id="365">
-  <weapons>Ak74u</weapons>
+  <weapons>ak47u</weapons>
   <camo>Default</camo>
   <mod>No Mod</mod>
   <map>District</map>
@@ -4770,7 +4770,7 @@
   <location>Mid</location>
 </entry>
 <entry id="368">
-  <weapons>Ak74u, Ak</weapons>
+  <weapons>ak47u, Ak</weapons>
   <camo>Default</camo>
   <mod>No Mod</mod>
   <map>District</map>
