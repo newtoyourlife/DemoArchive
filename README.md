@@ -55,7 +55,7 @@ Example query: `weapon:dsr map:nuketown player:fax tags:rel kills:3`
 Selected the * to favorite a demo, it will then be saved to your "saved" tab. (This is stored locally in user/Documents/DemoArchive/Saved Demos/saved_demos.xml)
 
 <div align="center">
-  <a href="preview2.png">
-    <img src="preview2.png" alt="preview2" width="auto" height="auto">
+  <a href="preview3.png">
+    <img src="preview3.png" alt="preview" width="auto" height="auto">
   </a>
 </div>
