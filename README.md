@@ -10,7 +10,7 @@
 
 ## Overview
 
-**As more demos are uploaded the archive will update on your version as well, eliminating the need to re-download.
+As more demos are uploaded the archive will update on your version as well, eliminating the need to re-download.
 
 ## Search Filters
 
@@ -47,5 +47,15 @@ Example query: `weapon:dsr map:nuketown player:fax tags:rel kills:3`
 <div align="center">
   <a href="preview1.png">
     <img src="preview1.png" alt="preview" width="auto" height="auto">
+  </a>
+</div>
+
+## Favoriting Demos
+
+Selected the * to favorite a demo, it will then be saved to your "saved" tab. (This is stored locally in user/Documents/DemoArchive/Saved Demos/saved_demos.xml)
+
+<div align="center">
+  <a href="preview2.png">
+    <img src="preview2.png" alt="preview2" width="auto" height="auto">
   </a>
 </div>
