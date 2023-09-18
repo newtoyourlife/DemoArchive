@@ -26,7 +26,7 @@
     <downloadurl>12fRRcaLoH4fNQH2psjrqQpOjXCD07YTD</downloadurl>
 </entry>
 <entry id="3">
-    <weapons>Ak47, Ak47u</weapons>
+    <weapons>Ak47, Ak74u</weapons>
     <map>Crossfire</map>
     <camo>Desert</camo>
     <mod>Promod</mod>
@@ -403,7 +403,7 @@
     <downloadurl>1P7Q85DssLDBfbnpJpI5JGe1ZjmCfGBng</downloadurl>
 </entry>
 <entry id="32">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>District</map>
     <camo>Default</camo>
     <mod>Promod</mod>
@@ -442,7 +442,7 @@
     <downloadurl>1PEhG6vW7Fj49jc9BgSdC3OIoW24QSqS9</downloadurl>
 </entry>
 <entry id="35">
-    <weapons>Grenade, Deagle, Knife, Ak47u</weapons>
+    <weapons>Grenade, Deagle, Knife, Ak74u</weapons>
     <map>Strike</map>
     <camo>Blue Tiger</camo>
     <mod>Promod</mod>
@@ -481,7 +481,7 @@
     <downloadurl>1PrRiZg3hvdxjTZEZcYvUCparf9XayJqN</downloadurl>
 </entry>
 <entry id="38">
-    <weapons>Grenade, Ak47u, Deagle</weapons>
+    <weapons>Grenade, Ak74u, Deagle</weapons>
     <map>Strike</map>
     <camo>Default</camo>
     <mod>Promod</mod>
@@ -624,7 +624,7 @@
     <downloadurl>1QVFcdDJRaQsQ12S7KABeR-E3_Y-ONWPT</downloadurl>
 </entry>
 <entry id="49">
-    <weapons>M4A1, Ak47u</weapons>
+    <weapons>M4A1, Ak74u</weapons>
     <map>Backlot</map>
     <camo>Default, Default</camo>
     <mod>Promod</mod>
@@ -650,7 +650,7 @@
     <downloadurl>1Qhfx-bAuZYQ8jEOT-X8EIVrBQ-6CsXf7</downloadurl>
 </entry>
 <entry id="51">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Strike</map>
     <camo>Default, Default</camo>
     <mod>Promod</mod>
@@ -663,7 +663,7 @@
     <downloadurl>1QiiXeQ-SKN3eakfIuoT7w3cW7v-wn0Mr</downloadurl>
 </entry>
 <entry id="52">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Strike</map>
     <camo>Default, Default</camo>
     <mod>Promod</mod>
@@ -728,7 +728,7 @@
     <downloadurl>1R4RfTTWlXmJ9wUc7MxtmqJWUALmduCmZ</downloadurl>
 </entry>
 <entry id="57">
-    <weapons>Ak47u, Ak47, Deagle</weapons>
+    <weapons>Ak74u, Ak47, Deagle</weapons>
     <map>Crossfire</map>
     <camo>Woodland, Default, Default</camo>
     <mod>Promod</mod>
@@ -923,7 +923,7 @@
     <downloadurl>1RyFUr16Ttzmg3M88a7l3O1O1YIenwwcv</downloadurl>
 </entry>
 <entry id="72">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Strike</map>
     <camo>Default, Gold</camo>
     <mod>Promod</mod>
@@ -936,7 +936,7 @@
     <downloadurl>1S-lNHvVRWx9744HDnwHsXh7recLpX5h5</downloadurl>
 </entry>
 <entry id="73">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Strike</map>
     <camo>Default, Gold</camo>
     <mod>Promod</mod>
@@ -1014,7 +1014,7 @@
     <downloadurl>1SLeft_Qwa5RVsO5GrypIXKj6FY9sfUgM</downloadurl>
 </entry>
 <entry id="79">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Strike</map>
     <camo>Red Tiger, Default</camo>
     <mod>Promod</mod>
@@ -1053,7 +1053,7 @@
     <downloadurl>1SSuo7ulWjLvOce7cgCZz8dQGqOKyV3c_</downloadurl>
 </entry>
 <entry id="82">
-    <weapons>Deagle, Ak47, Ak47u, M40A3</weapons>
+    <weapons>Deagle, Ak47, Ak74u, M40A3</weapons>
     <map>Strike</map>
     <camo>Default, Blue Tiger, Default, Desert</camo>
     <mod>Promod</mod>
@@ -1235,7 +1235,7 @@
     <downloadurl>1TKDoM50sS1C8dpg_bCsNwP_Pl9QHM0_U</downloadurl>
 </entry>
 <entry id="96">
-    <weapons>Ak47u, Ak47</weapons>
+    <weapons>Ak74u, Ak47</weapons>
     <map>Crossfire</map>
     <camo>Default, Default</camo>
     <mod>Promod</mod>
@@ -1261,7 +1261,7 @@
     <downloadurl>1TNjQ34HxO5Lgcpb3tM7gPATWBAKRIUSr</downloadurl>
 </entry>
 <entry id="98">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Crash</map>
     <camo>Blue Tiger, Default</camo>
     <mod>Promod</mod>
@@ -1274,7 +1274,7 @@
     <downloadurl>1TS1EQvB-gb9PFO7-xjDuFmluzYVq_1HS</downloadurl>
 </entry>
 <entry id="99">
-    <weapons>Ak47u</weapons>
+    <weapons>Ak74u</weapons>
     <map>Crash</map>
     <camo>Blue Tiger</camo>
     <mod>Promod</mod>
@@ -1287,7 +1287,7 @@
     <downloadurl>1TWWbiLWeVmoPDDf5JnsVrsy7F6NvczhJ</downloadurl>
 </entry>
 <entry id="100">
-    <weapons>Ak47u</weapons>
+    <weapons>Ak74u</weapons>
     <map>Crash</map>
     <camo>Blue Tiger</camo>
     <mod>Promod</mod>
@@ -1313,7 +1313,7 @@
     <downloadurl>1TXS1-k49DD5_2318NFzfb72yaVOoAAuW</downloadurl>
 </entry>
 <entry id="102">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Crash</map>
     <camo>Blue Tiger, Default</camo>
     <mod>Promod</mod>
@@ -1378,7 +1378,7 @@
     <downloadurl>1TjABAqX8wD7DLowC8Gn-uJdoiZ9nBWVP</downloadurl>
 </entry>
 <entry id="107">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Crash</map>
     <camo>Default, Gold</camo>
     <mod>Promod</mod>
@@ -1612,7 +1612,7 @@
     <downloadurl>1UQUhmQb6MsHKlzP8UmJlP6oq8Nz0JvAi</downloadurl>
 </entry>
 <entry id="125">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Crash</map>
     <camo>Default, Default</camo>
     <mod>Promod</mod>
@@ -1651,7 +1651,7 @@
     <downloadurl>1UdycTeg_6gGqRdBDqxGYbA-I85QxisKc</downloadurl>
 </entry>
 <entry id="128">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Backlot</map>
     <camo>Blue Tiger, Default</camo>
     <mod>Promod</mod>
@@ -1664,7 +1664,7 @@
     <downloadurl>1UfDp0JokbebulOVFM2BrJ2063gqG19Yw</downloadurl>
 </entry>
 <entry id="129">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Backlot</map>
     <camo>Blue Tiger</camo>
     <mod>Promod</mod>
@@ -1716,7 +1716,7 @@
     <downloadurl>1UwDP4HJiBBO2RV4X_5x8UyPcpQZJ3a61</downloadurl>
 </entry>
 <entry id="133">
-    <weapons>M1014, Ak47u, Deagle</weapons>
+    <weapons>M1014, Ak74u, Deagle</weapons>
     <map>Crash</map>
     <camo>Default, Desert, Default</camo>
     <mod>Promod</mod>
@@ -1729,7 +1729,7 @@
     <downloadurl>1UrdkjbYXPyD69IPJn_hc7IRbeqlFKi84</downloadurl>
 </entry>
 <entry id="134">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Crash</map>
     <camo>Blue Tiger, Default</camo>
     <mod>Promod</mod>
@@ -1742,7 +1742,7 @@
     <downloadurl>1UxURtq__KgbxQ92_kaI63yy7H_JhA73I</downloadurl>
 </entry>
 <entry id="135">
-    <weapons>Ak47u</weapons>
+    <weapons>Ak74u</weapons>
     <map>Strike</map>
     <camo>Blue Tiger</camo>
     <mod>Promod</mod>
@@ -1768,7 +1768,7 @@
     <downloadurl>1V3xAlC-VybTQ_52EAzKOv_EjFDH--5Vq</downloadurl>
 </entry>
 <entry id="137">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Strike</map>
     <camo>Blue Tiger, Default</camo>
     <mod>Promod</mod>
@@ -2015,7 +2015,7 @@
     <downloadurl>1W5adxnSoBPEZKdQePagl0inkAJY5sydy</downloadurl>
 </entry>
 <entry id="156">
-    <weapons>Ak47u, Deagle, M40A3</weapons>
+    <weapons>Ak74u, Deagle, M40A3</weapons>
     <map>Crash</map>
     <camo>Blue Tiger, Default, Default</camo>
     <mod>Promod</mod>
@@ -2301,7 +2301,7 @@
     <downloadurl>1XvtA8zUO5GNlmd64Vkgl4A9MFIGcdoN0</downloadurl>
 </entry>
 <entry id="178">
-    <weapons>Ak47u, Deagle, M40A3</weapons>
+    <weapons>Ak74u, Deagle, M40A3</weapons>
     <map>Crossfire</map>
     <camo>Blue Tiger, Default, Desert</camo>
     <mod>Promod</mod>
@@ -2314,7 +2314,7 @@
     <downloadurl>1Xy-PMPBuaue7eYWNANa1CXeuL1CUq1yO</downloadurl>
 </entry>
 <entry id="179">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Crossfire</map>
     <camo>Blue Tiger, Default</camo>
     <mod>Promod</mod>
@@ -2340,7 +2340,7 @@
     <downloadurl>1YMOjF0woFYzHIAx4v5zSp6HIwm3MBYYi</downloadurl>
 </entry>
 <entry id="181">
-    <weapons>AK47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Crash</map>
     <camo>Default, Default</camo>
     <mod>Promod</mod>
@@ -2431,7 +2431,7 @@
     <downloadurl>1Z4LaHtvSl3Ri9Q-QIw80xIUqzu_D3C-p</downloadurl>
 </entry>
 <entry id="188">
-    <weapons>Ak47u, Deagle, Ak47</weapons>
+    <weapons>Ak74u, Deagle, Ak47</weapons>
     <map>Crash</map>
     <camo>Red Tiger, Default, Gold</camo>
     <mod>Promod</mod>
@@ -2509,7 +2509,7 @@
     <downloadurl>1ZXtwAZ7XL9otABO-t_eews4APiIAd68F</downloadurl>
 </entry>
 <entry id="194">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>District</map>
     <camo>Default, Default</camo>
     <mod>Promod</mod>
@@ -2535,7 +2535,7 @@
     <downloadurl>1Zi615d9pqvWGFji3ukCEIP_nu09gwmUM</downloadurl>
 </entry>
 <entry id="196">
-    <weapons>Ak47u, Deagle, M40A3</weapons>
+    <weapons>Ak74u, Deagle, M40A3</weapons>
     <map>District</map>
     <camo>Default, Default, Digital</camo>
     <mod>Promod</mod>
@@ -2652,7 +2652,7 @@
     <downloadurl>1_mcLPnNvPEW52nAjUd_kL-0gZctRGasr</downloadurl>
 </entry>
 <entry id="205">
-    <weapons>Ak47u, Deagle, M40A3</weapons>
+    <weapons>Ak74u, Deagle, M40A3</weapons>
     <map>Crossfire</map>
     <camo>Blue Tiger, Default, Default</camo>
     <mod>Promod</mod>
@@ -2665,7 +2665,7 @@
     <downloadurl>1_nQi6yW-HL-rr1ivy30wcnlNSJnK4-jP</downloadurl>
 </entry>
 <entry id="206">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Crossfire</map>
     <camo>Blue Tiger, Default</camo>
     <mod>Promod</mod>
@@ -2678,7 +2678,7 @@
     <downloadurl>1_oxl-VIPk3ZdotzwIORZ9-_8J-7nBJWJ</downloadurl>
 </entry>
 <entry id="207">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Crossfire</map>
     <camo>Blue Tiger, Default</camo>
     <mod>Promod</mod>
@@ -2821,7 +2821,7 @@
     <downloadurl>1bNPMZVXdx7NGECU5Dph7L9QO0wKDsJcQ</downloadurl>
 </entry>
 <entry id="218">
-    <weapons>Ak47u</weapons>
+    <weapons>Ak74u</weapons>
     <map>Crash</map>
     <camo>Default</camo>
     <mod>Promod</mod>
@@ -2899,7 +2899,7 @@
     <downloadurl>1bnEL8S7q9_5fXhqr1_vDqTW8p6bMhg1m</downloadurl>
 </entry>
 <entry id="224">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Crash</map>
     <camo>Default, Default</camo>
     <mod>Promod</mod>
@@ -2938,7 +2938,7 @@
     <downloadurl>1bzNTrSJRXoE4u2MLbD27fP9y7KU3T6bC</downloadurl>
 </entry>
 <entry id="227">
-    <weapons>Ak47u, Ak47, R700</weapons>
+    <weapons>Ak74u, Ak47, R700</weapons>
     <map>District</map>
     <camo>Blue Tiger, Default, Woodland</camo>
     <mod>Promod</mod>
@@ -3016,7 +3016,7 @@
     <downloadurl>1cfrinEVKnXL51Wy7NoMNWIPMXou_UsqT</downloadurl>
 </entry>
 <entry id="233">
-    <weapons>Ak47u, Deagle, R700</weapons>
+    <weapons>Ak74u, Deagle, R700</weapons>
     <map>Crossfire</map>
     <camo>Default, Default, Woodland</camo>
     <mod>Promod</mod>
@@ -3068,7 +3068,7 @@
     <downloadurl>1d4S7F3RxrDOf3ocJ3qaMMxNCcb0kwIYK</downloadurl>
 </entry>
 <entry id="237">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Crossfire</map>
     <camo>Blue Tiger, Gold</camo>
     <mod>Promod</mod>
@@ -3094,7 +3094,7 @@
     <downloadurl>1d6AeKcTJm_tOXB7AwghMKzxLWNhrO_xe</downloadurl>
 </entry>
 <entry id="239">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Crossfire</map>
     <camo>Default, Gold</camo>
     <mod>Promod</mod>
@@ -3107,7 +3107,7 @@
     <downloadurl>1dBiQpcSqsmYIiuXXAxL4Fs5OMkC5Gty7</downloadurl>
 </entry>
 <entry id="240">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Crossfire</map>
     <camo>Default, Gold</camo>
     <mod>Promod</mod>
@@ -3159,7 +3159,7 @@
     <downloadurl>1dLNcc73iprd7qToOzc-YLC_Y_d9mfr4c</downloadurl>
 </entry>
 <entry id="244">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Crash</map>
     <camo>Default, Gold</camo>
     <mod>Promod</mod>
@@ -3198,7 +3198,7 @@
     <downloadurl>1dhg-yLysLNEMZT5zjRnFhnHOJpzkEs9f</downloadurl>
 </entry>
 <entry id="247">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Crossfire</map>
     <camo>Default, Default</camo>
     <mod>Promod</mod>
@@ -3237,7 +3237,7 @@
     <downloadurl>1dm60iRo5QOVcHlSDjHC3M-etn3mR59OQ</downloadurl>
 </entry>
 <entry id="250">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Crash</map>
     <camo>Default, Default</camo>
     <mod>Promod</mod>
@@ -3471,7 +3471,7 @@
     <downloadurl>1exyWpt23NVs5PHTCbMrc2kf6DB4p_zHG</downloadurl>
 </entry>
 <entry id="268">
-    <weapons>Ak47u</weapons>
+    <weapons>Ak74u</weapons>
     <map>Vacant</map>
     <camo>Default</camo>
     <mod>EvoPromod</mod>
@@ -3601,7 +3601,7 @@
     <downloadurl>1fZrw-YlR_44O_DpSYjIpt6H_8aOVtZ9L</downloadurl>
 </entry>
 <entry id="278">
-    <weapons>Ak47u</weapons>
+    <weapons>Ak74u</weapons>
     <map>Crossfire</map>
     <camo>Default</camo>
     <mod>No Mod</mod>
@@ -3614,7 +3614,7 @@
     <downloadurl>1fjrFW5ck-lYdhS1AdDVJgbZ60FiqMgCJ</downloadurl>
 </entry>
 <entry id="279">
-    <weapons>Ak47u</weapons>
+    <weapons>Ak74u</weapons>
     <map>Crossfire</map>
     <camo>Default</camo>
     <mod>No Mod</mod>
@@ -3627,7 +3627,7 @@
     <downloadurl>1fmz82JlHM3KVBoRT4TrMztM9tUyK0Xbq</downloadurl>
 </entry>
 <entry id="280">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Bloc</map>
     <camo>Default, Default</camo>
     <mod>No Mod</mod>
@@ -3705,7 +3705,7 @@
     <downloadurl>1gZaR7I6-K89ULIoKjwgkQE-QMt822qVI</downloadurl>
 </entry>
 <entry id="286">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Overgrown</map>
     <camo>Default, Default</camo>
     <mod>No Mod</mod>
@@ -3731,7 +3731,7 @@
     <downloadurl>1gakW830KVYNcmTp1MznvRdzJD2uUpifd</downloadurl>
 </entry>
 <entry id="288">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Crossfire</map>
     <camo>Default, Default</camo>
     <mod>No Mod</mod>
@@ -3744,7 +3744,7 @@
     <downloadurl>1gl3hS1poQGI8dL7cGDybviS4Ag2hD0L2</downloadurl>
 </entry>
 <entry id="289">
-    <weapons>Ak47u</weapons>
+    <weapons>Ak74u</weapons>
     <map>Wetwork</map>
     <camo>Default</camo>
     <mod>No Mod</mod>
@@ -3757,7 +3757,7 @@
     <downloadurl>1gmf17QbrH_2th2XjkJPKDvc57SVNgwA1</downloadurl>
 </entry>
 <entry id="290">
-    <weapons>Ak47u</weapons>
+    <weapons>Ak74u</weapons>
     <map>Wetwork</map>
     <camo>Default</camo>
     <mod>No Mod</mod>
@@ -3770,7 +3770,7 @@
     <downloadurl>1gnHf9WBdpEvvUeyuMaCng4MprY1yeGNE</downloadurl>
 </entry>
 <entry id="291">
-    <weapons>Ak47u</weapons>
+    <weapons>Ak74u</weapons>
     <map>Wetwork</map>
     <camo>Default</camo>
     <mod>No Mod</mod>
@@ -3783,7 +3783,7 @@
     <downloadurl>1goW1DiOTbXnNOl691YH_oJ53YegEiwfL</downloadurl>
 </entry>
 <entry id="292">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Wetwork</map>
     <camo>Default, Default</camo>
     <mod>No Mod</mod>
@@ -3796,7 +3796,7 @@
     <downloadurl>1gwsn3i13L_nwkmT-Q4X_RsYaxpTq3vgX</downloadurl>
 </entry>
 <entry id="293">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Wetwork</map>
     <camo>Default, Default</camo>
     <mod>No Mod</mod>
@@ -3835,7 +3835,7 @@
     <downloadurl>1h8lFRoUAvwBIzuGpmyXbScnkQbd1AtvX</downloadurl>
 </entry>
 <entry id="296">
-    <weapons>Ak47u</weapons>
+    <weapons>Ak74u</weapons>
     <map>Bloc</map>
     <camo>Default</camo>
     <mod>No Mod</mod>
@@ -3848,7 +3848,7 @@
     <downloadurl>1hBqdPo_Odo15MJ9CACcA8LfD5G2falpX</downloadurl>
 </entry>
 <entry id="297">
-    <weapons>Ak47u</weapons>
+    <weapons>Ak74u</weapons>
     <map>Vacant</map>
     <camo>Default</camo>
     <mod>No Mod</mod>
@@ -3913,7 +3913,7 @@
     <downloadurl>1hNQJV9T5YCn52Msl1UBzB56algJlSBG0</downloadurl>
 </entry>
 <entry id="302">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Broadcast</map>
     <camo>Default, Default</camo>
     <mod>No Mod</mod>
@@ -3926,7 +3926,7 @@
     <downloadurl>1hOMxKI_z8oBqbI49iuIH3pb0hNr4otR2</downloadurl>
 </entry>
 <entry id="303">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Broadcast</map>
     <camo>Default, Default</camo>
     <mod>No Mod</mod>
@@ -3939,7 +3939,7 @@
     <downloadurl>1hWIroVZI-o6k2fyUQAS8D32Aj0tYh89U</downloadurl>
 </entry>
 <entry id="304">
-    <weapons>Ak47u</weapons>
+    <weapons>Ak74u</weapons>
     <map>Crash</map>
     <camo>Default</camo>
     <mod>No Mod</mod>
@@ -4095,7 +4095,7 @@
     <downloadurl>1i5Fr1P_wm8Eh0IslMbtdr1a-6172Wjve</downloadurl>
 </entry>
 <entry id="316">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Strike</map>
     <camo>Blue Tiger, Gold</camo>
     <mod>No Mod</mod>
@@ -4238,7 +4238,7 @@
     <downloadurl>1ivc4FXsdB-TdHTpXHWOoDGG-dfTVGdl_</downloadurl>
 </entry>
 <entry id="327">
-    <weapons>Ak47u</weapons>
+    <weapons>Ak74u</weapons>
     <map>District</map>
     <camo>Default</camo>
     <mod>Promod</mod>
@@ -4342,7 +4342,7 @@
     <downloadurl>1oGw7NCYbpl_QSsbGHRmEsxu82mgyX-tA</downloadurl>
 </entry>
 <entry id="335">
-    <weapons>Ak47u, Deagle</weapons>
+    <weapons>Ak74u, Deagle</weapons>
     <map>Crash</map>
     <camo>Default, Default</camo>
     <mod>Promod</mod>
@@ -4485,7 +4485,7 @@
   <downloadurl>1tn8eItanYZEXoj2o8vYo7GAXTEyvjuBr</downloadurl>
 </entry>
   <entry id="346">
-  <weapons>ak47u</weapons>
+  <weapons>Ak74u</weapons>
   <camo>Default</camo>
   <mod>Promod</mod>
   <map>Crash</map>
@@ -4666,7 +4666,7 @@
   <downloadurl>1unajsGdRDYFOJA0HPSqd6-JmSGL1Mvx0</downloadurl>
 </entry>
 <entry id="360">
-  <weapons>ak47u</weapons>
+  <weapons>Ak74u</weapons>
   <camo>Default</camo>
   <mod>No Mod</mod>
   <map>Crash</map>
@@ -4718,7 +4718,7 @@
   <location>Tower</location>
 </entry>
 <entry id="364">
-  <weapons>ak47u</weapons>
+  <weapons>Ak74u</weapons>
   <camo>Default</camo>
   <mod>No Mod</mod>
   <map>Crash</map>
@@ -4731,7 +4731,7 @@
   <location>Helicopter</location>
 </entry>
 <entry id="365">
-  <weapons>ak47u</weapons>
+  <weapons>Ak74u</weapons>
   <camo>Default</camo>
   <mod>No Mod</mod>
   <map>District</map>
@@ -4770,7 +4770,7 @@
   <location>Mid</location>
 </entry>
 <entry id="368">
-  <weapons>ak47u, Ak</weapons>
+  <weapons>Ak74u, Ak</weapons>
   <camo>Default</camo>
   <mod>No Mod</mod>
   <map>District</map>
@@ -4835,7 +4835,7 @@
   <location>Slope, Dark</location>
 </entry>
 <entry id="371">
-  <weapons>Ak47u, Deagle</weapons>
+  <weapons>Ak74u, Deagle</weapons>
   <camo>Default</camo>
   <mod>No Mod</mod>
   <map>Crossfire</map>
@@ -5056,7 +5056,7 @@
   <location>Mid</location>
 </entry>
 <entry id="388">
-  <weapons>Ak47u, Deagle</weapons>
+  <weapons>Ak74u, Deagle</weapons>
   <camo>Default</camo>
   <mod>No Mod</mod>
   <map>Crash</map>
@@ -5160,7 +5160,7 @@
   <location></location>
 </entry>
 <entry id="396">
-  <weapons>Ak47u</weapons>
+  <weapons>Ak74u</weapons>
   <camo>Default</camo>
   <mod>No Mod</mod>
   <map>Crash</map>
@@ -5550,7 +5550,7 @@
   <location>BackStreet</location>
 </entry>
 <entry id="425">
-  <weapons>Ak47u, Deagle</weapons>
+  <weapons>Ak74u, Deagle</weapons>
   <camo>Default</camo>
   <mod>No Mod</mod>
   <map>Crossfire</map>
@@ -5888,7 +5888,7 @@
   <location>Mid, Shop</location>
 </entry>
 <entry id="451">
-  <weapons>Ak47u, Deagle</weapons>
+  <weapons>Ak74u, Deagle</weapons>
   <camo>Default, Gold</camo>
   <mod>No Mod</mod>
   <map>Strike</map>
@@ -5953,7 +5953,7 @@
   <location>Helicopter</location>
 </entry>
 <entry id="456">
-  <weapons>Ak47u, Ak</weapons>
+  <weapons>Ak74u, Ak</weapons>
   <camo>Default</camo>
   <mod>No Mod</mod>
   <map>Crossfire</map>
@@ -6005,7 +6005,7 @@
   <location>BackAlley, Mid, Stretch</location>
 </entry>
 <entry id="460">
-  <weapons>Ak47u, Grenade, Deagle</weapons>
+  <weapons>Ak74u, Grenade, Deagle</weapons>
   <camo>Default, Gold</camo>
   <mod>No Mod</mod>
   <map>Strike</map>
@@ -6876,7 +6876,7 @@
   <location>Construction</location>
 </entry>
 <entry id="527">
-  <weapons>Ak47u, Deagle</weapons>
+  <weapons>Ak74u, Deagle</weapons>
   <camo>Default</camo>
   <mod>No Mod</mod>
   <map>Crossfire</map>
@@ -7747,7 +7747,7 @@
   <location>Dark</location>
 </entry>
 <entry id="594">
-  <weapons>Ak47u, Deagle</weapons>
+  <weapons>Ak74u, Deagle</weapons>
   <camo>Default</camo>
   <mod>No Mod</mod>
   <map>Crash</map>
@@ -7929,7 +7929,7 @@
   <location>BackAlley</location>
 </entry>
 <entry id="608">
-  <weapons>Ak47u, Deagle, Grenade, Ak47</weapons>
+  <weapons>Ak74u, Deagle, Grenade, Ak47</weapons>
   <camo>Default</camo>
   <mod>No Mod</mod>
   <map>District</map>
